@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Hundreds of papers on job scheduling for distributed systems are published every year and it becomes increasingly difficult to classify them. Our analysis revealed that half of these papers are barely cited. This paper presents a general taxonomy for scheduling problems and solutions in distributed systems. This taxonomy was used to classify and make publicly available the classification of 109 scheduling problems and their solutions. These 109 problems were further clustered into ten groups based on the features of the taxonomy. The proposed taxonomy will facilitate researchers to build on prior art, increase new research visibility, and minimize redundant effort.

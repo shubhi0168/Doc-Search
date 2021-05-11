@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Contests are one of the best ways to teach. It serves as a gamification of the learning process. In the cyber security field there are two additional unique obstacles: the first is that we don't want to teach criminal activities and the second is that we actually don't really know what the future cyber world will actually need. Both this problems are solved by asking to solve hard out-of-the-box computer programming tasks that are correlated to the current cyber security techniques.

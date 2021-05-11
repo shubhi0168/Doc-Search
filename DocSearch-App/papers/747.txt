@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Based on comprehensive analysis of the structure and the potential safety problem of oil and gas SCADA(Supervisor control and data acquisition) network, aiming at the shortcomings of traditional evaluation methods, combining factor state space and fuzzy comprehensive evaluation method, a new network security risk evaluation method of oil and gas SCADA is proposed. First of all, formal description of factor state space and its complete mathematical definition were presented; secondly, factor fuzzy evaluation steps were discussed; then, using analytic hierarchy method, evaluation index system for oil and gas SCADA system was established, the index weights of all factors were determined by two-two comparisons; structure design of three layers in reasoning machine was completed. Experiments and tests show that the proposed method is accurate, reliable and practical. Research results provide the template and the new method for the other industries. (C) 2015 Elsevier Ltd. All rights reserved.

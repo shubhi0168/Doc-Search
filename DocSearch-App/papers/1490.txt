@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Electronic networks of practice have become a prevalent means for acquiring new knowledge. Knowledge seekers commonly turn to online repositories constructed by these networks to find solutions to domain-specific problems and questions. Yet little is understood about the process by which such knowledge is evaluated and adopted by knowledge seekers. This study examines how individuals filter knowledge encountered in online forums, a common platform for knowledge exchange in an electronic network of practice. Drawing on dual process theory, we develop research hypotheses regarding both central and peripheral evaluation of knowledge. These hypotheses are examined in a field experiment in which participants evaluate online solutions for computer programming problems. Results show that peripheral cues (source expertise and validation) have a greater influence on knowledge filtering decisions than does the content quality of the solution. Moreover, elaboration increases the effect of content quality but does not seem to attenuate the effect of peripheral cues. Implications for research and practice are discussed.

@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Despite the huge amount of work devoted to the treatment of time within the relational context, few relevant temporal phenomena still remain to be addressed. One of them is the treatment of "nearly periodic events", i.e., events/facts that occur in intervals of time which repeat periodically (e.g., a meeting occurring twice each Monday, possibly not at regular times). Nearly periodic events are quite frequent in everyday life, and thus in many applicative contexts. Their treatment within the relational model is quite challenging, since it involves the integrated treatment of three aspects: (i) the number of repetitions, (ii) their periodicity, and (iii) temporal indeterminacy. Coping with this problem requires an in-depth extension of current temporal relational database techniques. In this paper, we introduce a new data model, and new definitions of relational algebraic operators coping with the above issues. We ascertain the properties of the new model and algebra, with emphasis on the expressiveness of our representation model, on the reducibility property, and on the correctness of the algebraic operators.

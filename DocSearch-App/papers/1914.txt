@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Image registration deals with establishing correspondences between images of the same scene or object. An image registration algorithm should handle the variations introduced by the imaging system capturing the scene. Scale Invariant Feature Transform (SIFT) is an image registration algorithm based on local features in an image. Compared to the previous registration algorithms, SIFT is more robust to variations caused by changes in size, illumination, rotation, and viewpoint of the images. Owing to its performance, the algorithm is widely studied, modified, and successfully applied in many image and video based applications, in the domains such as medicine, industry, and defense. This paper is an outcome of extensive study on the state-of-art image registration algorithms based on SIFT. Around 20 algorithms based on the SIFT algorithm is discussed. A classification is made based on the objective with which the basic algorithm is modified. A comparative study on the performance, methodology of each technique is presented along with their applicability to various image processing applications and domains.

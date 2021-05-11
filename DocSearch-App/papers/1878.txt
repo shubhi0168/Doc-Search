@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Hybrid model between perceived risk and entrepreneurial opportunity is introduced in the Entrepreneurship recognition model in the paper, and the linear regression algorithm is introduced in the analysis of correlation deviation. The error model based on neural network algorithm design, and the algorithm was realized by Matlab toolbox. The error analysis of convergence curve is obtained by Matlab visualized analysis, it can be seen that the linear regression analysis precision is higher in the hybrid recognition between perceived risk and entrepreneurial opportunity in the curve. The relevance of the entrepreneurial opportunities and the perceived risk is obtained by significance test, it is found eventually that related factors relationship between entrepreneurs entrepreneurial opportunity recognition and the perceived risk is significant.

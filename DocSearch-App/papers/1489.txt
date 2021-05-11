@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Electronic countermeasure (ECM) attack has been an emerging threat to radar network in recent years. It is necessary to design a secured radar network against ECM attack. In this paper, we prove that the radar network with conventional measurement fusion schemes is insecure to deceptive ECM (DECM) attack. Then, a new measurement fusion scheme is proposed, which shows better security performance when DECM attack happens. Numerical simulations are presented to demonstrate the effectiveness of the proposed measurement fusion scheme. Copyright (C) 2016 John Wiley & Sons, Ltd.

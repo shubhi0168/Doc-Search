@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Empirical studies in software reliability have predominantly focused on end-user applications. Given the intrinsic dependency of user programs on the operating system (OS) software, OS failures can severely impact even the most reliable applications. Therefore, it is a major requirement to understand how OS failures occur in order to improve software reliability as a whole. In this paper, we present an exploratory study on OS failure causes, based on 7,007 real failure records collected from different computers running a mass-market operating system. We performed quantitative and qualitative analyses to investigate different properties of the OS failures analyzed. The findings indicate that OS services failed more than any other OS failure category. Empirical evidences confirmed the presence of failure correlation in the sample, where both cross-correlation and autocorrelation were found; in particular, causal relationship between different operating system failures was observed.

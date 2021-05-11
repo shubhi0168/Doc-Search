@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Asynchronous tasks in programming are those tasks executed free of context of the main task. Therefore asynchronous tasks are methods implemented in a non-blocking style, permitting the main method to continue running. Functional programming is a programming style to express the hierarchy and components of computer code. In this style calculations are treated similarly to treating computations of functions in mathematics. Hence memory-states and modifiable data structures are not needed. Functional programming can be introduced as a declarative style of coding in the sense that expressions replace programs. On a functional object-oriented model, this paper presents an accurate type system for asynchronous operations. The job of the type system is to stop undefined functions from execution and hence from aborting programs. In other words, the type system ensures soundness of data types and hence avoiding static errors like field-not-defined and method-not-defined from occurring at execution time. The paper introduces as well a programming example for the proposed system.

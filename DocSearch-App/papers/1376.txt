@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Division is one of the most important basic arithmetic operations, especially in areas such as computer graphics and digital signal processing. However, it is also the most difficult to implement in hardware. Several architectures and algorithms have been researched but either the implementation has a high complexity, or there is a sacrifice in speed or precision. In this work, a decimal fixed-point division with great simplicity in structure and a high degree of speed and precision is presented. The architecture is based on a successive approximation register and results have been validated experimentally on a motor control drive. The proposed implementation will be useful for future researchers seeking a fast and precise division methodology with a low-complexity hardware structure.

@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Due to increase of unstructured data most of the companies now shifting towards NoSQL, but still most of the data is perfectly relational. Till date the modeling of various software functionality can only be efficiently done using relational databases. Storing different parts of data in SQL and NoSQL is very cumbersome and requires lot of manual work to manage multiple data sources. Hence, a theoretical framework is discussed to bridge this gap between two technology through an abstraction layer.

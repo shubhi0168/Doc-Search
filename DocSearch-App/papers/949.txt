@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Combined cycle power plants (CCPPs) are in operation with diverse thermodynamic cycle configurations. Assortment of thermodynamic cycle for scrupulous locality is dependent on the type of fuel available and different utilities obtained from the plant. In the present paper, seven of the practically applicable configurations of CCPP are taken into consideration. Exergetic and energetic analysis of each component of the seven configurations is conducted with the help of computer programming tool, i.e., engineering equation solver (EES) at different pressure ratios. For Case 7, the effects of pressure ratio, turbine inlet temperature and ambient relative humidity on the first and second law is studied. The thermodynamics analysis indicates that the exergy destruction in various components of the combined cycle is significantly affected by the overall pressure ratio, turbine inlet temperature and pressure loss in air filter and less affected by the ambient relative humidity.

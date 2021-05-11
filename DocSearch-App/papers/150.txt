@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+A portable real-time facial recognition system that is able to play personalized music based on the identified person's preferences was developed. The system is called Portable Facial Recognition Jukebox Using Fisherfaces (FRJ). Raspberry Pi was used as the hardware platform for its relatively low cost and ease of use. This system uses the OpenCV open source library to implement the computer vision Fisherfaces facial recognition algorithms, and uses the Simple DirectMedia Layer (SDL) library for playing the sound files. FRJ is crossplatform and can run on both Windows and Linux operating systems. The source code was written in C++. The accuracy of the recognition program can reach up to 90% under controlled lighting and distance conditions. The user is able to train up to 6 different people (as many as will fit in the GUI). When implemented on a Raspberry Pi, the system is able to go from image capture to facial recognition in an average time of 200ms.

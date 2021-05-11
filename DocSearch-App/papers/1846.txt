@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Honeypots and honeynets are popular tools in the area of network security and network forensics. The deployment and usage of these tools are influenced by a number of technical and legal issues, which need to be carefully considered. In this paper, we outline the privacy issues of honeypots and honeynets with respect to their technical aspects. The paper discusses the legal framework of privacy and legal grounds to data processing. We also discuss the IP address, because by EU law, it is considered personal data. The analysis of legal issues is based on EU law and is supported by discussions on privacy and related issues.

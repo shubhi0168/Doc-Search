@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Current day networks operate on multiple hardware devices assisted by numerous numbers of operating systems. Systems may have vulnerabilities. These are explored and then exploited. Among the overall malicious activity countries, India ranked third after US and China. This paper has made an attempt to explore possibility of quantifying various probabilities. Cyber system can be modeled in different ways. There are various attack vectors that make cyber network vulnerable. A compromised employee is an insider to any network and contributes significantly to the network vulnerability. Keeping in mind various random variables that affect the safety of Cyber Random Space, there may be a need to quantify the probability associated with different cyber exploitation related activities.

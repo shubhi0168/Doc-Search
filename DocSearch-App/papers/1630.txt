@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Flood modeling and forecasting using hydraulic models are computationally expensive for high-resolution, large-scale problems. With the advent of high-performance computing, numerical models can obtain promising speedup using parallel computing resources. In this paper, an message passing interface (MPI)-based parallel shallow-water flow solver using the discontinuous Galerkin method is presented. Parallelization is implemented with static domain decomposition using the single program-multiple data design. Data transfer between subdomains are achieved using the MPI implementation. The parallel solver is tested using idealized dam-break tests and field tests, for both fully wet and partially wet domains. The performance of parallel speedup and efficiency are compared for different mesh resolution and cluster architecture. A statistical index (maximum ratio of halo cells to total number of elements) is introduced to evaluate the parallel efficiency and performance, and this index can be used as a guide to choose the number of cores in applications. (C) 2016 American Society of Civil Engineers.

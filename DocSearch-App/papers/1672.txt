@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Formal verification plays a crucial role when dealing with correctness of systems. In a previous work, the authors proposed a class of models, the Unary Resource Description Framework Petri Nets (U-RDF-PN), which integrated Petri nets and (RDF-based) semantic information. The work also proposed a model checking approach for the analysis of system behavioural properties that made use of the net reachability graph. Computing such a graph, specially when dealing with high-level structures as RDF graphs, is a very expensive task that must be considered. This paper describes the development of a parallel solution for the computation of the reachability graph of U-RDF-PN models. Besides that, the paper presents some experimental results when the tool was deployed in cluster and cloud frameworks. The results not only show the improvement in the total time required for computing the graph, but also the high scalability of the solution, which make it very useful thanks to the current (and future) availability of cloud infrastructures. Copyright (C) 2016 John Wiley & Sons, Ltd.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+As a preprocessing step for computer vision tasks, research on generating superpixels of an image has been widely conducted recently. In this paper, we propose a fully automatic superpixel generation algorithm by simplifying the 3D triangle mesh modeled from a 2D input image. The simplification is performed based on a modified quadric error metric (QEM) method. The pipeline of our algorithm is simple. Given an image, we first turn it into a 2D triangle mesh and then lift the mesh to 3D based on the gray values of the image. We then simplify the 3D mesh based on the modified QEM method which encodes the features in the image intrinsically to ensure feature-aware superpixels. After obtaining the simplified mesh, we map it back to the 2D image to generate triangular-shaped superpixels. Our algorithm is fully automatic. The number of superpixels can be controlled intuitively. Experimental results demonstrate the effectiveness of our approach.

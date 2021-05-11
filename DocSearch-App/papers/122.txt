@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+A new scanning system named "Vertex picker" has been developed to rapid collect alpha decay events, which are calibration sources for the range-energy relation in nuclear emulsion. A computer-controlled optical microscope scans emulsion layers exhaustively, and a high-speed and high-resolution camera takes their micrographs. A dedicated image processing picks out vertex-like shapes. Practical operations of alpha decay search were demonstrated by emulsion sheets of the ICEK-PS E373 experiment. Alpha decays of nearly 28 events were detected in eye-check work on a PC monitor per hour. This yield is nearly 20 times more effective than that by the conventional eye-scan method. The speed and quality is acceptable for the coming new experiment, J-PARC E07.

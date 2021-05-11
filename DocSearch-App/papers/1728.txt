@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Generating synthetically mixed data from library spectra provides a direct means to train empirical regression models for subpixel mapping. In order to best represent the subpixel composition of image data, the generation of synthetic mixtures must incorporate a multitude of mixing possibilities. This can lead to an excessive amount of training samples. We show that increasing mixing complexity in the training set improves model performance when quantifying urban land cover with support vector regression (SVR). To cope with the challenging increase in the number of training samples, we propose the use of ensemble learning based on bootstrap aggregation from synthetically mixed training data. The workflow is tested on simulated spaceborne imaging spectrometer data acquired over Berlin, Germany. Comparisons to SVR without bagging and multiple endmember spectral mixture analysis reveal the usefulness of the methodology for quantitative urban mapping.

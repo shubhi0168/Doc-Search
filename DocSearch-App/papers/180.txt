@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A seamless and secure handover is always one of the important design goals of the cellular networks. The handover scheme of 4G Long Term Evolution (LTE) wireless networks is complex due to the presence of two possible different types of base stations. In LTE communication systems, a normal base station is referred to as an eNodeB (eNB). What increases the level of complexity of the system is the fact that the other kind of base stations, namely, Home eNodeB (HeNB), cannot directly communicate with eNB. In the LTE networks, the handover scenarios involving a HeNB could result in a complicated handover procedure. Besides, since key chains have been used in the handover processes, it is found to be lack of backward security. Therefore, in order to handle the handover involving a HeNB efficiently with security provisioning, in this paper, a proxy signature based handover scheme is proposed. The proposed scheme works based on the Elliptic Curve Cryptography (ECC) algorithm, which makes the computational cost of the handover process smaller compared to other handover schemes.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Hadoop has become a widely used open source framework for large scale data processing. MapReduce is the core component of Hadoop. It is this programming paradigm that allows for massive scalability across hundreds or thousands of servers in a Hadoop cluster. It allows processing of extremely large video files or image files on data nodes. This can be used for implementing Content Based Image Retrieval (CBIR) algorithms on Hadoop to compare and match query images to the previously stored terabytes of an image descriptors databases. This work presents the implementation for one of the well-known CBIR algorithms called Scale Invariant Feature Transformation (SIFT) for image features extraction and matching using Hadoop platform. It gives focus on utilizing the parallelization capabilities of Hadoop MapReduce to enhance the CBIR performance and decrease data input\output operations through leveraging Partitioners and Combiners. Additionally, image processing and computer vision tools such as Hadoop Image Processing (HIPI) and Open Computer Vision (OpenCV) are integration is shown.

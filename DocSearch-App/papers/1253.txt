@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Deep learning has been the most popular feature learning method used for a variety of computer vision applications in the past 3 years. Not surprisingly, this technique, especially the convolutional neural networks (ConvNets) structure, is exploited to identify the human actions, achieving great success. Most algorithms in existence directly adopt the basic ConvNets structure, which works pretty well in the ideal situation, e.g., under stable lighting conditions. However, its performance degrades significantly when the intra-variation in relation to image appearance occurs within the same category. To solve this problem, we propose a new method, integrating the semantically meaningful attributes into deep learning's hierarchical structure. Basically, the idea is to add simple yet effective attributes to the category level of ConvNets such that the attribute information is able to drive the learning procedure. The experimental results based on three popular action recognition databases show that the embedding of auxiliary multiple attributes into the deep learning framework improves the classification accuracy significantly.

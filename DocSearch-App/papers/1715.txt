@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Gaussian noise is an important problem in computer vision. The novel methods that become popular in recent years for Gaussian noise reduction are Bayesian techniques in wavelet domain. In wavelet domain, the Bayesian techniques require a prior distribution of wavelet coefficients. In general case, the wavelet coefficients might be better modeled by non-Gaussian density such as Laplacian, two-sided gamma, and Pearson type VII densities. However, statistical analysis of textural image is Gaussian model. So, we require flexible model between non-Gaussian and Gaussian models. Indeed, Gumbel density is a suitable model. So, we present new Bayesian estimator for Gumbel random vectors in AWGN (additive white Gaussian noise). The proposed method is applied to dual-tree complex wavelet transform (DT-CWT) as well as orthogonal discrete wavelet transform (DWT). The simulation results show that our proposed methods outperform the state-of-the-art methods qualitatively and quantitatively.

@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Consumers want to ensure that their enterprise data is stored securely and obliviously on the cloud, such that the data objects or their access patterns are not revealed to anyone, including the cloud provider, in the public cloud environment. We have created a detailed ontology describing the oblivious cloud storage models and role based access controls that should be in place to manage this risk. We have developed an algorithm to store cloud data using oblivious data structure defined in this paper. We have also implemented the ObliviCloudManager application that allows users to manage their cloud data by validating it before storing it in an oblivious data structure. Our application uses role-based access control model and collection based document management to store and retrieve data efficiently. Cloud consumers can use our system to define policies for storing data obliviously and manage storage on untrusted cloud platforms even if they are unfamiliar with the underlying technology and concepts of oblivious data structures.

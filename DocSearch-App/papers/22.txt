@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+A basic question in computational geometry is how to find the relationship between a set of points and a line in a real plane. In this paper, we present multidimensional data structures for N points that allow answering the following queries for any given input line: (1) estimate in O (log N) time the number of points below the line; (2) return in O (log N + k) time the k <= N points that are below the line; and (3) return in O (log N) time the point that is closest to the line. We illustrate the utility of this computational question with GIS applications in air defense and traffic control.

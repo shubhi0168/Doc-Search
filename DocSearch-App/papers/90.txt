@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+A methodology is presented for obtaining and processing data from the Web of Science (WoS) for bibliometric purposes. The R statistical software is used as a tool for creating functions that facilitate bibliometric work. In addition, a relational database was created that enhances both data management and the generation of bibliometric indicators.

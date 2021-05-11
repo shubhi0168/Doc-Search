@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Associated with the prime number p = 3, a combined model of generalized bilinear Kadomtsev-Petviashvili and Boussinesq equation (gbKPB for short) in terms of the function f is proposed, which involves four arbitrary coefficients. To guarantee the existence of lump solutions, a constraint among these four coefficients is presented firstly, and then, the lump solutions are constructed and classified via searching for positive quadratic function solutions to the gbKPB equation. Different conditions posed on lump parameters are investigated to keep the analyticity and rational localization of the resulting solutions. Finally, 3-dimensional plots, density plots and 2-dimensional curves with particular choices of the involved parameters are given to show the profile characteristics of the presented lump solutions for the potential function u = 2(lnf)(x)

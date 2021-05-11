@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+3D Model Reconstruction is of the most important part in the field of Reverse Engineering. It has now become feasible to use this method to create a 3D model of existing product, component for CAD/CAM applications. Various phases of reverse engineering and 3D reconstruction are reviewed in details along the methodology involved within these stages. Data acquisition is the most crucial stage of 3d model reconstruction. Non touch and touch techniques of data acquisition are studied giving comparative advantages and disadvantages over each other. Face based and Edge based techniques are reviewed for segmentation of acquired data. The collected point data is obtained in Stereo Lithography (STL) format which is most popular in field of modern computer science. This collected data can be used to construct surfaces using modern CAD systems like CATIA, Pro/E etc. This paper also reviews some of the researches in the field of Reverse Engineering, The methods they implemented and their outcome and various technologies used with their limitations. It reviews latest advancement in the field of 3d Model Reconstruction.

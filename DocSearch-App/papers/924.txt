@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Cluster, consisting of a group of computers, is to act as a whole system to provide users with computer resources. Each computer is a node of this cluster. Cluster computer refers to a system consisting of a complete set of computers connected to each other. With the rapid development of computer technology, cluster computing technique with high performance-cost ratio has been widely applied in distributed parallel computing. For the large-scale close data in group enterprise, a heterogeneous data integration model was built under cluster environment based on cluster computing, XML technology and ontology theory. Such model could provide users unified and transparent access interfaces. Based on cluster computing, the work has solved the heterogeneous data integration problems by means of Ontology and XML technology. Furthermore, good application effect has been achieved compared with traditional data integration model. Furthermore, it was proved that this model improved the computing capacity of system, with high performance-cost ratio. Thus, it is hoped to provide support for decision-making of enterprise managers.

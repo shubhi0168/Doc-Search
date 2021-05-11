@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+From a geoinformation science perspective real estate portals apply non-spatial methods to analyse and visualise rental price data. Their approach shows considerable shortcomings. Portal operators neglect real estate agents' mantra that exactly three things are important in real estates: location, location and location (Stroisch, 2010). Although real estate portals retacord the spatial reference of their listed apartments, geocoded address data is used insufficiently for analyses and visualisation, and in many cases the data is just used to "pin" map the listings. To date geoinformation science, spatial statistics and geovisualization play a minor role for real estate portals in analysing and visualising their housing data. This contribution discusses the analytical and geovisual status quo of real estate portals and addresses the most serious deficits of the employed non-spatial methods. Alternative analysing approaches from geostatistics, machine learning and geovisualization demonstrate potentials to optimise real estate portals' analysing and visualisation capacities.

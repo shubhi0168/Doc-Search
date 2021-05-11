@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Full implementation of the Semantic Web requires widespread availability of (fuzzy) ontologies. In this paper, we develop a complete approach and an automated tool for formalizing fuzzy object-oriented database (FOOD) models using fuzzy ontologies (i.e., constructing fuzzy ontologies from FOOD models), and investigate how to apply the constructed fuzzy ontologies to reason on FOOD models. Firstly, we propose a complete formal definition of FOOD models, which considers most features of FOOD models. On this basis, we propose an approach for constructing fuzzy ontologies from FOOD models. The approach can transform FOOD models (including schema and object instance information) into fuzzy ontologies. We also give full proof of correctness of the construction approach, and provide a full construction example. Furthermore, we implement a prototype tool called FOOD2FOnto, which can automatically construct fuzzy ontologies from FOOD models. Some tests demonstrate that our approach actually works. Finally, the constructed fuzzy ontologies are used to reason on the FOOD models, and some reasoning rules and a reasoning example are provided.

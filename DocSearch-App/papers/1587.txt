@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Failure instances in distributed computing systems (DCSs) have exhibited temporal and spatial correlations, where a single failure instance can trigger a set of failure instances simultaneously or successively within a short time interval. In this work, we propose a correlated failure prediction approach (CFPA) to predict correlated failures of computing elements in DCSs. The approach models correlated-failure patterns using the concept of probabilistic shared risk groups and makes a prediction for correlated failures by exploiting an association rule mining approach in a parallel way. We conduct extensive experiments to evaluate the feasibility and effectiveness of CFPA using both failure traces from Los Alamos National Lab and simulated datasets. The experimental results show that the proposed approach outperforms other approaches in both the failure prediction performance and the execution time, and can potentially provide better prediction performance in a larger system.

@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Context With the increasing popularity of the Systematic Literature Review (SLR) process, there is also an increasing need for tool support. Objective:The goal of this work was to consult the software engineering researchers who conduct SLRs to identify and prioritize the necessary SLR tool features. Method: To gather information required to address this goal, we invited SLR authors to participate in an interactive 2 h workshop structured around the Nominal Group Technique. Results: The workshop outcomes indicated that Search & Selection and Collaboration are the two highest priority tool features. The results also showed that most of the high-priority features are not well-supported in current tools. Conclusion: These results support and extend the results of prior work. SLR tool authors can use these findings to guide future development efforts. (C) 2015 Elsevier B.V. All rights reserved.

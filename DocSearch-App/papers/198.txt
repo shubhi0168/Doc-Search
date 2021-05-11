@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+A street lighting system designed with features to detect critical functional problems using data fusion concepts is presented. With measurements of rms voltage, active power and power factor, an intelligent algorithm is capable of define some system anomalies: failed lamps, power line theft, high and low voltage, and low power factor, this besides the typical measurements of power consumption. The algorithm is based on statistical inference and fuzzy logic to achieve fusion of measured data with the capability of adjusting the membership functions for different street lighting systems ( different number of lamps and power consumption). The system with the above mentioned faults was simulated with the Monte Carlo method before its implementation in two real street lighting systems. The algorithm was implemented in a microcomputer Raspberry Pi B+ in Python language including tele-management capabilities. The algorithm design aspects, its implementation, and the comparison of simulated versus real measured values are presented.

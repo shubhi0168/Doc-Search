@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Computational topology is a vibrant contemporary subfield and this article integrates knot theory and mathematical visualization. Previous work on computer graphics developed a sequence of smooth knots that were shown to converge point wise to a piecewise linear (PL) approximant. This is extended to isotopic convergence, with that discovery aided by computational experiments. Sufficient conditions to attain isotopic equivalence can be determined a priori. These sufficient conditions need not be tight bounds, providing opportunities for further optimizations. The results presented will facilitate further computational experiments on the theory of PL knots (also known as stick knots), where this theory is less mature than for smooth knots. (C) 2016 Elsevier B.V. All rights reserved.

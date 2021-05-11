@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming is essential in engineering education. We are developing a programming education support tool pgtracer in order to facilitate learning process of computer programming. Pgtracer utilizes fill-in-the-blank question composed of a pair of a source program and a trace table. We propose a set of feedback functions for the students in this paper. Pgtracer automatically collects learning log of the students when they fill a blank. The feedback functions provide various analysis result of the collected log so that students can easily understand their achievement level and weak points. Many students highly appreciate the feedback functions through an experimental evaluation of the functions.

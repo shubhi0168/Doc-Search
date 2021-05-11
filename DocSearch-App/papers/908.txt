@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Cloud computing is proven service delivery model over the internet. Network play's an important role during this service provisioning but Cloud network have major security issue during service delivery. Network security and reliability achieve together is much more difficult task. Now a day cloud traditional network is replaced by the programmable and unified software defined network which have separate control plane and data plane for managing network traffic. SDN have capability to reduce cost of networking device using network virtualization which have facilitate to hardware and software virtualization using NFV(Network Function Virtualization). SDN and NFV integration in cloud computing give power of virtualization and improve network security and service. So in this paper we can describe SDN and NFV and how both are integrate in Openstack cloud to minimize network attack surface, improve network service and provide some salient advantage of SDN.

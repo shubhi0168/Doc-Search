@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Double absorption heat transformer (DAHT) is a promising device in reducing the use of fossil fuels since it can utilize renewable sources or waste heat to provide high temperature energy. The absorber evaporator is an important component in the DAHT system, and there exists an optimum absorber evaporator temperature (OAET) at which the maximum coefficient of performance (COP) and exergy efficiency (ECOP) can be obtained simultaneously. In this paper, an optimization study is carried out by means of a parametric analysis, using a mathematical model developed in the software Engineering Equation Solver. The effects of the operating parameters such as the absorber, condenser, evaporator and generator temperatures and design parameters including the first and second economizer efficiencies on the OAET and corresponding maximum COP and ECOP have been analyzed in detail. Besides, some suggestions derived from the results are also given. (C) 2016 Elsevier Ltd. All rights reserved.

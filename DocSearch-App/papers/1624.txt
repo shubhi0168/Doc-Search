@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Fixed placements of inertial sensors have been utilized by previous human activity recognition algorithms to train the classifier. However, the distribution of sensor data is seriously affected by the sensor placement. The performance will be degraded when the model trained on one placement is used in others. In order to tackle this problem, a fast and robust human activity recognition model called TransM-RKELM (Transfer learning mixed and reduced kernel Extreme Learning Machine) is proposed in this paper; It uses a kernel fusion method to reduce the influence by the'choice of kernel function and the reduced kernel is utilized to reduce the computational cost. After realizing initial activity recognition model by mixed and reduced kernel extreme learning model (M-RKELM), in the online phase M-RKELM is utilized to classify the activity and adapt the model to new locations based on high confident recognition results in real time. Experimental results show that the proposed model can adapt the classifier to new sensor locations quickly and obtain good recognition performance. (C) 2017 Elsevier B.V. All rights reserved.

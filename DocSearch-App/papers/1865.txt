@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Human activity recognition (HAR) is an important research area in computer vision due to its vast range of applications. Specifically, the past decade has witnessed enormous growth in its applications, such as Human Computer Interaction, intelligent video surveillance, ambient assisted living, entertainment, human-robot interaction, and intelligent transportation systems. This review paper provides a comprehensive state-of-the-art survey of different phases of HAR. Techniques related to segmentation of the image into physical objects, feature extraction, and activity classification are thoroughly reviewed and compared. Finally, the paper is concluded with research challenges and future directions.

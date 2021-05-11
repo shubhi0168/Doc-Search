@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+An accurate algorithm for three-dimensional (3-D) pose recognition of a rigid object is presented. The algorithm is based on adaptive template matched filtering and local search optimization. When a scene image is captured, a bank of correlation filters is constructed to find the best correspondence between the current view of the target in the scene and a target image synthesized by means of computer graphics. The synthetic image is created using a known 3-D model of the target and an iterative procedure based on local search. Computer simulation results obtained with the proposed algorithm in synthetic and real-life scenes are presented and discussed in terms of accuracy of pose recognition in the presence of noise, cluttered background, and occlusion. Experimental results show that our proposal presents high accuracy for 3-D pose estimation using monocular images. (C) 2016 Society of Photo-Optical Instrumentation Engineers (SPIE)

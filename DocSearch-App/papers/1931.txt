@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Improving the safety of transportation systems attracts lots of attention. Researchers introduced their methods to detect and analyze the vehicle and the pedestrian on the road to accomplish this goal. However, the bicycle is also a significant factor of the safety on a road. In this paper, a bicycle detector for side-view image is proposed based on the observation that a bicycle consists of two wheels in the form of ellipse shapes and a frame in the form of two triangles. Through the proposed triangle detection algorithm, the bicycle model and the geometric constraints on the relationship between the triangles and ellipses, the computation is fast according to the sample implementation and the evaluation of the reduced data amount. Besides, the training process is unnecessary and only single image is required for our algorithm. The experimental results are also given in this paper to show the practicability and the performance of the proposed bicycle model and bicycle detection algorithm.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+A number of methods, both algebraic and iterative, have been developed recently for the fitting of concentric circles. Previous studies focus on first-order analysis for performance evaluation, which is appropriate only when the observation noise is small so that the bias is insignificant compared to variance. Further studies indicate that the first-order analysis does not appear sufficient in explaining and predicting the performance of an estimator for the fitting problem, especially when the noise level becomes significant. This paper extends the previous study to perform the second-order analysis and evaluate the estimation bias of several concentric circle estimators. The second-order analysis exposes important characteristics of the estimators that cannot be seen from the first-order studies. The insights gained in the theoretical study have led to the development of a new estimator that is unbiased and performs best among the algebraic solutions. An adjusted maximum likelihood estimator is also proposed that can yield an unbiased estimate while maintaining the KCR bound performance.

@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+An image processing technique using the proper orthogonal decomposition (POD) of infrared thermal data was developed to improve the speed of assessment of 2D heat source fields accompanying mechanical transformation. This method involved the generation of a reduced orthonormal basis to approximate thermal fields prior to heat source estimation. The robustness of the method was first assessed using a penalising benchmark test. This test involved artificially setting several tricky situations that arise in practice (high diffusivity, low signal-to-noise ratio, complex heat source distribution, etc.). Application of the method to several experimental temperature fields obtained by an infrared focal plane array camera is then presented. The error between the POD approximated solution in terms of heat sources and a reference solution, computed via a local least squares fitting method, was found to be negligible, thus confirming the efficiency and advantages of the POD preprocessing technique - the method enabled us to obtain a reliable estimate of heat sources while drastically reducing the computation cost in terms of CPU time.

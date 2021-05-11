@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+A dynamic computer-vision control system incorporating open-source software technologies (Python, OpenCV) was used to automate a gravity based in-line liquid-liquid extraction during the iodination of enaminones in continuous flow. The system was able to cope with significant colouration of the organic reaction stream and with significant volume/flow changes in the aqueous and organic phase streams due to extraction of the water soluble acetonitrile co-solvent. (C) 2017 Elsevier Ltd. All rights reserved.

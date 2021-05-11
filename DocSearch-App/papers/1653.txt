@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+For multi-output Boolean functions (also called S-boxes), various measures of nonlinearity have been widely discussed in the literature but many problems are left open in this topic. The purpose of this paper is to present a new approach to estimating the nonlinearity of S-boxes. A more fine-grained view on the notion of nonlinearity of S-boxes is presented and new connections to some linear codes are established. More precisely, we mainly study the nonlinearity indicator (denoted by N-v) for S-boxes from a coding theory point of view. Such a cryptographic parameter N-v is more related to best affine approximation attacks on stream ciphers. We establish a direct link between Nv and the minimum distance of the corresponding linear code. We exploit that connection to derive the first general lower bounds on N-v of non-affine functions from F(2)n to F(2)m for m dividing n. Furthermore, we show that N-v can be determined directly by the weight distribution of the corresponding linear code.

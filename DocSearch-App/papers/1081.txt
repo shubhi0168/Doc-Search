@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Context switch is an essential feature of modern operating systems. The purpose of context switch is to provide concurrency processing of multiple programs. However, the backup and reload procedures due to context switch are time consuming. In this work, we propose a Racetrack-memory SRAM hybrid (RSH) cell design, which can be used to replace current SRAM cells in caches, to reduce the overhead of context switch. Using RSH reduces the overhead of context switch by 65.2% on average with 34% area overhead, compared with traditional SRAM designs.

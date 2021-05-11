@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Contracts feel misunderstood, especially those with a higher-order soul. While software engineers appreciate contracts as tools for articulating the interface between components, functional programmers desperately search for their types and meaning, completely forgetting about their pragmatics. This gem presents a novel analysis of contract systems. Applied to the higher-order kind, this analysis reveals their large and clearly unappreciated software engineering potential. Three sample applications illustrate where this kind of exploration may lead.

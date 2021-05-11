@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Accurately and reliably tracking the undulatory motion of deformable fish body is of great significance for not only scientific researches but also practical applications such as robot design and computer graphics. However, it remains a challenging task due to severe body deformation, erratic motion and frequent occlusions. This paper proposes a tracking method which is capable of tracking the midlines of multiple fish based on midline evolution and head motion pattern modeling with Long Short-Term Memory (LSTM) networks. The midline and head motion state are predicted using two LSTM networks respectively and the predicted state is associated with detections to estimate the state of each target at each moment. Experiment results show that the system can accurately track midline dynamics of multiple zebrafish even when mutual occlusions occur frequently.

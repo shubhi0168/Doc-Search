@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+An efficient exploitation of Distributed Computing Infrastructures (DCIs) is needed to deal with the data deluge that the scientific community is facing, in particular the Astrophysics one due to the emerging Square Kilometre Array (SKA) telescope that will reach data rates in the exascale domain. Hence, Science Gateways are being enriched with advanced tools that not only enable the scientists to build their experiments but also to optimize their adaptation to different infrastructures. In this work we present a method, called "two-level workflow system", to build this kind of tools and we apply it to a set of analysis tasks of interest for some use applications to the SKA. This method uses the Software-as-a-Service model to keep the scientists insulated from technical complexity of DCIs, and the COMPSs programming model to achieve an efficient use of the computing resources.

@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Dagger is a modeling and visualization framework that addresses the challenge of representing knowledge and information for decision-makers, enabling them to better comprehend the operational context of network security data. It allows users to answer critical questions such as "Given that I care about mission X, is there any reason I should be worried about what is going on in cyberspace?" or "If this system fails, will I still be able to accomplish my mission?"

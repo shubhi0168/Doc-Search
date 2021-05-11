@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+As computer networks are emerging in everyday life, network security has become an important issue. Simultaneously, attacks are becoming more sophisticated, making the defense of computer networks increasingly difficult. Attack graph is a modelling tool used in the assessment of security of enterprise networks. Since its introduction a considerable amount of research effort has been spent in the development of theory and practices around the idea of attack graph. This paper presents a consolidated view of major attack graph generation and analysis techniques.

@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Concerns about human-machine interaction are becoming one of the most important thrusts for the development of innovative and successful products. Interaction design methods and tools are already described in literature and available for designers, and the analysis of their characteristics suggests the synergy with other research fields aimed at developing an interaction design framework as complete as possible. The complementary aspects of the inventive problem solving theory named TRIZ were considered, and the linking was done thanks to the structured approach to information gathering of the house of quality, one of the data structures in the quality function deployment (QFD) design method. The result is the interaction design guidelines (IDGL), a framework implemented in a Microsoft access database that supports designers starting from collecting users' needs up to the generation of design solutions. This paper describes the IDGL development, together with a first adoption in the field and a validation of the process and results.

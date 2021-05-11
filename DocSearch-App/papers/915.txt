@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Cloud environments have become a standard method for enterprises to offer their applications by means of web services, data management systems, or simply renting out computing resources. In our previous work, we presented how we can use a modeling language together with the new features of JAVA 8 to overcome certain drawbacks of data structures and synchronization mechanisms in parallel applications. We extend this solution into a design pattern that allows application-specific optimizations in a distributed setting. We validate this integration using our previous case study of the Prime Sieve of Eratosthenes and illustrate the performance improvements in terms of speed-up and memory consumption. Copyright (c) 2015 John Wiley & Sons, Ltd.

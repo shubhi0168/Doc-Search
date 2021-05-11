@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+Geodynamics simulations are characterized by theological nonlinearity, localization, three-dimensional effects, and separate but interacting length scales. These features represent a challenge for computational science. We discuss how a leading software framework for advanced scientific computing (the Portable Extensible Toolkit for Scientific Computation, PETSc) can facilitate the development of geodynamics simulations. To illustrate our use of PETSc, we describe simulations of (i) steady-state, non-Newtonian passive flow and thermal structure beneath a mid-ocean ridge, (ii) magmatic solitary waves in the mantle, and (iii) the formation of localized bands of high porosity in a two-phase medium being deformed under simple shear. We highlight two supplementary features of PETSc, structured storage of application parameters and self-documenting output, that are especially useful for geodynamics simulations. (c) 2007 Elsevier B.V. All rights reserved.

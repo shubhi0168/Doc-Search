@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+Compound files information hiding technology has become a hot research topic in the field of information security. This paper proposes an information hiding method for compound files based on structured storage. In the method, by employing compound file principle of structured storage and VSTO (Visual Studio Tools for Office) plug-in mechanism, some specific data (including user name, machine name, IP address, date and time etc.) can be stored in MS compound documents and they can not be detected by naked eyes. Experiment results show that the proposed method can store a large amount of data in MS (Microsoft) office files' internal structure with higher efficiency, easier implementation, and fewer time consuming.

@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Cloud computing is a distributed computing paradigm that provides opportunities to solve large scale problems. Resource provisioning and pay per use are the main advantage of moving towards cloud. Even though there are many workflow scheduling algorithms available, all these cannot be applied in cloud since they fail to incorporate the elasticity and heterogeneity in cloud. In this paper, the cloud workflow scheduling problem is modeled considering make span and deadline as two objectives. Hybrid algorithm of Particle swarm optimization(PSO) and Memetic algorithm (MA) called Particle Swarm Memetic Algorithm(PSMA) is proposed. The heuristic is tested on several well known scientific workflows. The results obtained shows that PSMA performs better than other state of art algorithms.

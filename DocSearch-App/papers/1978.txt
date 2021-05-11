@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+In context-aware mobile systems, data on past user behaviour or use of a device can give critical information. The scale of this data may be large, and it must be quickly searched and retrieved. Compression is a powerful tool for both storing and indexing data. For text documents powerful algorithms using structured storage achieve high compression and rapid search and retrieval. Byte-stream techniques provide higher compression, but lack indexation and have slow retrieval. Location is a common form of context frequently used in research prototypes of tourist guide systems, location-aware searching and adaptive hypermedia. In this paper, we present an exploration of record-based compression of Global Positioning System (CPS) data that reveals significant technical limitations on what can be achieved on mobile devices, and a discussion of the benefits of different compression techniques on CPS data.

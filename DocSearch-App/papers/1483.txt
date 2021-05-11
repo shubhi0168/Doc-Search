@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+EGFR-mutated NSCLC is a genetically heterogeneous disease that includes more than 200 distinct mutations. The implications of mutational subtype for both prognostic and predictive value are being increasingly understood. Although the most common EGFR mutations exon 19 deletions or L858R mutations predict sensitivity to EGFR tyrosine kinase inhibitors (TKIs), it is now being recognized that outcomes may be improved in patients with exon 19 deletions. Additionally, 10% of patients will have an uncommon EGFR mutation, and response to EGFR TKI therapy is highly variable depending on the mutation. Given the growing recognition of the genetic and clinical variation seen in this disease, the development of comprehensive bioinformatics-driven tools to both analyze response in uncommon mutation subtypes and inform clinical decision making will be increasingly important. Clinical trials of novel EGFR TKIs should prospectively account for the presence of uncommon mutation subtypes in study design. (C) 2016 International Association for the Study of Lung Cancer. Published by Elsevier Inc. All rights reserved.

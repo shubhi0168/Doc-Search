@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+3D digital visualization technology is a new research field along with the rapid development of computer technology. It is a multi-scale technology which consists of computer graphics, image information processing, computer aided design. This paper is about the research and development of products innovation design method, thereby realize the innovation of product design rapidly. At the same time to verify the feasibility and practicality and broad application prospect of applying 3D scan technology to the rapid development, design and manufacture of products.

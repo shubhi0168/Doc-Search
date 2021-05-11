@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Hill is a classical cipher which is generally believed to be resistant against ciphertext-only attack. In this paper, by using a divide-and-conquer technique, it is first shown that Hill with d x d key matrix over Z(26) can be broken with computational complexity of O (d26(d)), for the English language. This is much less than the only publicly known attack, i.e., the brute-force with complexity of O (d(3)26(d2)). Then by using the Chinese Remainder Theorem, it is shown that the computational complexity of the proposed attack can be reduced down to O (d13(d)). Using an information-theoretic approach, it is shown that the minimum ciphertext length required for a successful attack increases by a factor of about 7 and 9.8, respectively for these two attacks in comparison with the brute-force attack. This is the only serious attack on Hill since its invention in 1929. (C) 2016 Elsevier B.V. All rights reserved.

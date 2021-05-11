@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Funded by the US National Science Foundation, the University of Nebraska-Lincoln has spent the last eight years developing and implementing a comprehensive educational robotics program for youth ages 9-14. The program was delivered in informal (out-of-school) learning environments through robotics camps, clubs, and competitions and provided robotics experiences to over 5000 youth and 400 educators. The goal of the project was to positively impact the youths' science, technology, engineering, and mathematics (STEM) knowledge and attitudes and to foster an interest in STEM careers. Results of extensive research and evaluation showed that youth participation in the robotics activities increased their STEM content knowledge (particularly engineering and computer programming), their perceived problem solving skills and their interest in engineering careers. Youth also perceived that the robotics activities were different from those in school, reporting that the robotics camp was more interesting and involved more hands-on activities. (C) 2015 Elsevier B.V. All rights reserved.

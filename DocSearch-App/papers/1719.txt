@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Gene expression can be quantified in high throughput using microarray technology. Here we describe how to accurately detect differential expression and splicing using a probe-level expression change averaging (PECA) method. PECA is available as an R package from Bioconductor (https://www.bioconductor.org), and it supports multiple operating systems.

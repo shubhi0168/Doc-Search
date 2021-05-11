@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+As with other nature-inspired algorithms, the cuckoo optimization algorithm (COA) produces a population of candidate solutions to find the (near-) optimal solutions to a problem. In this paper, several modifications, including a dynamic mutation operator, are proposed for this algorithm. Design of experiments is employed to determine factors controlling the value of parameters and the target levels of those values to achieve desirable output. The efficiency of the modified COA algorithm is substantiated with the help of several optimization test problems. The results are then compared to other well-known algorithms such as PSO, DE and harmony search using a non-parametric statistical procedure. In order to analyze its effectiveness, the proposed modified COA is applied to a feature selection problem and spacecraft attitude control problem.

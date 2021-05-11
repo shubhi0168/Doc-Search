@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Data warehousing is a traditional domain of relational databases, and there are two main reasons for that: (1) data warehouses mostly are used in enterprises with large-scale data sets created in different legacy systems with relational data storages, (2) though rapidly developing non-relational databases are still rather unusual in data processing tasks. This paper discusses the possibilities to create data warehouse solutions by using NoSQL database management systems. The main challenge is to find a good balance between characteristics of classical data warehouses using relational data base management systems and opportunities offered by NoSQL database management systems. The paper describes processes of creation and production of data warehouse using a NoSQL data mart and outlines requirements for technology necessary for such processes. The research is based on practical experience when implementing NoSQL data marts with MongoDB and Clusterpoint DB. (C) 2017 The Authors. Published by Elsevier B.V.

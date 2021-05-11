@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+An anomaly, or outlier, is an object exhibiting differences that suggest it belongs to an as-yet undefined class or category. Early detection of anomalies often proves of great importance because they may correspond to events such as fraud, spam, or device malfunctions. By automating the creation of a ranking or list of deviations, we can save time and decrease the cognitive overload of the individuals or groups responsible for responding to such events. Over the years many anomaly and outlier metrics have been developed. In this paper we propose a clustering-based score ensembling method for outlier detection. Using benchmark datasets we evaluate quantitatively the robustness and accuracy of different ensemble strategies. We find that ensembling strategies offer only limited value for increasing overall performance, but provide robustness by negating the influence of severely underperforming models. (C) 2017 Elsevier B.V. All rights reserved.

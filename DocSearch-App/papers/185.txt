@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A Shannon cipher system for memoryless sources in which distortion is allowed at the legitimate decoder is considered. The source is compressed using a secured rate distortion code, which satisfies a constraint on the compression rate, as well as a constraint on the exponential rate of the excess-distortion probability at the legitimate decoder. Secrecy is measured by the exponential rate of the exiguous-distortion probability at the eavesdropper, rather than by the traditional measure of equivocation. The perfect-secrecy exponent is defined as the maximal exiguous-distortion exponent achievable when the key rate is unlimited. The reproduction-based estimate exponent is defined as the maximal exiguous-distortion exponent achievable for a genie-aided eavesdropper, which knows the secret key. Under limited key rate, it is proved that the maximal achievable exiguous-distortion exponent is equal to the minimum between the key rate plus the reproduction-based estimate exponent, and the perfect-secrecy exponent. The result is generalized to a fairly general class of variable key-rate and coding-rate codes.

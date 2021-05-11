@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+As a commercial distributed computing mode, cloud computing needs to meet the quality of service (QoS) requirement of users, which is its top priority. However, cloud computing service providers also need to consider how to reduce the overhead of data center, and keep load balancing is one of the key points to maximize the use of the resource in the data center. In this paper, we propose an improved multi-objective niched Pareto genetic algorithm (NPGA) to take load balancing into consideration without affecting performance of time consumption and financial cost of handling the user's cloud computing tasks by presenting the load balancing shift mutation operator. The simulation results and analysis show that the proposed algorithm performs better than NPGA in maintaining the diversity and the distribution of the Pareto-optimal solutions in the cloud tasks scheduling under the same population size and evolution generation.

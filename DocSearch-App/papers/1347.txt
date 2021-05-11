@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Dimension reduction is a crucial technique in machine learning and data mining, which is widely used in areas of medicine, bioinformatics and genetics. In this paper, we propose a two-stage local dimension reduction approach for classification on microarray data. In first stage, a new Li-regularized feature selection method is defined to remove irrelevant and redundant features and to select the important features (biomarkers). In the next stage, PLS-based feature extraction is implemented on the selected features to extract synthesis features that best reflect discriminating characteristics for classification. The suitability of the proposal is demonstrated in an empirical study done with ten widely used microarray datasets, and the results show its effectiveness and competitiveness compared with four state-of-the-art methods. The experimental results on St Jude dataset shows that our method can be effectively applied to microarray data analysis for subtype prediction and the discovery of gene coexpression. (C) 2016 Elsevier Ltd. All rights reserved.

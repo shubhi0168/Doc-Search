@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+General-purpose computing on GPUs (Graphics Processing Units) is emerging as a new paradigm in several fields of science, although so far applications have been tailored to the specific strengths of such devices as accelerator in offline computation. With the steady reduction of GPU latencies, and the increase in link and memory throughput, the use of such devices for real-time applications in high-energy physics data acquisition and trigger systems is becoming ripe. We will discuss the use of online parallel computing on GPU for synchronous low level trigger, focusing on CERN NA62 experiment trigger system. The use of GPU in higher level trigger system is also briefly considered. (C) 2015 Elsevier B.V. All rights reserved.

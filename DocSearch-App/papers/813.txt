@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Braille-character recognition is one of the foundational skills required for teachers of braille. Prior research has evaluated computer programming for teaching braille-to-print letter relations (e.g., Scheithauer & Tiger, 2012). In the current study, we developed a program (the Visual Braille Trainer) to teach not only letters but also numerals, punctuation, symbols, and contractions; we evaluated this program with 4 sighted undergraduate participants. Exposure to this program resulted in mastery of all braille-to-print relations for each participant.

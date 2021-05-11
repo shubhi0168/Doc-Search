@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Aim: A plasmid was isolated from Aeromonas dhakensis strain F2S2-1 to understand their function in the host. The main objective of the study was to isolate and sequence the plasmid, predict genes and proteins encoded and to experimentally prove their biochemical function. Methodology: The Aeromonas dhakensis strain F2S2-1 plasmid was sequenced by Next Generation Sequencing (NGS) on Illumina Miseq platform. Bioinformatics analysis was carried out to predict the putative gene and encoded protein functions. The NspV like endonuclease was recombinantly expressed in Escherichia coli, partially purified and characterized for activity on plasmid substrates. Results: Plasmid sequencing and bioinformatics analysis predicted the presence of NspV like endonuclease.Recombinant expression, purification and characterization of NspV like endonuclease revealed the Nicking endonuclease activity of the protein with plasmid substrates. Interpretation: The NspV like endonuclease described in this study has DNA nicking activity. this study would help in understanding better survival of Aeromonas sp. in its ecosystem and the role of host plamids.

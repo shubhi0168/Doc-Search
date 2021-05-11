@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Existing network security technology may not against most of intrusion so that we need to study intrusion tolerance technology. On the basis of existing model of intrusion tolerance, we putted forward an optimization of finite automata state transition model in intrusion tolerance system by adding strategy and updating status. Since the conversion process between the states of the model meets Semi-Markov theory, therefore, the model can be used to quantify this theory; it gives calculation process of the steady probability by each state. By stabilizing the probabilistic analysis of each state, provide theoretical guidance and basis for network management personnel to better maintain network security. Proven, the Semi-Markov applied to finite automata intrusion tolerant system is feasible, effective, and has simple features.

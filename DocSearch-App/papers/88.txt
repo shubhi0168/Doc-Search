@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+A method to visualize polytopes in a four-dimensional euclidian space (x, y, z, w) is proposed. A polytope is sliced by multiple hyperplanes that are parallel to each other and separated by uniform intervals. Since the hyperplanes are perpendicular to the w-axis, the resulting multiple slices appear in the three-dimensional (x, y, z) space and they are shown by the standard computer graphics. The polytope is rotated extrinsically in the four-dimensional space by means of a simple input method based on keyboard typings. The multiple slices are placed on a parabola curve in the three-dimensional world coordinates. The slices in a view window form an oval appearance. Both the simple and the double rotations in the four-dimensional space are applied to the polytope. All slices synchronously change their shapes when a rotation is applied to the polytope. The compact display in the oval of many slices with the help of quick rotations facilitate a grasp of the four-dimensional configuration of the polytope.

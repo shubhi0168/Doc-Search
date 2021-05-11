@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+An important factor underlying the entire EUD enterprise is how to incorporate basic computer programming in school curricula. Rapidly increasing initiatives towards this goal have typically explored two kinds of abilities associated with learning how to program: logical problem solving and digital (multimedia) storytelling. In this paper we report on an exploratory qualitative study with a group of middle school children from a one-semester computational thinking acquisition class. We combined three technologies with which participants: (i) created a game; (ii) explored the representation of implicit and explicit meanings in their game; and (iii) created a scripted asynchronous Web-based conversation with their teacher about their game. We concluded that this combination can not only introduce new forms of 1st-person expression through software in basic education, but also and more importantly give teachers and learners a lead into program reflection, one of the most powerful concepts in programming and computing.

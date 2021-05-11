@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Application integration (AI) is the process of creating impartially designed application systems that operate collectively. On the whole, integration is not an easy task because developers have to combine disparate structural designs that include different data, process, and object models. Developers must also make a solution operate across several operating systems, middleware technologies, and databases. Integration is essential for any new technology solution. This study discusses different approaches, feasible solutions, and estimates for disparate enterprise solution synchronization. We also discuss influential forces that have made enterprise AI precarious and summarize inspection areas when selecting a method for individual enterprise requirements. Moreover, we provide important aspects of AI that should be considered before planning and creating an integration solution.

@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Computer has received more and more applications in various fields. In this paper, many new periodic wave solutions expressed by Jacobi elliptic functions of the Mikhauilov-Novikov-Wang (MNW) hierarchy are obtained by using the extended F-expansion method. In the limit cases, the obtained Jacobi elliptic function solutions degenerate into solitary wave solutions and trigonometric function solutions. It is shown that the extended F-expansion method with the aid of computerized symblic computation can provide a preferred mathematical tool for finding new periodic wave solutions of nonlinear partial differential equations (PDEs).

@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Computer Graphics has been the advent of our latest technology over the last few decades. In this paper WebGL framework has been used to create a 3D Virtual Tour of the University of Mauritius for the web. A Virtual Tour is designed to provide viewers with a more life-like 3D view of an existing location using advanced simulation techniques. Creating, loading and manipulating of 3D objects were from SketchUp tool. After the 3D models were built, they were converted into the WebGL format. This was achieved through the use of an exporter of 3D objects file. Moreover, it was tested especially for loading simple, average and complex objects with and without texture. The system has the capability to support multi-users navigation through the virtual environments.

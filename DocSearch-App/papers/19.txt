@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A (3+1)-dimensional B-type Kadomtsev-Petviashvili equation, which can be applied to describe the propagation of non-linear waves in fluid dynamics, is under investigation in this paper. Based on the binary Bell polynomials, Hirota method, and symbolic computation, the bilinear form is obtained. Backlund transformations are derived in the Bell-polynomial and bilinear forms. Besides, one-and two-soliton solutions are presented. The only coefficient in the equation can affect the soliton structure. Soliton shapes keep unchanged after the elastic interaction and they maintain their original directions and amplitudes except for some phase shifts.

@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Clustering plays an important role in data mining, pattern recognition, and machine learning. Then, single-valued neutrosophic sets (SVNSs) can describe and handle indeterminate and inconsistent information, while fuzzy sets and intuitionistic fuzzy sets cannot describe and deal with it. To cluster the information represented by single-valued neutrosophic data, this paper proposes single-valued neutrosophic clustering algorithms based on similarity measures of SVNSs. Firstly, we introduce a similarity measure between SVNSs based on the min and max operators and propose another new similarity measure between SVNSs. Then, we present clustering algorithms based on the similarity measures of SVNSs for the clustering analysis of single-valued neutrosophic data. Finally, an illustrative example is given to demonstrate the application and effectiveness of the single-valued neutrosophic clustering algorithms.

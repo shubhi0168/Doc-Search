@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+A multi-view content generation method for three-dimensional (3D) display without depth-reversed area is demonstrated. The viewing zone periodicity of an autostereoscopic display is utilized to eliminate the depth-reversal by adjusting the light field alignment in the 3D light field. The conditions that a multi-view sequence should satisfies to form a depth-reversal-free sequence are given and detailed processes for converting the multi-view sequence into a depth-reversal-free sequence are presented. Experimental results show that the depth-reversed area is well eliminated, and the smooth motion parallax can be achieved when the viewer moves in front of the display within a 60 degrees viewing angle. The number of presented perspectives can be 8 times more than the viewpoint number of the autostereoscopic display with the help of viewing zones integration.

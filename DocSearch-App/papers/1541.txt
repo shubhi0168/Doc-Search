@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Ever-increasing size and complexity of data sets create challenges and potential tradeoffs of accuracy and speed in learning algorithms. This paper offers progress on both fronts. It presents a mechanism to train the unsupervised learning features learned from only one layer to improve performance in both speed and accuracy. The features are learned by an unsupervised feature learning (UFL) algorithm. Then, those features are trained by a fast radial basis function (RBF) extreme learning machine (ELM). By exploiting the massive parallel computing attribute of modern graphics processing unit, a customized compute unified device architecture (CUDA) kernel is developed to further speed up the computing of the RBF kernel in the ELM. Results tested on Canadian Institute for Advanced Research and Mixed National Institute of Standards and Technology data sets confirm the UFL RBF ELM achieves high accuracy, and the CUDA implementation is up to 20 times faster than CPU and the naive parallel approach.

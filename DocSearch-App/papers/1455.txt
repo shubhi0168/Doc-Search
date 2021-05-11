@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Dynamic programming is a demanding algorithm design technique. In this article, we introduce an extension of the recursion visualization system SRec, intended to support dynamic programming. The contributions of the chapter are threefold. Firstly, we present SRec support to several phases of the systematic development of dynamic programming algorithms: generation of recursion trees, checking recursion redundancy in a recursion tree, generation of the dependency graph associated to a recursion tree, and matching the graph to a table. These facilities require high degree of interactivity to be effective. The article illustrates these facilities with the construction of a dynamic programming algorithm for the 0/1 knapsack problem. Secondly, we address several pragmatic issues: usage in educational scenarios, our experience with dynamic programming algorithms, and limitations. Thirdly, the article reports on the results of an evaluation of the system usability. The results were very positive, providing evidence on the adequateness of extensions. Furthermore, they allowed identifying minor opportunities for improvements.

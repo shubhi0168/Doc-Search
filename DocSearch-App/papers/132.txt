@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A notion of asymmetric quantum dialogue (AQD) is introduced. Conventional protocols of quantum dialogue are essentially symmetric as the users (Alice and Bob) can encode the same amount of classical information. In contrast, the proposed scheme for AQD provides different amount of communication powers to Alice and Bob. The proposed scheme offers an architecture, where the entangled state to be used and the encoding scheme to be shared between Alice and Bob depend on the amount of classical information they want to exchange with each other. The general structure for the AQD scheme has been obtained using a group theoretic structure of the operators introduced in Shukla et al. (Phys Lett A 377: 518, 2013). The effect of different types of noises (e.g., amplitude damping and phase damping noise) on the proposed scheme is investigated, and it is shown that the proposed scheme for AQD is robust and it uses an optimized amount of quantum resources.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+As 3D technology, including computer graphics, virtual reality and 3D printing, has been rapidly developed in the past years, 3D models are gaining an increasingly huge demand. Traditional 3D modeling platforms such as Maya and ZBrush, utilize "windows, icons, menus, pointers" (WIMP) interface paradigms for fine-grained control to construct detailed models. However, the modeling progress can be tedious and frustrating and thus too hard for a novice user or even a well trained artist. Therefore, a more intuitive interface is needed. Sketch, an intuitive communication and modeling tool for human beings, becomes the first choice of modeling community. So far, various sketch-based modeling systems have been created and studied. In this paper, we attempt to show how these systems work and give a comprehensive survey.We review and categorize the systems in four aspects: the input, the knowledge they use, the modeling approach and the output. We also discuss about inherent challenges and open problems for researchers in the future.

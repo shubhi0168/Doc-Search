@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+As a result of the relief image surface pattern shapes are often very complicated, no rules of geometry and detailed, with traditional computer graphics methods is difficult to achieve realistic embossed reproduction effect and the practical processing effect. At present, there are few new theoretical achievements in this field in China.This paper designed a simple method to get the 3 d relief effect fast, color images based on cellular neural networks (CNN) embossment effect processing method, through simulation experiment, this method has proved its convenient operation and implementation, and its application in the hail cloud layer image pre-processing,achieved good results.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Existing adaptive educational hypermedia systems have been using learning resources sequencing approaches in order to enrich the learning experience. In this context, educational resources, either expository or evaluative, play a central role. However, there is a lack of tools that support sequencing essentially due to the fact that existing specifications are complex. This paper presents Seqins as a sequencing tool of digital educational resources. Seqins includes a simple and flexible sequencing model that will foster heterogeneous students to learn at different rhythms. The tool communicates through the IMS Learning Tools Interoperability specification with a plethora of e-learning systems such as learning management systems, repositories, authoring and automatic evaluation systems. In order to validate Seqins we integrate it in an e-learning Ensemble framework instance for the computer programming learning domain.

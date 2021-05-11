@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Fixed-parameter algorithms, approximation algorithms and moderately exponential algorithms are three major approaches to algorithm design. While each of them being very active in its own, there is an increasing attention to the connection between these different frameworks. In particular, whether Independent Set would be better approximable once endowed with subexponential-time or FPT-time is a central question. In this article, we provide new insights to this question using two complementary approaches; the former makes a strong link between the linear PCP conjecture and inapproximability; the latter builds a class of equivalent problems under approximation in subexponential time.

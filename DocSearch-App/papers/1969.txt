@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+In complex software development projects, consistent planning and communication between the stake-holders is crucial for effective collaboration across the different stages in software construction. Taking the view of software development and maintenance as being part of the broader phenomenon of software evolution, this paper argues that the adoption of knowledge management practices in software engineering would improve both software construction and more particularly software maintenance. The research work presents a guidance model for both areas: knowledge management and software engineering, combining insights across corporate software projects as a means of evaluating the effects on people and organization, technology, workflows and processes. (C) 2016 Elsevier Ltd. All rights reserved.

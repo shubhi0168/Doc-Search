@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Ambient noise variability is a critical challenge encountered by multiple stakeholders, including sonar designers and operators. Among the sources of ambient noise in the ocean, wind related noise has significant impact on sonar performance. The tropical waters in the Indian Ocean Region (IOR), present random fluctuations in the surface parameters, namely the wind speed, surface temperature, wave height, etc. resulting in variations in the ambient noise characteristics. The site-specific surface fluctuations in the tropical regions restrict the possibility of generalized algorithm design to mitigate the ambient noise impact. The work attempts to study the variations in the ambient noise levels corresponding to the fluctuations in the surface parameters. The site-specific behavior of the tropical IOR is demonstrated using surface data available from moored buoy at three distinct locations of the IOR. The analysis methodology can be used to characterize, predict and improve sonar performance, particularly in severe conditions of the tropical IOR.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Detecting different categories of objects in an image and video content is one of the fundamental tasks in computer vision research. Pedestrian detection is a hot research topic, with several applications including robotics, surveillance and automotive safety. We address the problem of detecting pedestrians in surveillance videos. In this paper, we present a new feature extraction method based on Multi-scale Center-symmetric Local Binary Pattern operator. All the modules (foreground segmentation, feature pyramid, training, occlusion handling) of our proposed method are introduced with its details about design and implementation. Experiments on CAVIAR and other sequences show that the presented system can detect pedestrians in real-time effectively and accurately in surveillance videos.

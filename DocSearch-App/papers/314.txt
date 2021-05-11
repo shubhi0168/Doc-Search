@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Algorithmic thinking development is a difficulty that students have to confront when they learn programming the right use of selection and control structures is a big challenge. In this research were used generative learning objects for algorithmic thinking development in the programming foundations course that is offered to new students of computer systems career. Research methodological approach, was quantitative, quasi-experimental design and were applied pretest and posttest. The obtained results determined that the use of generative learning objects was relevant.

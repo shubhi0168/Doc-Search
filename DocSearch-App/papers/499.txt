@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+As the network size grows more and more, it becomes difficult to understand the entire network. Complex network theory is used to analyze the characteristics of the current network. Trust management schemes are suggested to understand the entire network security situation. The results of this paper reveal that in order to solve a security problem of a complex network reliably, a security policy needs to be established to prevent the hub from being infected.

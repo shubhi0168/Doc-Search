@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Benefits of collaborative learning are established and gamification methods have been used to motivate students towards achieving course goals in educational settings. However, different users prefer different game elements and rewarding approaches and static gamification approaches can be inefficient. The authors present an evidence-based method and a case study where interaction analysis and k-means clustering are used to create gamification preference profiles. These profiles can be used to create adaptive gamification approaches for online learning or collaborative learning environments, improving on static gamification designs. Furthermore, the authors discuss possibilities for using our approach in collaborative online learning environments.

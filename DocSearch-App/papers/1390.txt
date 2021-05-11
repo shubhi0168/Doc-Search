@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Drogue detection is a fundamental issue during the close docking phase of autonomous aerial refueling (AAR). To cope with this issue, a novel and effective method based on deep learning with convolutional neural networks (CNNs) is proposed. In order to ensure its robustness and wide application, a deep learning dataset of images was prepared by utilizing real data of "Probe and Drogue" aerial refueling, which contains diverse drogues in various environmental conditions without artificial features placed on the drogues. By employing deep learning ideas and graphics processing units (GPUs), a model for drogue detection using a Caffe deep learning framework with CNNs was designed to ensure the method's accuracy and real-time performance. Experiments were conducted to demonstrate the effectiveness of the proposed method, and results based on real AAR data compare its performance to other methods, validating the accuracy, speed, and robustness of its drogue detection ability. (C) 2016 Chinese Society of Aeronautics and Astronautics. Production and hosting by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license.

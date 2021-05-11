@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Authentication of user in online banking is a major issue in recent days where transactions are carried out using insecure Internet channel. The modern communication medium is very much exposed to various threats. One time password (OTP) is used to prove one's identity over the wireless channel. The OTP sent to user's registered mobile number as SMS is most commonly used technique for user authentication. OTP SMS sent normally as plain text is vulnerable to various attacks along the communication channel. To solve this problem, this research aims to provide a technique to transform the OTP using a lightweight cryptography and hide the cipher text using text steganography and send the stego text as SMS to user mobile. Personal Identification Number (PIN) supplied by the bank during registration is used for ciphering. The user needs to know the PIN to read the OTP. The user can proceed with the business transaction, only after this authentication. This process provides end-to-end-encryption of the OTP SMS.

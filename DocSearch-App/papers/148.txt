@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A PIC/MCC simulation model for the analysis of low-temperature discharge plasmas is represented which takes the common leapfrog and the velocity Verlet algorithm for the particle integration, adaptive particle management as well as parallel computing using MPI into account. Main features of the model including the impact of super particle numbers, adaptive particle management and the time step size for the different integration methods are represented. The investigations are performed for low-pressure capacitively coupled radio frequency discharges in helium and argon. Besides a code verification by comparison with benchmark simulation results in helium it is shown that an adaptive particle management is particularly suitable for the simulation of discharges at elevated pressures where boundary effects and processes in the sheath regions are important. Furthermore, it is pointed out that the velocity Verlet integration scheme allows to speed up the PIC/MCC simulations compared to the leapfrog method because it makes the use of larger time steps at the same accuracy possible. (C) 2016 Elsevier B.V. All rights reserved.

@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A recent Quantum Private Set Intersection (QPSI) scheme is cryptanalyzed. The original claimed communication overhead is shown to be not accurate. And the original security definition is passive and not fair. To ensure fairness, a passive third party is introduced. It is also shown that unconditional fairness of QPSI protocol is impossible. Since otherwise, it would violate a well-known impossible quantum cryptography result.

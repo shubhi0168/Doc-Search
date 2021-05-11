@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Coverage and connectivity are two important problems in wireless sensor network. This paper focuses on the wireless sensor network communication radius in the high density of sensor nodes deployed randomly and two times smaller than the sensing radius; put forward a distributed k coverage multi connected node deployment algorithm based on grid. Simulation results show that the algorithm in this paper while guaranteeing the wireless sensor network coverage and connectivity can reduce the number of the active state nodes effectively, prolong the wireless sensor network lifetime. Theoretical analysis results show that this article nodes deployment algorithm achieves multi connected

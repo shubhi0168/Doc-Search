@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A fast adaptive parallel factor (PARAFAC) decomposition algorithm is proposed for a class of third order tensors that have one dimension growing linearly with time. It is based on an alternating least squares approach in conjunction with a Newton-type optimization technique. By preserving the Khatri-Rao product and exploiting the reduced-rank update structure of the estimated subspace at each time instant, the algorithm achieves linear complexity and superior convergence performance. A modified version of the algorithm is also proposed to deal with the non-negative constraint. In addition, parallel implementation issues are investigated. Finally, the performance of the algorithm is numerically studied and compared to several state-of-the-art algorithms. (C) 2017 Elsevier Inc. All rights reserved.

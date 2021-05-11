@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+Due to the contention for the shared disk bandwidth, the user I/O intensity can significantly impact the performance of the online low-priority background tasks, thus reducing the reliability and availability of RAID-structured storage systems. In this paper, we propose a novel and practical scheme, called WorkOut (I/O Workload Outsourcing), to significantly boost the performance of those low-priority background tasks. WorkOut effectively outsources all write requests and popular read requests originally targeted at the degraded RAID set that is performing the low-priority background tasks to a surrogate RAID set. The lightweight prototype implementation of WorkOut and extensive trace-driven and benchmark-driven experiments on two case studies demonstrate that, compared with existing approaches, WorkOut effectively improves the performance of the low-priority background tasks, such as RAID reconstruction and RAID resynchronization. Importantly, WorkOut is portable and can be easily incorporated into any existing optimizing algorithms for RAID-structured storage systems.

@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+eXtensible Markup Language (XML) is gaining popularity and is being used widely on internet for storing and exchanging data. Large XML files when transferred on network create bottleneck and also degrade the query performance. Therefore, efficient mechanisms of compression and decompression are applied to XML files. In this paper, an algorithm for performing XML compression and decompression is suggested. The suggested approach reads an XML file, removes tags, divides the XML file into different parts and then compresses each different part on a separate core for achieving efficiency. We compare performance results of the proposed algorithm with parallel compression and decompression of XML files using GZIP. The performance results show that the suggested algorithm performs 24%, 53% and 72% better than the parallel GZIP compression and decompression on Intel Xeon, Intel core i7 and Intel core i3 based architectures respectively.

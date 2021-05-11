@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+DTE Energy Electric Company began a pilot project in 2009 to use power quality monitors to locate faults on numerous trunk lines and tie lines of its 24-kV and 41.57-kV systems. Fault measurements captured by the meters are downloaded automatically, integrated into a relational database, and processed for reactance calculations. The reactance calculations are combined with detailed subtransmission circuit models and geographic information system data to build estimated fault location tables and web-based map displays. The systems are integrated on the company intranet and used in real-time by numerous groups within DTE Energy including system supervisors, field operations, and system planning. The algorithm used for waveform processing can distinguish between single-phase faults, multi-phase faults, subcycle faults, and feeder energizing magnetizing inrush. The system integrates the measurements from the power quality monitors with circuit breaker operations stored in the SCADA historian. This paper will present an overview of some of the parameters and practices for finding faults in place every day at Detroit Edison.

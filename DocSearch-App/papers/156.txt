@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+A preference-based approach is proposed for Grid computing with regard to preferences given by various groups of virtual organization (VO) stakeholders (such as users, resource owners and administrators) to improve overall quality of service and resource load efficiency. A specific cyclic job batch scheduling scheme is examined which performs job flow metascheduling balancing between the VO stakeholders' conflicting preferences and policies. Two different metrics are introduced to find a scheduling solution balanced between VO stakeholders. Additionally, two job batch slicing procedures are proposed to establish equality when scheduling jobs with different preferences types.

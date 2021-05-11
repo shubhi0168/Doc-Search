@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Current topics in e-Learning Management Systems encourage innovative technologies to use digital libraries to exploit Learning Objects metadata in order to facilitate dissemination and re-process of their content. Digital repositories are mostly implemented as distributed computing systems architectures dealing with major technological and modeling issues that hinder interoperability between heterogeneous databases impeding data accessibility and reusability. Learning Object metadata are lack of interactivity and address operational deficiencies. Though, a content-structure and systematic approach needs to be established. A promising method to employ learning object metadata adaptation is to use semantic Web technologies. Expressing semantics in Learning material can heal interoperability issues and improve information retrieval by providing knowledge representation inherent in xml syntax and applying inference rules. This work develops an ontology-web model for learning object metadata. Detecting semantic relations on educational material aims to assess in an abstract level its tutoring content to improve the learning procedure.

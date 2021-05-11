@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Due to the complex in building experiment environment, difficulty to analysis correctness and performance of algorithm in algorithm design experiment in information science courses. In this paper, a web-based virtual lab platform for algorithm learning was designed and developed. In this platform, each resource will be packaged as a web-service, student is able to submit source code of their algorithm developed by multi-programming language to the server and choose corresponding virtual experiment component to build experiment process for testing their algorithm. This platform will enable student to concentrate on the design and optimization of the algorithm. In the last, a virtual experiment system of digital image processing illustrates the effectiveness of the platform.

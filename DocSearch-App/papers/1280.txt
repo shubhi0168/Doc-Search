@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Designing effective menu systems is a key ingredient to usable graphical user interfaces. This task generally relies only on human ability in building hierarchical structures. However, trading off different and partially opposite guidelines, standards and practices is time consuming and can exceed human skills in problem solving. Recent advances are showing that this task can be addressed by generative approaches which exploit evolutionary algorithms as means for evolving different and unexpected solutions. The search of optimal solutions is made not trivial due to different alternatives which lead to local optima and constraints which can invalidate large sectors of the search space and make valid solutions sparse. This problem can be addressed by choosing an appropriate algorithm. In this paper we face the problem of searching optimal solutions by Linear Genetic Programming in particular, and we compare the solution to more conventional approaches based on simple genetic algorithms and genetic programming. Experimental results are discussed and compared to human-made solutions.

@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+For the network security problem, this paper proposes a kind of loose security protocol algorithm. The protocol includes two parts: authentication and encryption, which are respectively used for authentication and encryption for the network applications. This paper also adopts OPNET to customize the application modeling method in order to analyze the network performance of the protocol algorithm. The simulation shows that, after analysis and optimization of the algorithm performance through customizing the application model by using OPNET in the design of the loose security protocol algorithm, the algorithm performance has a significant improvement.

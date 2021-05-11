@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Computational thinking (CT), which is the core of the Computer Science field, is an essential thinking process to solve problems effectively and efficiently using computing systems. Learners must be able to design algorithms, identify the appropriate algorithm design skill for a specific problem, and apply it to the problem. Aiming to stimulate learners' interest in learning algorithm design skills, we developed puzzle-based algorithm learning program that has a user-friendly format tailored to real-world scenario. We investigated the effect of this puzzle-based algorithm learning program on learners' CT abilities. The results provide evidence that puzzle based algorithm learning program is effective for developing learners' CT. The study suggests that puzzle based algorithm learning is worth as a learning model for improving CT of learners.

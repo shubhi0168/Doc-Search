@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Dynamic environmental modelling of spatio-temporal systems often requires the representation of both fields and agents. Fields are continuous with values in the whole spatio-temporal domain of a model, while agents are bounded in space and often mobile. It is currently difficult for environmental modellers with limited software engineering background to construct such field-agent models, as modelling frameworks mostly do not support the integration of fields and agents. To overcome this issue, we describe a data model combining fields and agents in a single concept. This data model represents fields, agents and relations by grouping items sharing properties into a phenomenon. The concepts domain, property set and value handle spatio-temporal attribute representations. The data model is implemented in a software prototype that shows how data on fields and agents is stored and manipulated. (C) 2016 Elsevier Ltd. All rights reserved.

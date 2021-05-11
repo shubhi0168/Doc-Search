@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+3D segmentation methods and their evaluation are important problems in computer graphics. Many 3D segmentation techniques are available in the literature, how to efficiently evaluate these methods is an important issue. In this paper we propose a new objective evaluation metric suitable for the evaluation of 3D segmentation methods, based on the Dice Coefficient (DC). Dice Coefficient is a similarity coefficient, designed to compute the degree of similarity between sample data sets. We extend this approach to mesh segmentation evaluation, since the regions of a segmented mesh can be seen as sample data sets. Many of the existing metrics does not take into consideration the irregularity of the 3D meshes, our proposal integrate the surface of faces in the adaptation of the Dice Coefficient to evaluate the segmentation of both regular and irregular meshes. Experimental results confirm the potential of the proposed metric.

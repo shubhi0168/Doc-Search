@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Database technology affects many disciplines beyond computer science and business. This paper describes two animations developed with images and color that visually and dynamically introduce fundamental relational database concepts and querying to students of many majors. The goal is for educators in diverse academic disciplines to incorporate the animations in their existing courses in order to meet their pedagogical needs. The introduction of the animations was assessed and evaluated within several contexts, including non-majors courses offered by computer scientists as well as a course on computational molecular biology. The evaluation indicated that student knowledge of fundamental database concepts improved significantly with the use of the courseware. The animations provide visual learners with an engaging method to learn the topics presented with the ability to replay the dynamic presentation. Overall, the evaluation indicates the accessibility of database topics across the disciplines as well as the specific concepts that need further elaboration.

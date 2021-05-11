@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Coarse-grained reconfigurable architecture (CGRA) is a promising parallel computing platform that provides high performance, high power efficiency and flexibility. However, for imperfect nested loops, the existing loop mapping methods often result in low execution performance and poor hardware utilization. To tackle this problem, this paper makes three contributions: 1) a highly effective and general approach to map imperfect loops on CGRA; 2) a global optimization strategy to search the optimal initiation intervals (IIs); 3) a powerful kernel compression method to reduce the oversized kernel. Experiment results show that our approach can reduce the total computing latency by 20.5, 58.5 and 73.2 percent compared to the state-of-the-art approaches on 2 x 2, 4 x 4 and 8 x 8 CGRA respectively. Moreover, the compilation time and configuration context size is acceptable in practice.

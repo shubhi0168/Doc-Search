@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+A Continuous Monitoring System (CMS) model is presented, having new improved capabilities. The system is based on the actual real-time configuration of the system. Existing risk scoring models assume damage potential is estimated by systems' owner, thus rejecting the information relying in the technological configuration. The assumption underlying this research is based on users' ability to estimate business impacts relating to systems' external interfaces which they use regularly in their business activities, but are unable to assess business impacts relating to internal technological components. According to the proposed model systems' damage potential is calculated using technical information on systems' components using a directed graph. The graph is incorporated into the Common Vulnerability Scoring Systems' (CVSS) algorithm to produce risk scoring measures. Framework presentation includes system design, damage potential scoring algorithm design and an illustration of scoring computations.

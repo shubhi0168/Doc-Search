@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+A new nonlinear dimensionality reduction method called kernel global-local preserving projections (KGLPP) is developed and applied for fault detection. KGLPP has the advantage of preserving global and local data structures simultaneously. The kernel principal component analysis (KPCA), which only preserves the global Euclidean structure of data, and the kernel locality preserving projections (KLPP), which only preserves the local neighborhood structure of data, are unified in the KGLPP framework. KPCA and KLPP can be easily derived from KGLPP by choosing some particular values of parameters. As a result, KGLPP is more powerful than KPCA and KLPP in capturing useful data characteristics. A KGLPP-based monitoring method is proposed for nonlinear processes. T-2 and SPE statistics are constructed in the feature space for fault detection. Case studies in a nonlinear system and in the Tennessee Eastman process demonstrate that the KGLPP-based method significantly outperforms KPCA, KLPP and GLPP-based methods, in terms of higher fault detection rates and better fault sensitivity. (C) 2015 Elsevier Ltd. All rights reserved.

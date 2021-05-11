@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Communication over the ether is by nature erratic, and thus wireless networks are often deemed unsuitable to support time-critical distributed control applications, like those at the shop-floor of industrial plants. However, scheduling techniques derived from real-time operating systems, along with channel redundancy and run-time retransmission management, can be profitably applied to wireless networks to improve their determinism tangibly. This paper presents a novel approach that combines such solutions. A preliminary prototype implementation, which relies on IEEE 802.11 (Wi-Fi), has been set up to assess feasibility and performance of the approach. Results show that determinism of data exchange can be improved to a degree that makes wireless networks actually suitable for many soft real-time applications.

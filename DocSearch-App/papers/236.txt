@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Accurate image registration is a vital step in many computer vision processes. However, traditional SIFT based methods are not able to obtain satisfactory results in some cases. In this paper, we turn the matching problem into a Markov Random Field (MRF) optimization problem and propose a fast and accurate image registration method based on message passing to screen out mismatches caused by the conventional SIFT-based algorithm. The proposed method comprises three steps. First, a SIFT detector is used to detect key points and then these points are described by Daisy instead of the SIFT detector (to improve efficiency); second, a new geometric constraint with distance and direction terms is designed and incorporated into sequential tree-reweighted message passing (TRW-S) this obtains the coarse matching result; finally, the RANSAC algorithm is adopted to filter out the mismatches and obtain an accurate transformation. The experimental results demonstrate that the proposed method significantly improves the efficiency and the accuracy of the registration process and secures a desirable result

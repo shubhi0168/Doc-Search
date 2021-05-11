@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Big Data is growing remarkably with technological development. In the field of business, there is growing trend which try to find useful information to marketing activities from the enormous data. However, data analysis needs knowledge about data structures and programming skills. It is difficult for general employees to acquire these. In this study, we propose a system which visualizes the relation between the goods by using POS (point of sales) data with IDs of a supermarket. We think that the analysts do not have the pre-requisite skills of programming, they can understand the relation between the goods by using our proposal system easily. Then as the proposal system turns into a web application, they are able to share the result of analysis by using a web browser. It becomes clear that our proposal system is effective through a result of the interview evaluation.

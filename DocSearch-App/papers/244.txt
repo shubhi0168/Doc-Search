@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Achieving efficient security solutions for wireless sensor networks (WSN) is a daring challenge due to vulnerable nature of wireless medium. Routing is a major threat to security. An adversary can inject bogus routing to en-route nodes causing false decision and drain the sensors energy in the network system. To identify and prune the adversaries, pruning route modifiers (PRM) algorithm based on the collaborative authentication system has been proposed. The algorithm considers the random deployment of sensor nodes. Based on the collaborative authentication scheme, the PRM algorithm can save energy by pruning the malicious nodes at early stage. The simulation results and theoretical analysis reveals that PRM algorithm is effective in terms of efficient and secure routing. This algorithm reduces the consumption of energy by pruning and establishes the shortest path that leads to efficient network and enables security.

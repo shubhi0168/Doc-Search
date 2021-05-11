@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Complex information-processing systems, for example, quantum circuits, cryptographic protocols, or multi-player games, are naturally described as networks composed of more basic information-processing systems. A modular analysis of such systems requires a mathematical model of systems that is closed under composition, i. e., a network of these objects is again an object of the same type. We propose such a model and call the corresponding systems causal boxes. Causal boxes capture superpositions of causal structures, e. g., messages sent by a causal box A can be in a superposition of different orders or in a superposition of being sent to box B and box C. Furthermore, causal boxes can model systems whose behavior depends on time. By instantiating the abstract cryptography framework with causal boxes, we obtain the first composable security framework that can handle arbitrary quantum protocols and relativistic protocols.

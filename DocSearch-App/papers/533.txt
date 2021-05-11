@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Attack graphs model possible paths that a potential attacker can use to intrude into a target network. They can be used in determining both proactive and reactive security measures. Attack graph generation is a process that includes vulnerability information processing, collecting network topology and application information, determining reachability conditions among network hosts, and applying the core graph building algorithm. This article introduces a classification scheme for a systematical study of the methods applied in each phase of the attack graph generation process, including the usage of attack graphs for network security. The related works in the literature are stated based on the proposed classification scheme and contributive ideas about potential challenges and open issues for attack graph generation and usage are provided. (C) 2016 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+As a result of the application of a technique of multistep processes stochastic models construction the range of models, implemented as a self-consistent differential equations, was obtained. These are partial differential equations (master equation, the Fokker-Planck equation) and stochastic differential equations (Langevin equation). However, analytical methods do not always allow to research these equations adequately. It is proposed to use the combined analytical and numerical approach studying these equations. For this purpose the numerical part is realized within the framework of symbolic computation. It is recommended to apply stochastic Runge-Kutta methods for numerical study of stochastic differential equations in the form of the Langevin. Under this approach, a program complex on the basis of analytical calculations metasystem Sage is developed. For model verification logarithmic walks and Black-Scholes two-dimensional model are used. To illustrate the stochastic "predator-prey" type model is used. The utility of the combined numerical-analytical approach is demonstrated.

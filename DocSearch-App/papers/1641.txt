@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+For centuries, the highest level of mathematics has been seen as an isolated creative activity, to produce a proof for review and acceptance by research peers. Mathematics is now at a remarkable inflexion point, with new technology radically extending the power and limits of individuals. 'Crowdsourcing' pulls together diverse experts to solve problems; symbolic computation tackles huge routine calculations; and computers, using programs designed to verify hardware, check proofs that are just too long and complicated for any human to comprehend. 'Social machines' are new paradigm, identified by Berners-Lee, for viewing a combination of people and computers as a single problem-solving entity. This paper outlines a research agenda for a new vision of a mathematics social machine, a combination of people, computers, and archives to create and apply mathematics, and places it in the context of verification research, computational logic and Roy Dyckhoff's pioneering work on computer proof.

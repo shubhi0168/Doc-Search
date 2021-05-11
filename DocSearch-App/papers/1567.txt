@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Extracting OWL ontologies from relational databases is extremely helpful for realising the Semantic Web vision. However, most of the approaches in this context often drop many of the expressive features of OWL. This is because highly expressive axioms can not be detected from database schema alone, but instead require a combined analysis of the database schema and data. In this paper, we present an approach that transforms a relational schema to a basic OWL schema, and then enhances it with rich OWL 2 constructs using schema and data analysis techniques. We then rely on the user for the verification of these features. Furthermore, we apply machine learning algorithms to help in ranking the resulting features based on user supplied relevance scores. Testing our tool on a number of databases demonstrates that our proposed approach is feasible and effective.

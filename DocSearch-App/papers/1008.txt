@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming courses are very important specialized courses of computer science. And the teaching effects of these courses are closely related to the students' learning subjective initiative. This article took C programming course for example and proposed a set of teaching strategies which can promote the students' learning initiative. A bank of programming exercises which hides programming knowledge is designed and is integrated in an online judge system; Theory teaching is organized around the students' programming practice just like the idea of flipped classroom; Four special time nodes during the course of study are pointed out and corresponding measures are taken to continuously stimulate students' programming initiative. Practice has proved that such teaching strategies can well mobilize the enthusiasm of students, finally receive good teaching effects.

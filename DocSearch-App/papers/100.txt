@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+A multistage graph is center problem of computer science, many coordination and consistency problems can be convert into multistage graph problem. We obtained the fitness function by coding the vertex of multistage graph, and designed the genetic algorithm for solving multistage graph problem. Experiment results show that this algorithm is very effective and feasible.

@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Based on a ternary quantum logic circuit, tour symmetric weak ternary quantum homomorphic encryption (QHE) schemes were proposed. First, for a one-qutrit rotation gate, a QHE scheme was constructed. Second, in view of the synthesis of a general 3 x 3 unitary transformation, another one-qutrit QIIE scheme was proposed. Third, according to the one-qutrit scheme, the two-qutrit QHE scheme about generalized controlled (G(A(m,n)) gate was constructed and further generalized to the 71.-C1 aril, unitary matrix case. Finally, the security of these schemes was analyzed in two respects. It can be concluded that the attacker can correctly guess the encryption key with a maximum probability p(k) = 1/3(3n), thus it can better protect the privacy of users' data. Moreover, these schemes can be well integrated into the future quantum remot-A, server architecture, and thus the computational security of the users' private quart UM information can be well protected in a distributed computing environment.

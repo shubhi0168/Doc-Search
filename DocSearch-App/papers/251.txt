@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Active Contour Models (ACM) have been widely used for segmentation in many computer vision applications. These models are defined by an energy functional attached to an initial curve that evolves under some constraints to extract desired objects in the image. New models are proposed, and existing techniques are investigated and improved in different domains. Among these ACM, Balloon ACM is an edge-based model that adds a normal force as constraint making the curve to have more dynamic behaviors and more effectiveness in detecting objects boundary. However, some problems have been pointed out including segmentation of complex shape and high runtime processing. In this paper, we develop a new method -called Fast Adaptive Balloon (FAB)-sufficient to segment complex shape with lower computational complexity. The proposed definition for balloon force achieves satisfactory segmentation performance compared with other ACMs using both synthetic and medical images in two dimension. The results demonstrate the accuracy and effectiveness in segmentation besides the convergence speed.

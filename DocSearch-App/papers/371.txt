@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+An automatized procedure for the parameterization of fundamental equations of state (EOS) that are explicit in terms of the Helmholtz energy and are based on molecular simulation data is presented. The simulation runs are carried out via a cloud-based framework that combines multiple, distributed computing resources. A user-friendly graphical user interface ensures that minimal knowledge about the background operations is required. In order to exemplify the capabilities of this approach an EOS for ethylene oxide is created and compared to data from the literature. (C) 2016 Elsevier B.V. All rights reserved.

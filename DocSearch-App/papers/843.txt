@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+By using GHZ-like states and entanglement swapping, Kang et al. [Chin. Phys. B 24 (2015) 090306] proposed a controlled mutual quantum entity authentication protocol. We find that the proposed protocol is not secure, that is, the center, Charlie can eavesdrop the secret keys shared between Alice and Bob without being detected.

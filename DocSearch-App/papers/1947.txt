@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+In a strong designated verifier signature scheme, only the designated verifier can determine the identity of the signer; others cannot identify the signer or the verifier. To date, one strong designated verifier signature scheme from lattices has been proposed, only in the random oracle model. In this paper, we propose the first strong designated verifier signature scheme from lattices in the standard model. The proposed scheme satisfies the requirements of unforgeability, nontransferability, and privacy of the signer's identity. This scheme can be easily extended to an identity-based strong designated verifier signature scheme and an (identity-based) strong multi-designated verifiers signature scheme. Copyright (C) 2017 John Wiley & Sons, Ltd.

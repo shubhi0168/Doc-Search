@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A linear transformation method is proposed to handle the vector autoregression with mixed frequency time series data. Temporally aggregated observations impose linear constraints on the distribution of latent variables, which are converted such that each observation replaces a latent variable. Full-sample transformation yields a closed-form simulation smoother, while partial-sample transformation leads to a computationally efficient sampler suitable for parallel computing. (C) 2016 Elsevier B.V. All rights reserved.

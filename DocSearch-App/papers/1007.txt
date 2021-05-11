@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming courses aim to develop students' programing skills and problem solving abilities. But it cannot easily be achieved through traditional teaching method which focuses on boring grammar more than approach and thinking. Students should learn deeper. In this article, we practiced Deep Learning Cycle (DELC) in the curriculum of C programming language. In the 7 steps of DELC, we focused on step 6, processing the learning deeper. We adopted task-based mode and online judge like ACM-ICPC, but designed our own problem repository with teaching contents closely combined to make students learn deeper. Practice has proved that, based on DELC teaching model, students' programming skills and proficiency have been greatly improved.

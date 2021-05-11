@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Among the methods to knowledge discovery, rough set proposed by Pawlak is one of the most important theories. One key concept of rough set is reduction, which is proved to be NP-hard problem. In order to improve the effectiveness of reduction, a quick algorithm about information reduction and rule acquisition based on distributed computing is put forward. In this algorithm, an attribute-value-tree about decision table firstly is created, a structure of parallel computing about distributed reduction is proposed by taking advantage of distributed feature of cloud. This method makes use of relative independent characteristic about attribute-value-trees to improve effectiveness of reduction. It's fit to deal with big data in distributed cloud environment.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Due to that conventional teaching method mainly focus on the impartment and the memorization of knowledge points, the initiative of student cannot be activated and there is still substantial room for improving the professional abilities, including independent learning ability and problem solving capability, hands-on practical ability, etc. Aiming at improving the teaching results of computer programming courses, a practical mode of classroom instruction with diverse collaboration is proposed in this paper. In this teaching mode, the theoretical teaching and learning is closely integrated with professional practice, opening lab problems and scientific research project. The course assessment emphasizes the project evaluation instead of paper test for proper evaluation of actual practice level of students.

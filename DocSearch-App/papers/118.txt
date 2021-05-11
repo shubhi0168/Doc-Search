@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A new method for obtaining strong S-boxes based on chaotic map and Teaching-Learning-Based Optimization (TLBO) is presented in this paper. Our method presents eight rounds; each round contains two transformations: row left shifting and columnwise rotation. The vectors for the transformations are different from one round to another, and they are controlled by two keys to the logistic map. These two keys are optimized by using TLBO which aims to construct a strong S-box that satisfies to the criteria set in advance. Test for the following criteria such as bijectivity, nonlinearity, strict avalanche criteria, equiprobable inputs/outputs XOR distribution is analyzed. Additionally, we will provide many comparisons with other S-boxes and test of the sensitivity to keys. The results of performance test show that the proposed design S-boxes presents good cryptography proprieties and can resist to several attacks.

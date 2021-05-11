@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Elliptic curve cryptography is used as a public-key cryptosystem for encryption and decryption in such a way that if one has to encrypt a message, then they attempt to map the message to some distinct point on the elliptic curve by modifying the message using a mapping algorithm. Although the arithmetic involved in elliptic curve cryptography is computationally less complex than other cryptographic algorithms, but conversion of simple messages to points on the elliptic curve has always been challenging. In this paper, we discuss the different schemes of message mapping in elliptic curve cryptosystem, the flaws of each method, and how vulnerable they are to cryptanalysis. We also derive the guidelines of a good message mapping scheme in elliptic curve cryptosystem. In the later part of this paper, we will discuss about a new mapping scheme that is resistible to frequency analysis and other forms of cryptanalysis. Copyright (c) 2016 John Wiley & Sons, Ltd.

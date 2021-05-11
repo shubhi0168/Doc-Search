@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Exponential rational function method is a relatively new mechanism to get exact solutions of nonlinear fractional differential equations. In this paper, fractional derivatives in the sense of Jumarie's modified Riemann-Liouville are defined. Fractional complex transform is used to convert fractional differential equations into ordinary differential equations. This method is more appropriate for solving different kind of nonlinear frac-tional differential equations emerging in mathematical physics.

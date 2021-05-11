@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Branch-and-bound (B&B) is a popular approach to accelerate the solution of the optimization problems, but its parallelization on graphics processing units (GPUs) is challenging because of B&B's irregular data structures and poor computation/communication ratio. The contributions of this paper are as follows: (1) we develop two CUDA-based implementations (iterative and recursive) of B&B on systems with GPUs for a practical application scenario-optimal design of multi-product batch plants, with a particular example of a chemical-engineering system (CES); (2) we propose and implement several optimizations of our CUDA code by reducing branch divergence and by exploiting the properties of the GPU memory hierarchy; and (3) we evaluate our implementations and their optimizations on a modern GPU-based system and we report our experimental results.

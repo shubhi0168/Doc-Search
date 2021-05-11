@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Because of the open wireless channel, the dynamic change of network topology and the large energy consumptions, Ad Hoc networks are more vulnerable to security attacks and energy is easy to run out. In order to solve these problems, this paper proposes a kind of Secure and Energy Conservation Routing Algorithm based on Trust Recommendation (TREC-AODV). This algorithm can decrease energy consumption by adjusting the transmission radius dynamically, and can detect and isolate malicious nodes via a new trust recommendation mechanism. The simulation shows that the proposed algorithm not only can improve the capacity of energy conservation and robustness of the networks, but can enhance the security of the networks.

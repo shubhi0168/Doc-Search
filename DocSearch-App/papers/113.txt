@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+A new generation of computer games has taken over during the last few years, called Massive Multiplayer Online Role Playing Games (MMORPG). In parallel, the usage of games in education has increased, exploiting the fact that young people are familiarized with them and would be more motivated to learn while entertained. However, MMORPG require significant amounts of resources, such as bandwidth, RAM and CPU capacity to support learning. In this paper, we propose a new methodology to achieve monitoring and optimization of the load balancing, so that the essential resources for the proper execution of an educational MMORPG for computer programming can be foreseen and bestowed without overloading the system. Moreover, we present an educational MMORPG called CMX, which aims to teach computer programming through interactive activities and role-playing. We finally apply the proposed model to CMX by conducting an experiment and conclude that the server's performance is indeed increased.

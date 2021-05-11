@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Given the relentless growing number of mobile devices, researchers have pointed out that distributed computing environments, such as clusters or even computational Grids, could increase the available resources by scavenging devices' capabilities. However, this negatively impacts on their batteries. We study centralized job schedulers that aim at exploiting clusters of mobile resources with rather stable devices in terms of connection time. These schedulers outperform a previous centralized scheduler, finishing up to 30% more jobs with the same amount of energy. We also show that the schedulers perform competitively compared to schedulers based on job stealing, which are more difficult to implement and consume more network resources and hence energy. (C) 2015 Elsevier B.V. All rights reserved.

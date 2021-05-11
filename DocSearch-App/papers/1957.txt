@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+In animal behavior research, the main task of observing the behavior of an animal is usually done manually. The measurement of the trajectory of an animal and its real-time posture description is often omitted due to the lack of automatic computer vision tools. Even though there are many publications for pose estimation, few are efficient enough to apply in real-time or can be used without the machine learning algorithm to train a classifier from mass samples. In this paper, we propose a novel strategy for the real-time lobster posture estimation to overcome those difficulties. In our proposed algorithm, we use the Gaussian mixture model (GMM) for lobster segmentation. Then the posture estimation is based on the distance transform and skeleton calculated from the segmentation. We tested the algorithm on a serials lobster videos in different size and lighting conditions. The results show that our proposed algorithm is efficient and robust under various conditions.

@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Based on the extended homoclinic test technique and the Hirota's bilinear method, the (2+1)-dimensional Boiti-LeonManna-Pempinelli equation is investigated which describes the fluid propagating and can be considered as a model for an incompressible fluid. With the aid of symbolic computation, we introduce two new Ansatz functions to discuss the multiple periodic-soliton solutions of the (2+1) -dimensional Boiti-Leon-Manna-Pempinelli equation. Some entirely new periodicsoliton solutions are presented. The figures corresponding to these solutions are illustrated to show abundant physics structures.

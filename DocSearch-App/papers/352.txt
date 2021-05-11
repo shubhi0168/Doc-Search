@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Among the population of known Galactic black hole X-ray binaries, GRS 1915+105 stands out in multiple ways. It has been in continuous outburst since 1992, and has shown a wide range of different states that can be distinguished by their timing and spectral properties. These states, also observed in IGR J17091-3624, have in the past been linked to accretion dynamics. Here, we present the first comprehensive study into the long-term evolution of GRS 1915+105, using the entire data set observed with Rossi X-ray Timing Explorer over its 16-yr lifetime. We develop a set of descriptive features allowing for automatic separation of states, and show that supervised machine learning in the form of logistic regression and random forests can be used to efficiently classify the entire data set. For the first time, we explore the duty cycle and time evolution of states over the entire 16-yr time span, and find that the temporal distribution of states has likely changed over the span of the observations. We connect the machine classification with physical interpretations of the phenomenology in terms of chaotic and stochastic processes.

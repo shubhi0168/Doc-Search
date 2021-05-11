@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+By means of Miedema formation enthalpy model with Toop model, the excess free-energy, enthalpies of formation, excess entropies and activity values of all components of Mg-Al-Y ternary alloy were calculated with computer programming. The experimental results show that enthalpies of formation, excess free-energy and excess entropies of the ternary alloy are negative in the whole content range, the minimum values at 1 123 K are all obtained at x (Al)=55%, x (Y)=45%, x (Mg)=0%, which are -37.969, -30.961 kJ/mol and -6.24 J/(mol center dot k) respectively. Activity curves show that the activity values of Al and Y in Mg-Al-Y ternary alloy rapidly decrease with the decrease of molar fraction, the values of which are very small when the molar fraction decreases to 0.4. It means that there is a strong interaction between Al and Y and stable compounds can be form in the Mg-Al-Y ternary alloy system.

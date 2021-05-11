@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Emerging stakeholder needs and a changing environment drive increasing demands for the constant adaption of software through maintenance and new capability development. A more evolutionary software engineering approach is sought to improve engineering responsiveness; Open System Development appears to offer a partial contribution but presents many challenges. This exploratory research proposes a new definition of the evolution of complex engineered systems, building on the essential features of 'openness' described by Cowling et al (2014) and Lehman's (1980) ideas of evolutionary software. Using Checkland's (1999) Soft System Methodology enabled a structured literature review and analysis of the relative contributions of three divergent methodologies to the success of systems outcomes. These methodologies are: Plan-Driven, Agile, and Open Source Software Development. The analysis reveals several opportunities and highlights the critical issue of determining return on investment which needs to be overcome if an open approach is to contribute to evolutionary software engineering.

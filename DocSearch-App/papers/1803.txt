@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Haze removal is useful in computational photography and computer vision applications. Although many haze removal algorithms have been proposed, their computational efficiency requires improvement. A real-time haze removal method is presented in this paper. The method is based on the concept of a dark channel prior. To enhance the haze removal performance, an approximate method to estimate the atmospheric light and transmission is employed. For embedded system applications, a hardware architecture to perform real-time haze removal is proposed. The hardware can achieve 116 MHz on Stratix FPGA. The simulation results indicate that the hardware is highly efficient and performs well. It obtains good image recovery results and satisfies the real-time requirement even for large images.

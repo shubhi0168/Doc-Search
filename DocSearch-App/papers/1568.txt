@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Extracting powerful image features plays an important role in computer vision systems. Many methods have previously been proposed to extract image features for various computer vision applications, such as the scale-invariant feature transform (SIFT), speed-up robust feature (SURF), local binary patterns (LBP), histogram of oriented gradients (HOG), and weighted HOG. Recently, the convolutional neural network (CNN) method for image feature extraction and classification in computer vision has been used in various applications. In this research, we propose a new gender recognition method for recognizing males and females in observation scenes of surveillance systems based on feature extraction from visible-light and thermal camera videos through CNN. Experimental results confirm the superiority of our proposed method over state-of-the-art recognition methods for the gender recognition problem using human body images.

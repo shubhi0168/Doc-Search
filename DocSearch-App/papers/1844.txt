@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Hole and crack filling is the most important issue in depth-image-based rendering (DIBR) algorithms for generating virtual view images when only one view image and one depth map are available. This paper proposes a priority patch inpainting algorithm for hole filling in DIBR algorithms by generating multiple virtual views. A texture-based interpolation method is applied for crack filling. Then, an inpainting-based algorithm is applied patch by patch for hole filling. A prioritized method for selecting the critical patch is also proposed to reduce computation time. Finally, the proposed method is realized on the compute unified device architecture parallel computing platform which runs on a graphics processing unit. Simulation results show that the proposed algorithm is 51-fold faster for virtual view synthesis and achieves better virtual view quality compared to the traditional DIBR algorithm which contains depth preprocessing, warping, and hole filling.

@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Automotive systems are widely used in industry and our daily life. As the reliability of automotive systems is becoming a greater challenge in our community, increasingly more automotive companies are interested in applying formal methods to improve the reliability of automotive systems. We focus on automotive operating systems conforming to the OSEK/VDX standard. Such operating systems are considered as important components to ensure the reliability of the automotive systems. In previous work, we proposed a framework to verify the design models of reactive systems against their specifications. This framework allows us to check whether the design model conforms to the specification based on a simulation relation. This paper shows a case study in which the framework is applied to a real design of the OSEK/VDX operating system. As a result, we found that we were able to check several important properties of the design model. We show the effectiveness and practicality of the framework based on the results of the case study.

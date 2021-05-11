@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Distributed Denial of Service (DDoS) attacks always remain problematic for the security of Data centers, malicious codes are injected to weaker the network and acquire unauthorized access. As protection the firewalls are initial line of defense to battle with unauthorized access, and help to the flawless transactions. Conventional firewalls rely on predefined policies to control, and policies rely on assumptions and notions. These firewalls are not so much intelligent to take run-time decision by their own at the last minute required. However if the hacker continuously stroke any port of firewall, it will hang-up and slowdown for responding, moreover chance to access the servers and entire network. This survey based on state of the art in data centers, especially DDoS challenges in DCNs, the paper based on some learning processes, which will focus to evaluate and analyse the complexity of secure connections in real-world data centers.

@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+In 2014, a (t, n) electronic lottery protocol was proposed to achieve a series of functional properties including the correctness, fairness, randomness, traceability, unforgeability, robustness, practicability and efficiency. However, a weakness that destroys the fairness and randomness is often ignored, i.e., if at least t + 1 players collude, they can control the generation of a specific winning result to obtain the prize. Using the oblivious transfer based on elliptic curve cryptography (ECC), this paper presents an improved lottery protocol, which not only inherits the previous merits, but also resists against the collusion attack from the participants such that the fairness and the randomness are really achieved. Furthermore, the improved protocol is more efficient than the previous version due to the feature of ECC.

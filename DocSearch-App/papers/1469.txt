@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Educating our future engineers so that they can gain high proficiency in computational thinking is essential for their career prospects. As educators, acquiring a good understanding of the various learning motivation factors/tools as well as their inter-relationships is a significant step forward in achieving this goal. In this article, we describe an exploratory, data-analytic investigation into the influences of the various learning motivation factors on one another as well as on effecting e-learning of a group of science and engineering students taking computer programming courses. Based on the algorithmic results, we highlight concrete ideas that may have direct impact on improving an existing e-learning system. Further, we describe how the graphical visualization of the algorithmic results can guide us to set priority for focusing on which learning motivation factors first, and which factors next, in achieving a given education goal. These are among some of the new insights not easily obtainable from confirmatory-based analyses.

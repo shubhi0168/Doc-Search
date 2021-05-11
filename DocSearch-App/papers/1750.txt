@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Given the continuous evolution of hardware capabilities for embedded systems, the idea of virtualization becomes. practical. Virtualization on embedded systems provides the running of multiple types of applications on the same platform and reduction in hardware and power consumption costs through consolidation of existing functionality. We present a versatile virtualization framework, VMXHAL, that we designed, implemented and deployed on embedded systems, ranging from development boards to fully fledged hand-held devices. VMXHAL uses a reduced Trusted Computing Base of only 25,000 lines of code (compared to Xen's 150,000 lines of code), comprising a thin layer L4 microkernel and a minimal set of management applications. The thin layer design provides versatility allowing both baremetal (or native) applications and paravirtualized operating systems. As proof of concept, we built a virtualized dual-Android setup: two Android operating systems running simultaneously on a Galaxy Nexus phone, on top of our virtualization framework.

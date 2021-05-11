@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Covering generalized rough set theory is an important extension of classical rough set theory. To characterize a fuzzy set in a given covering approximation space, a pair of fuzzy sets, called covering rough fuzzy lower and upper approximations, were introduced, but they do not describe well how much uncertainty is induced by the granularity of knowledge. In this paper, we first discuss the relationship between uncertainty and granularity of knowledge. Then we examine several commonly used distance measures, and indicate that some of them exhibit some limitations. Next we propose a roughness measure based on Minkowski distance, and examine some important properties of this measure. Finally, an illustrative example is provided to demonstrate the application of the roughness measure to incomplete information systems with fuzzy decision.

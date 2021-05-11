@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Evaluating link prediction methods is a hard task in very large complex networks due to the prohibitive computational cost. However, if we consider the lower bound of node pairs' similarity scores, this task can be greatly optimized. In this paper, we study CN index in the bounded link prediction framework, which is applicable to enormous heterogeneous networks. Specifically, we propose a fast algorithm based on the parallel computing scheme to obtain all node pairs with CN values larger than the lower bound. Furthermore, we propose a general measurement, called self-predictability, to quantify the performance of similarity indices in link prediction, which can also indicate the link predictability of networks with respect to given similarity indices. (C) 2016 Elsevier B.V. All rights reserved.

@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Agility is a concept and practice with significant importance in managing projects and organizations, although it can also be very risky due to its degree of fuzziness if not properly defined. This research re-defines agility, emphasizes the need for ontologies for its management, and creates an application to measure the degree of agility inside an organization. In this research, various definitions of agility were gathered for the creation of ontology through a mind map revealing the characteristics of agility. As part of the Co-Evolute theory and methodology, the first agility ontology was developed as well as an application that evaluates the degree of agility in an organization. The application includes statements on which the respondents give opinions concerning the current and future desired states of agility and its importance in an evaluative way. The application has proven to operate well and extensive validation and verification of the tests runs will follow.

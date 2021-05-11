@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Game-based learning is considered as a very motivational tool to accelerate active learning of students. As such learning environments usually follow a computer-assisted instruction concept that offers no adaptability to each student, some idea from Intelligent Tutoring Systems (ITS) are borrowed and applied in educational games to teach introductory programming. Thus, we developed a Game-based Intelligent Tutoring System (GITS) in the form of a competitive board game. The board game revises the classic table game "Snakes and Ladders" to improve web-based problem solving skills and learning computer programming. Moreover, a mini-game, tictac-toe quiz, is applied in GITS to update the Bayesian network used for the process of decision-making in our proposed system. Our future work is to evaluate the GITS by conducting an experimental study using novices.

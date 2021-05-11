@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+A periodic processes scheduling problem appears for flexible manufacturing systems, computer systems, and other applications. The paper considers an approach to flow shop scheduling in terms of real-time distributed computing systems. The approach is based on the concept of solvable class of systems, for which simple optimal scheduling algorithms exist. The proposed approach belongs to the class of fast approximate algorithms; it slightly falls behind the known heuristic NEH algorithm regarding the optimality criterion, but it is much faster.

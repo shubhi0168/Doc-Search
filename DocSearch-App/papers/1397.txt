@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Dual assignment clustering (DAC) has been recently proposed in computer vision, shown to yield improved accuracy for action clustering tasks. The key idea of DAC is to consider another view (different from the original features) for the same set of samples, and to exploit the statistical correlation between cluster assignments in two views. However, the existing optimization is heuristic, mainly due to the difficulty in combinatorial optimization for hard cluster assignment. In this paper, we introduce a novel DAC optimization algorithm based on a probabilistic (soft) treatment, where the proposed objective function incorporates both the goodness of clustering in each view and the correlation between two views in a more principled and theoretically sound fashion. We also propose a lower-bound maximization technique that not only admits fast per-iteration solutions but also guarantees convergence to a local optimum. The superiority of the proposed approach to the existing methods is demonstrated for several activity video datasets. (C) 2016 Elsevier Inc. All rights reserved.

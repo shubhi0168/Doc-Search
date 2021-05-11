@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Detecting correlated network flows aids with exposing the attackers who hide behind anonymous networks or stepping stones. More recent flow watermarking schemes can link flows, but are often impossible to achieve invisibility and robustness concurrently. This letter proposes an innovative connection correlation scheme capable of remaining invisible to attackers. The idea is that we exploit the burstiness and chaos inherent in network traffic to collect some unique and stable traffic traits, which are used later to construct an identifier based on Shamir's (t, n) threshold secret sharing scheme. Experimental results indicate that the proposed scheme is robust to network jitter, packet insertions, and losses.

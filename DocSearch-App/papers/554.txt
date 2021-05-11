@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Automated analysis and assessment of students' programs, typically implemented in automated program assessment systems (APASs), are very helpful to both students and instructors in modern day computer programming classes. The mainstream of APASs employs a black-box testing approach which compares students' program outputs with instructor-prepared outputs. A common weakness of existing APASs is their inflexibility and limited capability to deal with admissible output variants, that is, outputs produced by acceptable correct programs that differ from the instructor's. This paper proposes a more robust framework for automatically modelling and analysing student program output variations based on a novel hierarchical program output structure called HiPOS. Our framework assesses student programs by means of a set of matching rules tagged to the HiPOS, which produces a better verdict of correctness. We also demonstrate the capability of our framework by means of a pilot case study using real student programs.

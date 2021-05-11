@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+Engineering designs are typically constrained by requirements and specifications. The Design Analogy Performance Parameters System (D-APPS) project seeks to provide engineers with a means to transform these product requirements and specifications into functional analogies. D-APPS employs design by-Analogy (DbA) via critical functionality and the engineering performance parameters from the specifications to produce functional alternative options to design engineers. Repositories, or databases, provide structured storage of information for retrieval by users in an systemic manner. D-APPS utilizes a repository to store analogy entries, capable of being polled by the developed algorithm. Analogous matches are formulated with the weighting scheme of the algorithm. This research investigates the structures of three alternative repositories, and the current D-APPS database with its interface to the algorithm and design engineer. The architecture of the repository is discussed with example entries and rationale for inclusion.

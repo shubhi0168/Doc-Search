@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A KP-like nonlinear differential equation is introduced through a generalised bilinear equation which possesses the same bilinear form as the standard KP bilinear equation. By symbolic computation, nine classes of rational solutions to the resulting KP-like equation are generated from a search for polynomial solutions to the corresponding generalised bilinear equation. Three generalised bilinear differential operators adopted are associated with the prime number p = 3.

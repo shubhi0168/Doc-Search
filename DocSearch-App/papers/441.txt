@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+As a mobile operating system framework, Android plays a significant role in supporting mobile apps. However, current Android application model is not efficient by using current two common approaches, including Activity+XML Layout Files (AXLF) and HTML+WebKit (HWK) models. In this paper, we propose a novel middleware service solution that overcomes the drawbacks with using the pre-cache approach, PrecAche Technology of Android System (PATAS). The proposed method uses HTML to design the application interface and separately store the Page Framework (PF) and Page Data (PD). We create a new middleware of web pages, Version Flags, to indicate whether PF and PD are expired. Our experimental results represent that the proposed approach can improve the execution efficiency as well as reduce the networking costs, which can be broadly used in cloud-based distributed systems. (C) 2015 Elsevier B.V. All rights reserved.

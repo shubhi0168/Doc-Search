@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Context-awareness is a key feature in ubiquitous middleware. Mainly, it is applied to adapt services and interfaces of applications that use ubiquitous features. The application of context information to personalize data queries is a recent topic in computing and still presents a large number of challenges. One of the main gaps evidenced by this research field is the lack of integration between context information, which is designed and used by ubiquitous middleware, and domain data, which are frequently persisted in relational databases. This integration is necessary because context can be used as a filter for content query. This position paper presents a motivational scenario that clarifies the necessity of the integration between context, used by ubiquitous middleware, and relational data, a comparison between the state of the art of the field, a list of research opportunities in the field, and a proposal of a framework that uses ontologies to integrate context and domain data, modeled and stored in relational databases.

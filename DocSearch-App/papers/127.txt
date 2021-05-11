@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+A non-destructive methodology was developed to automatically detect and quantify bruise volumes in the equatorial region of apples, using X-ray CT images. Grey level threshold values were calculated to segment bruises in 'Jonagold', 'Joly Red' and 'Kanzi' apple fruit using the multi-level Otsu's threshold method. Comparisons were made between the CT-based bruise volume estimates and bruise volume estimates that were based on destructive measurements in combination with simple geometric assumptions. Visualisation of the bruises in both 2 and 3D showed that bruises, resulting from a pendulum impact with a spherical impactor, can be highly irregularly shaped which implies that the bruise volume estimations based on simple geometric assumptions cannot deliver accurate results. (C) 2017 Elsevier B. V. All rights reserved.

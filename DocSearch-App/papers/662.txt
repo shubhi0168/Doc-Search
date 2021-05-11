@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Background: Methods for in silico screening of large databases of molecules increasingly complement and replace experimental techniques to discover novel compounds to combat diseases. As these techniques become more complex and computationally costly we are faced with an increasing problem to provide the research community of life sciences with a convenient tool for high-throughput virtual screening on distributed computing resources. Results: To this end, we recently integrated the biophysics-based drug-screening program FlexScreen into a service, applicable for large-scale parallel screening and reusable in the context of scientific workflows. Conclusions: Our implementation is based on Pipeline Pilot and Simple Object Access Protocol and provides an easy-to-use graphical user interface to construct complex workflows, which can be executed on distributed computing resources, thus accelerating the throughput by several orders of magnitude.

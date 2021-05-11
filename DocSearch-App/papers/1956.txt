@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+In an attempt to tackle shortcomings of current approaches to collaborating on the development of structured data sets, we present a prototype platform that allows users to share and collaborate on the development of data structures via a web application, or by using language bindings or an API. Using techniques from the theory of persistent linked data structures, the resulting platform delivers automatically version-controlled map and graph abstract data types as a web service. The core of the system is provided by a Hash Array Mapped Trie (HAMT) which is made confluently persistent by path-copying. The system aims to make efficient use of storage, and to have consistent access and update times regardless of the version being accessed or modified.

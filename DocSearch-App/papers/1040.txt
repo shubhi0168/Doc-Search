@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Computing connected dominating sets (CDSs) have been widely used to construct virtual backbones in wireless sensor networks, in order to control topology, facilitate routing and extend network lifetime. Constructing a minimum CDS is an NP-hard problem. For any CDS algorithm, the size of the constructed CDS is usually considered to be the most important performance factor. In this paper, we propose three novel algorithms to construct CDS in wireless sensor networks. The algorithms are intended to generate a small CDS. The first algorithm has a performance factor of 5 from the optimal solution. This approximation outperforms the existing state-of-the-art approaches. The other two algorithms are variations of the first algorithm with performance improvements. We include the performance analysis and simulation results that show the effectiveness of our algorithms in reducing the CDS size.

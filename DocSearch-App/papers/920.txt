@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Cloud-based mobile networks are foreseen to be a technological enabler for the next generation of mobile networks. Their design requires substantial research as they pose unique challenges, especially from the point of view of additional delays in the fronthaul network. Commonly used network protocols should therefore be adjusted to cope with the peculiarities of these networks. In this paper, we investigate an optimized design of the Transmission Control Protocol (TCP), as it plays a central role in all-IP mobile networks to ensure optimal performances for application-layer services. TCP implementations of 3 popular operating systems are investigated in our network model. The results on the most influential parameters are used to design an optimized TCP for cloud-based mobile networks.

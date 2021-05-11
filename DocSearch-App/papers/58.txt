@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+A genome sequence assembly provides the foundation for studies of genotypic and phenotypic variation, genome structure, and evolution of the target organism. In the past four decades, there has been a surge of new sequencing technologies, and with these developments, computational scientists have developed new algorithms to improve genome assembly. Here we discuss the relationship between sequencing technology improvements and assembly algorithm development and how these are applied to extend and improve human and nonhuman genome assemblies.

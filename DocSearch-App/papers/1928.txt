@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Implicit representations of geometry have found applications in shape modeling, simulation, and other graphics pipelines. These representations, however, do not provide information about the paths of individual points as shapes move and undergo deformation. For this reason, we reconsider the problem of tracking points on level set surfaces, with the goal of designing an algorithm that unlike previous work can recover rotational motion and nearly isometric deformation. We track points on level sets of a time-varying function using approximate Killing vector fields (AKVFs), the velocity fields of near-isometric motions. To this end, we provide suitable theoretical and discrete constructions for computing AKVFs in a narrow band surrounding an animated level set surface. Furthermore, we propose time integrators well-suited to integrating AKVFs in time to track points. We demonstrate the theoretical and practical advantages of our proposed algorithms on synthetic and practical tasks.

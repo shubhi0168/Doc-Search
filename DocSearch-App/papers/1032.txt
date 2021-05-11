@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer Supported Collaborative Learning (CSCL) aims to improve education by combining collaborative learning with modern information and communication technology. The opportunity exists to develop successful CSCL applications due to the increase in popularity of social networking and online gaming among students. In this chapter, we present an approach for promoting metacognition in computer programming using collaboration and computer games. We show that CSCL can improve the students' metacognitive skills and the use of games motivates and engages students in the learning process. Together, they enhance the qualities of a successful problem solver and low problem solving skill has been identified as the main challenge faced by novice computer programmers.

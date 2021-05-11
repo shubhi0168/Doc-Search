@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Every complex problem now days require multicriteria decision making to get to the desired solution. Numerous Multi-criteria decision making (MCDM) approaches have evolved over recent time to accommodate various application areas and have been recently explored as alternative to solve complex software engineering problems. Most widely used approach is Analytic Hierarchy Process that combines mathematics and expert judgment. Analytic Hierarchy Process suffers from the problem of imprecision and subjectivity. This paper proposes to use Fuzzy AHP (FAHP) instead of traditional AHP method. The usage of FAHP helps decision makers to make better choices both in relation to tangible criteria and intangible criteria. The paper provides a clear guide on how FAHP can be applied, particularly in the software engineering area in specific situations. The conclusion of this study would help and motivate practitioners and researchers to use multi-criteria decision making approaches in the area of software engineering.

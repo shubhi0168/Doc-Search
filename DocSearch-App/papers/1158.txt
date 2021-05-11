@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Critical onsets for draw resonance instability occurring in two-dimensional (2-D) film casting processes with Newtonian and viscoelastic (Upper-Convected Maxwell and Phan-Thien and Tanner) fluids have been newly determined using a transient frequency response method. Under a constant tension condition, which guarantees always stable operation, the trajectory of a transfer function between the output takeup velocity and input tension in a Nyquist plot has been used as an indicator for finding draw resonance onsets. Various stability windows for Newtonian and viscoelastic fluids have been constructed, confirming that the onsets were well-predicted when compared with transient responses in actual velocity controlled operating systems around the onsets. Interestingly, up-and-down stability patterns along the aspect ratio in the Newtonian cases were found to be closely related to the flow deformation features of the fluid elements within the film width. Dichotomous stability behaviors for extensional-thickening and extensional-thinning fluids were well addressed in the 2-D processes. (C) 2017 Elsevier B.V. All rights reserved.

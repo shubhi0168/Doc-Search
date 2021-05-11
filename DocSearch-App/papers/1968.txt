@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+In complex network, security and resilience issue in a network is very important. The breakdown of whole network can be triggered by attack or failure of even only a single node. In this paper, the cascading failure issue in a food supply chain is addressed. In the food supply chain network, all the nodes are interconnected and interdependent. The tight coupling of nodes increases efficiency of food supply chain, however, the association relation between nodes may cause cascading failure of food network. Firstly, a Node Importance Evaluation Method (NIEM) is employed to analyze cascading failure characteristics in the food supply chain network. Then, the critical nodes which may cause cascading failure in the whole network are identified. Subsequently, a Node Importance Evaluation Method is proposed to protect these critical notes. Finally, cascading failure caused by largest connected component is tested using the largest workload tolerance parameter.

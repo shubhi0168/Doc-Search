@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Detecting early enough the anomalous behavior of technical systems facilitates cost savings thanks to avoiding system downtimes, guiding maintenance, or improving performance. The novel framework proposed in this paper processes event streams originating from system monitoring for anomaly detection purposes. Therefore, statistical models characterizing the normal behavior of the monitored system are learned from the events. Instead of having one coarse normal model for all operational states, the proposed framework contains a mechanism for automatically detecting different conditions of the systemallowing for fine-tuned models for every condition. The performance of the framework is demonstrated by means of a real-world application, where the log files of a large-scale printing machine are analyzed for anomalies.

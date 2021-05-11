@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Emerging byte-addressable non-volatile memory technologies, such as phase change memory (PCM) and spin-transfer torque RAM (STT-RAM), offer both the byte-addressability of memory and the durability of storage, thus making it feasible to build single-level store systems. To ensure the consistency of persistent data structures in the presence of power failures or system crashes, it requires flushing cache lines to persistent memory frequently, thus incurring non-trivial synchronization overhead. To mitigate this issue, we propose two techniques. First, we use non-volatile STT-RAM as scratchpad memory on chip to store recovery information, thereby eliminating synchronization cost in the logging phase due to the avoidance of off-chip logging operations. Second, we present an adaptive synchronization policy based on caching modes in terms of data access patterns, thereby eliminating unnecessary synchronization cost in the checkpoint phase. Evaluation results indicate that the two techniques improve the overall performance from 2.15x to 2.39x compared with conventional transactional persistent memory.

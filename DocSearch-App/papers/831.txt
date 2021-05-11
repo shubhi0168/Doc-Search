@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Built-in data structures are a key contributor to the performance of dynamic languages. Record data structures, or records, are one of the common advanced, but not easily optimizable built-in data structures supported by those languages. Records may be used in an object-oriented fashion or to implement object orientation itself. In this paper, we analyze how records are used in different applications in the Scheme dialect Racket. Based on the data obtained, we suggest the application of existing optimization techniques for records and devise a new one for immutable boolean fields. Most of them can be applied to a wide range of record implementations in dynamic languages. We apply these optimizations to records in Pycket, an implementation of Racket. With one exception, microbenchmarks show a two-to ten-fold speed-up of our implementation over plain Racket.

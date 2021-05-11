@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Halftoning and inverse halftoning algorithms are very important image processing tools, widely used in the development of digital printers, scanners, steganography and image authentication systems. Because such applications require to obtain high quality gray scale images from its halftone versions, the development of efficient inverse halftoning algorithms, that be able to provide gray scale images with Peak Signal to Noise Ratio (PSNR) higher than 25, have been research topic during the last several years. Although a PSNR of about 25dB may be enough for several applications, exist several other that require higher image quality. To reduce this problem, this paper proposes inverse halftoning algorithms based on Atomic Function and multi-layer perceptron neural network which provides gray scale images with PSNRs higher than 30dB independently of the method used to generate the halftone image.

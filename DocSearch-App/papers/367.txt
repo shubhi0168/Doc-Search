@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+An application of the (G (')/G)-expansion method to search for exact solutions of nonlinear partial differential equations is analysed. This method is used for Burgers, Fisher, Huxley equations and combined forms of these equations. The (G (')/G)-expansion method was used to construct periodic wave and solitary wave solutions of nonlinear evolution equations. This method is developed for searching exact travelling wave solutions of nonlinear partial differential equations. It is shown that the (G (')/G)-expansion method, with the help of symbolic computation, provides a straightforward and powerful mathematical tool for solving nonlinear partial differential equations.

@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Agent-based models (ABMs) are increasingly being used to study population dynamics in complex systems, such as the human immune system. Previously, Folcik et al. (The basic immune simulator: an agent-based model to study the interactions between innate and adaptive immunity. Theor Biol Med Model 2007; 4: 39) developed a Basic Immune Simulator (BIS) and implemented it using the Recursive Porous Agent Simulation Toolkit (RePast) ABM simulation framework. However, frameworks such as RePast are designed to execute serially on central processing units and therefore cannot efficiently handle large model sizes. In this paper, we report on our implementation of the BIS using FLAME GPU, a parallel computing ABM simulator designed to execute on graphics processing units. To benchmark our implementation, we simulate the response of the immune system to a viral infection of generic tissue cells. We compared our results with those obtained from the original RePast implementation for statistical accuracy. We observe that our implementation has a 13x performance advantage over the original RePast implementation.

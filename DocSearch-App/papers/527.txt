@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+At present, so many techniques are available which can be applicable to wide range of datasets. They provide an effective way to mine frequent pattern from the datasets. Most of them use different kind s of data structures for the processing which provide variations in requirement of time and space. Generally, traditional techniques are restricted to the narrow area or provide effective results only in the specific environment. So, it requires continuous optimization and updation. Dynamic data structure and mapping shows more effectiveness compared to the traditional techniques in terms of time and space requirement for processing.

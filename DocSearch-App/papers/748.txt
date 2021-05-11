@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Based on generalized bilinear forms, lump solutions, rationally localized in all directions in the space, to dimensionally reduced p-gKP and p-gBKP equations in (2+1)-dimensions are computed through symbolic computation with Maple. The sufficient and necessary conditions to guarantee analyticity and rational localization of the solutions are presented. The resulting lump solutions contain six parameters, two of which are totally free, due to the translation invariance, and the other four of which only need to satisfy the presented sufficient and necessary conditions. Their three-dimensional plots with particular choices of the involved parameters are made to show energy distribution.

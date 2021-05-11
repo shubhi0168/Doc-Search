@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Controlling the geometric parameters of the weld pool and the weld bead is the main method for getting better welding quality in industrial robotic welding. This paper presents the technology on a real-time welding process sensor, which is necessary to improve welding quality using an intelligent robot during the gas metal arc welding process. A set of vision systems, which consists of an active vision sensor and a passive vision sensor, has been designed. The clear, steady images of the weld pool were obtained by the passive vision part, and the images of the laser stripe projected on the weld bead were obtained by the active vision part, at the same time. The features of the acquired images were analyzed, and the geometric parameters of the weld cross section and the weld pool were successfully extracted from the images. The detection precision of the system was also analyzed.

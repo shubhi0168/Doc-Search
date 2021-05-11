@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Concerning the problems that assessment scope of present network security situation is limited, time and space complexity are high with single source information and low accuracy, a framework of comprehensive factor weighted assessment for network security situation is proposed. It fully considers the information fusion of multi-information sources and multi-level heterogeneous, dynamically displaying network current security situation overall, that reflects the network security situation accurately and quantitatively. Finally, taking full use of the instance data of local network, the proposed method of weighted factors for network security situation assessment and algorithm are verified, that the experimental results show correctness of this method.

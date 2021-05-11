@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Accurate determination of the protons energy in radiotherapy planning can be achieved if the stopping power of protons to specific body tissue are known. The Bethe-Bloch equation greatly aid the understanding of how to calculate the stopping power from the physics point of view, but not so practical and easy to be applied on radiotherapy planning system that involves many computational calculations and computer programming. In this paper we present a numerical equation for mass stopping power of protons in four types of human body substance, i.e. water, bone, muscle and tissue. The equation was obtained by fitting the data values obtained from SRIM program. By using the numerical equation, then the algorithm programming is expected to become simpler and easier.

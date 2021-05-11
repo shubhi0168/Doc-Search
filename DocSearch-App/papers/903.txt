@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Cloud Computing is a specialized form of Distributed computing in which the resources such as storage, processors, memory etc. are completely abstracted from the consumer. The number of Cloud Service Providers (CSPs) who offer computing as a service has increased in recent times and often the customers need to interact with unknown service providers to carry out transactions. In such an open and anonymous environments, trust helps to build consumer confidence and provides a reliable environment for them. A trust based ranking system could also help them to choose between the services as per their requirement. In this paper, multi criteria decision making methods have been used to rank the service providers based on their infrastructure parameters. A combination of analytic and fuzzy method gives a better trust estimate as compared to an analytic method alone.

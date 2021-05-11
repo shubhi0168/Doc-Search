@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A robust multi-objective optimization method for truss optimum design is presented. In the robust design, materials and loads are assumed to be affected by epistemic uncertainties (imprecise or lack of knowledge). Uncertainty quantification using evidence theory in optimum design subject to epistemic uncertainty is undertaken. In addition to a functional objective, an evidence-based plausibility measure of failure of constraint satisfaction is minimized to formulate the robust design into a multi-objective optimization problem. In order to alleviate the computational difficulties in the evidence theory-based uncertainty quantification analysis, a combined strategy of differential evolution-based interval optimization method and parallel computing technique is proposed. A population-based multi-objective differential evolution optimization algorithm is designed for searching robust Pareto front. Two truss structures with shape and sizing optimum design problems are presented to demonstrate the effectiveness and applicability of the proposed method.

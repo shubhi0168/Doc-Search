@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Cognitive robots have started to find their way into manufacturing halls. However, the full potential of these robots can only be exploited through an integration into the automation pyramid so that the system is able to communicate with the manufacturing execution system (MES). Integrating the robot with the MES allows the robot to get access to manufacturing environment and process data so that it can perform its task without human intervention. This paper describe the mobile robotic manipulator developed in the EU project STAMINA, its has been integrated with an existing MES and its application in a kitting task from the automotive industry.

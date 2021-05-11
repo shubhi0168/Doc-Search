@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming is an important skill for engineering and computer science students. However, teaching and learning programming concepts and skills has been recognized as a great challenge to both teachers and students. Therefore, the development of effective learning strategies and environments for programming courses has become an important issue. To address this issue, this study proposes a two-tier test-based learning system to enhance students' learning outcomes in computer-programming courses. We conducted an experiment on a college computer-programming course to evaluate the effectiveness of the proposed method. The experimental results show that the proposed method not only improves the students' attitude toward learning the programming language, but also enhances their programming skills.

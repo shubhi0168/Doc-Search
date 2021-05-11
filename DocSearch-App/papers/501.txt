@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+As the prevalence of embedded systems in various fields has spread, real-time operating systems (RTOSs) have been widely used for many years satisfying real-time requirements and a multitasking design. The use of RTOS adds additional overhead to a system, which should be deliberately considered and evaluated in some critical systems. This paper presents a qualitative and quantitative comparison between an open-source RTOS (FreeRTOS V8.0.0) and a commercial one (mu C/OS-III). Both RTOS use a preemptive multitasking kernel, with additional support for round robin scheduling. We aim to benchmark and evaluate their performance and behaviour, including seven performance tests and two behaviour tests. Comparing the measurement results shows that the commercial mu C/OS-III does not behave much better than FreeRTOS. Furthermore, we discovered that the priority changing function of mu C/OSIII does not behave correctly in some circumstances. Although FreeRTOS has no such problem in the latest version, it still has a problem with its dynamic memory management.

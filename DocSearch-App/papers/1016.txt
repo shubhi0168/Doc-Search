@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming is an important competence for engineering and computer science students. Teaching and learning programming concepts and skills have been recognized as being a big challenge to both teachers and students. Accordingly, researchers have indicated that 'learning strategy,' lack of study' and 'lack of practice' are the causal attributes of success or failure in a computer programming course. Therefore, to cope with this problem, an interactive test system is proposed to enhance students' learning outcomes in computer programming courses in this study. An experiment has been conducted on a college computer programming course to evaluate the effectiveness of the proposed method. The experimental results show that the proposed approach can benefit the students in enhancing their programming skills. In addition, the students' attitudes toward learning computer programming were improved.

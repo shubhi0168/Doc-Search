@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+In [18], a membrane parallel theoretical framework for computing (co) homology information of foreground or background of binary digital images is developed. Starting from this work, we progress here in two senses: (a) providing advanced topological information, such as (co) homology torsion and efficiently answering to any decision or classification problem for sum of k-xels related to be a (co) cycle or a (co) boundary; (b) optimizing the previous framework to be implemented in using GPGPU computing. Discrete Morse theory, Effective Homology Theory and parallel computing techniques are suitably combined for obtaining a homological encoding, called algebraic minimal model, of a Region-Of-Interest (seen as cubical complex) of a presegmented k-D digital image. (C) 2016 Elsevier B.V. All rights reserved.

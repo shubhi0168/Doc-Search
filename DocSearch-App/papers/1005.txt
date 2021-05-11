@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer Programming competence is a good research field in which students of Computer Science can be assisted by an Intelligent Tutoring System (ITS). An ITS can guide the students in their learning process proposing the corresponding learning activities for each particular student. In this article, we will outline a proposal about how to use eLearning standard and automatic assessment techniques to build an ITS for learning to program. In addition, we will show the implemented system to test our proposal and how we have evaluated it with students in our university.(c) 2012 Wiley Periodicals, Inc. Comput Appl Eng Educ 22:774-787, 2014; View this article online at ; DOI

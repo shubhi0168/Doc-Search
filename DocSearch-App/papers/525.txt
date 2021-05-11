@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+At present MapReduce computing model-based Hadoop framework has gradually become the most famous distributed computing framework because of its remarkable features such as scalability, fault tolerance, data security, and powerful IO ability. However, Hadoop framework only supports limited load balancing policies, which may result in performance deterioration in heterogeneous clusters. Additionally Hadoop does not have advanced dynamic load balancing mechanism in enabling its optimal performance in dynamic environment. This paper presents a sliding window-based dynamic load balancing algorithm, which specially aims at balancing the load among the heterogeneous nodes during the Hadoop job processing. The presented algorithm is evaluated in both simulated and physical environments. The experimental results show that the performances in terms of efficiency of Hadoop cluster can be significantly improved. Copyright (C) 2016 John Wiley & Sons, Ltd.

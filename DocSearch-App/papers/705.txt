@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Background: The Biomembrane Force Probe is an approachable experimental technique commonly used for single-molecule force spectroscopy and experiments on biological interfaces. The technique operates in the range of forces from 0.1 pN to 1000 pN. Experiments are typically repeated many times, conditions are often not optimal, the captured video can be unstable and lose focus; this makes efficient analysis challenging, while out-of-the-box non-proprietary solutions are not freely available. Results: This dedicated tool was developed to integrate and simplify the image processing and analysis of videomicroscopy recordings from BFP experiments. A novel processing feature, allowing the tracking of the pipette, was incorporated to address a limitation of preceding methods. Emphasis was placed on versatility and comprehensible user interface implemented in a graphical form. Conclusions: An integrated analytical tool was implemented to provide a faster, simpler and more convenient way to process and analyse BFP experiments.

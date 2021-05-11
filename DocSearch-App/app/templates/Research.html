@@ -1,0 +1,68 @@
+<html>
+<head>
+    <title>
+        Recommendation
+    </title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% load staticfiles %}
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="{% static 'Research.css' %}">
+
+</head>
+<body>
+    <h2>Research Paper Recommendation</h2>
+    <h1>Journal Locator</h1>
+    <div class="bg-image"></div>
+    <div class="bg-text">
+        <h2>OR</h2>
+    </div>
+      <form id="form_1" class="form-inline" method="POST"
+            action="{% url "app-research:recommend-paper-keywords" %}">
+        {% csrf_token %}
+        <div class="input-group">
+            <input type="search" class="form-control" name="keyword_list" size="50" placeholder="Keywords" id="keywords" width="48" height="48">
+        <div class="input-group-btn">
+            <button type="submit" class="btn btn-danger">Search </button>
+        </div>
+        </div>
+      </form>
+
+      <form id="form_2" class="form-inline" method="post"
+            action="{% url "app-research:recommend-paper-abstract" %}">
+        {% csrf_token %}
+        <div class="input-group" id="file_upload">
+            <input type="search" name="abstract" class="form-control" size="1000" placeholder="Abstract" >
+        <div class="input-group-btn">
+            <button type="submit" class="btn btn-danger">Search </button>
+        </div>
+        </div>
+      </form>
+
+    <div>
+        <p class="search_results_h"><b>Search Results</b></p>
+        <ul style="list-style-type:none;">
+            {% for paper,val in papers.items %}
+            <li>
+                <hr>
+                <div>
+                    <a href="/app/download/{{ paper }}" id="paper_title">
+                        {{ paper }} | {{ val.1 }} | {{ val.2 }}
+                    </a>
+                </div>
+                <div id="paper_abstract">
+                    {{ val.3 }}
+                </div>
+            </li>
+            {% endfor %}
+
+        </ul>
+    </div>
+    <!--footer-->
+    <div class="footer">
+        <p>Copyright &#169; 2021. All Rights Reserved.</p>
+    </div>
+</body>
+</html>

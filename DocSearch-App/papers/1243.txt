@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+DateView is a freeware desktop database system for the structured storage and retrieval of geochronological information. It provides a user-friendly interface for constructing queries based on information in the database so as to extract information on specific units, isotope systems, age interpretations, provinces, terranes, reference sources and many other characteristics which geochronologists and geologists might require. Once a subset of the records in the database has been selected, users may choose from several forms of graph so as to better visualise the data. Available graphs include probability histograms, age versus initial ratio or epsilon, and age versus closure temperature. Simple locality (latitude vs longitude) graphs are also available. Grouping of data by interpretation or age interval in the graphs is user customizable. The database may also be shared with colleagues on an intranet. (C) 2004 Elsevier Ltd. All rights reserved.

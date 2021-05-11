@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+A software project encounters many changes during the software development life cycle. The key challenge is to control these changes and manage their impact on the project plan, budget, and implementation schedules. A well-developed change control process should assist the project manager and the responsible team in monitoring these changes. In this paper, we examine a number of approaches for project monitoring & control with different scenarios of project schedules. The comparison shows the effect of applying each approach on the cost and the time of the project. The evaluation illustrates that the integrated software Project and Change Management (IPCM) is a more efficient for providing more control in tracking change requests, and improve the performance monitoring process.

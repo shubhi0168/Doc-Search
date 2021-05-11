@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+Data sharing and information exchange among medical institutions is a requirement for convenient and effective data availability for both healthcare professionals and patients. In this paper, the characteristics of medical data are studied; two mainstream technologies of data storage for medical information are compared, and three strategies of medical documents storage are described with detailed advantages and disadvantages. Semi-structured storage technology is easier to deploy and much more promising to promote in a wider range than all-structured methods. The combination of central and distributed data storage is more practical for regional data sharing. This analysis suggests that semi-structural data storage technology and the combination of central and distributed data storage are efficient and fit well the current situation in China.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Community-driven Question Answering (Q&A) platforms are gaining popularity now-a-days and the number of posts on such platforms are increasing tremendously. Thus, the challenge to keep these platforms noise-free is attracting the interest of research community. Stack Overflow is one such popular computer programming related Q&A platform. The established users on Stack Overflow have learnt the acceptable format and scope of questions in due course. Even if their questions get closed, they are aware of the required edits, therefore the chances of their questions being reopened increases. On the other hand, non-established users have not adapted to the Stack Overflow system and find difficulty in editing their closed questions. In this work, we aim to identify features which help differentiate editing approaches of established and non-established users, and motivate the need of recommendation model. Such a recommendation model can assist every user to edit their closed questions leveraging the edit-style of the established users of the platform.

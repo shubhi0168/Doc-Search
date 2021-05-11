@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Differential evolution (DE) research for multi-objective optimization can be divided into proposals that either consider DE as a stand-alone algorithm, or see DE as an algorithmic component that can be coupled with other algorithm components from the general evolutionary multiobjective optimization (EMO) literature. Contributions of the latter type have shown that DE components can greatly improve the performance of existing algorithms such as NSGA-II, SPEA2, and IBEA. However, several experimental factors have been left aside from that type of algorithm design, compromising its generality. In this work, we revisit the research on the effectiveness of DE for multi-objective optimization, improving it in several ways. In particular, we conduct an iterative analysis on the algorithmic design space, considering DE and environmental selection components as factors. Results show a great level of interaction between algorithm components, indicating that their effectiveness depends on how they are combined. Some designs present state-of-the-art performance, confirming the effectiveness of DE for multi-objective optimization.

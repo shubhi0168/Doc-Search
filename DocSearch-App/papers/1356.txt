@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Discretization by rasterization is introduced into the method of images (MI) in the context of 3D deterministic radio propagation modeling as a way to exploit spatial coherence of electromagnetic propagation for fine-grained parallelism. Traditional algebraic treatment of bounding regions and surfaces is replaced by computer graphics rendering of 3D reflections and double refractions while building the image tree. The visibility of reception points and surfaces is also resolved by shader programs. The proposed rasterization is shown to be of comparable run time to that of the fundamentally parallel shooting and bouncing rays. The rasterization does not affect the signal evaluation backtracking step, thus preserving its advantage over the brute force ray-tracing methods in terms of accuracy. Moreover, the rendering resolution may be scaled back for a given level of scenario detail with only marginal impact on the image tree size. This allows selection of scene optimized execution parameters for faster execution, giving the method a competitive edge. The proposed variant of MI can be run on any GPU that supports real-time 3D graphics.

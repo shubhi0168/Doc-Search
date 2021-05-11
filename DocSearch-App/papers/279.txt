@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+After analyzing the current situation of Computer Programming Course, it presented that computational thinking should be trained in program teaching. And then further proposed the use of the Case Teaching in program teaching courses, as well as task-driven, micro-lesson, MOOCs and other advanced teaching philosophy to cultivate students' computational thinking ability and it improved the students' ability of computational thinking. It will be more helpful in developing all abilities for student in the future.

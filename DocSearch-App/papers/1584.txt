@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Facing with plethora network security events, network security risk evaluation is an effective method to prevent and respond to these security problems. Ignoring possible changes maybe occurred, traditional network security risk evaluation only emphasizes the preventive management in advance. This article presents an approach to explore the probability of network attributes to be breached accurately in Bayesian Attack Graph. In particular, our approach extends BAG with observation node that can be used to imply and adjustment compromising probability timely and dynamically.

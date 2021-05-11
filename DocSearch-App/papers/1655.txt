@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+For over forty years, relational databases have been the leading model for data storage, retrieval and management. However, due to increasing needs for scalability and performance, alternative systems have started being developed, namely NoSQL technology. With increased interest in NoSQL technology, as well as more use case scenarios, over the last few years these databases have been more frequently evaluated and compared. It is necessary to find if all the possibilities and characteristics of non-relational technology have been disclosed. While most papers perform mostly performance evaluation using standard benchmarks, it is nevertheless important to notice that real world scenarios, with real enterprise data, do not function solely based on performance. In this paper, we have gathered a concise and up-to-date comparison of NoSQL engines, their most beneficial use case scenarios from the software engineer viewpoint, their advantages and drawbacks by surveying the currently available literature.

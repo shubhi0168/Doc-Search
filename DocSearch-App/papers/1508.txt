@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Emerging technologies are often not part of any official industry, patent or trademark classification systems. Thus, delineating boundaries to measure their early development stage is a nontrivial task. This paper is aimed to present a methodology to automatically classify patents concerning service robots. We introduce a synergy of a traditional technology identification process, namely keyword extraction and verification by an expert community, with a machine learning algorithm. The result is a novel possibility to allocate patents which (1) reduces expert bias regarding vested interests on lexical query methods, (2) avoids problems with citation approaches, and (3) facilitates evolutionary changes. Based upon a small core set of worldwide service robotics patent applications, we derive apt n-gram frequency vectors and train a support vector machine, relying only on titles, abstracts, and IPC categorization of each document. Altering the utilized Kernel functions and respective parameters, we reach a recall level of 83% and precision level of 85%.

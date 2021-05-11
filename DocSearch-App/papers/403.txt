@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Ant colony-based optimization approach is based on stigmergy behavior of natural insects. Ant Colony Optimization shows promising behavior on dynamic problems like Travelling Sales Person (TSP) problems and other TSP like problems. The paper discusses variants of ACO algorithms as well as measures their performance using TspAntSim simulation tool (Aybars U, Dogan A, J Adv Eng 40 (5), 2009 [1]). TSP is NP-Hard problem which shows fluctuant behavior on instances available in the online library TSPLIB. The paper focuses on behavior of ACO algorithm on such problem instances. The basic idea behind this analytical behavioral study is to help the algorithm design the parameter settings as well as problem instance characteristics. The paper concludes with the remarks on algorithm design criteria of any dynamic problem like TSP and its analytical outcome.

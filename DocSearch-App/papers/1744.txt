@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Given a matrix of size N, two dimensional range minimum queries (2D-RMQs) ask for the position of the minimum element in a rectangular range within the matrix. We study trade-offs between the query time and the additional space used by indexing data structures that support 2D-RMQ5. Using a novel technique-the discrepancy properties of Fibonacci lattices we give an indexing data structure for 2D-RMQs that uses O (N/c) bits additional space with O (c logc(log log c)(2)) query time, for any parameter c, 4 <= c <= N. Also, when the entries of the input matrix are from 10,11, we show that the query time can be improved to O (c logc) with the same space usage. (C) 2016 Published by Elsevier B.V.

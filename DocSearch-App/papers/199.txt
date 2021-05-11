@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+A substantial amount of datasets stored for various applications are often high dimensional with redundant and irrelevant features. Processing and analysing data under such circumstances is time consuming and makes it difficult to obtain efficient predictive models. There is a strong need to carry out analyses for high dimensional data in some lower dimensions, and one approach to achieve this is through feature selection. This paper presents a new relevancy-redundancy approach, called the maximum relevance minimum multicollinearity (MRmMC) method, for feature selection and ranking, which can overcome some shortcomings of existing criteria. In the proposed method, relevant features are measured by correlation characteristics based on conditional variance while redundancy elimination is achieved according to multiple correlation assessment using an orthogonal projection scheme. A series of experiments were conducted on eight datasets from the UCI Machine Learning Repository and results show that the proposed method performed reasonably well for feature subset selection. (C) 2017 Elsevier Ltd. All rights reserved.

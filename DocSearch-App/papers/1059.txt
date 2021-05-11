@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Conformal immersions are harmonic and numerically stable surfaces whose tangents scale isometrically, providing many elegant geometric properties of use in design. This paper maps these forms within the context of discrete differential geometry and conformal geometric algebra in order to outline an approach to synthesizing curved surfaces with applications in architectural geometry, machining, and computer graphics. Inspired by Dorst and Valkenburg's "Square Root and Logarithm of Rotors" paper of 2011, we reformulate the rationalization of cyclidic nets, piecewise smooth surfaces characterized and controlled directly by their tangents.

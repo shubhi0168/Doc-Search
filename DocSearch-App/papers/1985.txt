@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+In e-Learning research, teachers can record lecture videos in e-class and upload these lecture videos to e-Learning system themselves. Once lecture videos and handouts can be generated automatically in traditional classroom, it can help students with self-learning and teacher with lecture content development for e-Learning services. This paper proposed a teaching assistant system based on computer vision that can help in content development for e-Learning services. Lecture videos are taken by using two cameras and merged on both sides so that students can see a clear and complete teaching content. The k-means segmentation is used to extract board area and then connected component technique helps refill the board area which is covered by lecturer's body. Then we use adaptive threshold to extract handwritings in various light conditions and time-series denoising technique is designed to reduce noise. According to extracted handwritings, the lecture videos can be automatically structured with high level of semantics. The lecture videos are segmented into video clips and all key-frames are integrated as handouts of the education videos.

@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Due to their high peak performance and energy efficiency, massively parallel accelerators such as GPUs are quickly spreading in high-performance computing, where large amounts of floating-point data are processed, transferred, and stored. Such environments can greatly benefit from data compression if done sufficiently quickly. Unfortunately, most conventional compression algorithms are unsuitable for highly parallel execution. In fact, it is generally unknown how to design good compression algorithms for massively parallel systems. To remedy this situation, we study 138,240 lossless compression algorithms for single- and double-precision floating-point values that are built exclusively from easily parallelizable components. We analyze the best of these algorithms, explain why they compress well, and derive the Massively Parallel Compression (MPC) algorithm from them. This novel algorithm requires almost no internal state, achieves heretofore unreached compression ratios on several data sets, and roughly matches the best CPU-based algorithms in compression ratio while outperforming them by one to two orders of magnitude in throughput.

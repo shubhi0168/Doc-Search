@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+At the heart of databases is a data model referred to as a schema. Relational databases store information in tables, and the schema defines the tables and provides a map of relationships that show how the different table/data types relate to one another. In Xenbase, we were tasked to represent genomic, molecular, and biological data of both a diploid and tetraploid Xenopus species. When the database model was built over a decade ago, we had very little information on the nature of the X. laevis tetraploidization, but a Chado-based data model was proposed that could deal with the various forms of data in both species. Once the X. laevis genome was sequenced and annotated, it became clear that the data schema is very like the evolutionary schema that resulted in the X. laevis genome. (C) 2015 S. Karger AG, Basel

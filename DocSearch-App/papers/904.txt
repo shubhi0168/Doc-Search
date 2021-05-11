@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Cloud computing is an evolutionary model for distributed computing, which consists of centralized data centers providing resources for massive scalable computing. Major security challenges are the generation, distribution, and usage of encryption keys in cloud systems. One of ways to provide security, proxy re-encryption scheme is proposed, in which a semi-trusted proxy transforms a cipher-text for data sender into a cipher-text for data receiver without seeing the underlying plaintext. This paper proposes a new re-encryption scheme for secure data sharing, which is based on a trusted authority. Experimental results show that our scheme attains good performance than the other previous schemes.

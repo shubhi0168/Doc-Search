@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+Electronic storage of patient-related data will replace paper-based patient records in the near future. Some steps in medical practice can even now not be achieved without electronic data processing. Both systems, conventional paper-based and electronic-based records, have advantages and disadvantages which have to be taken into consideration. The advantages of electronic-based records are e.g. good availability of data, structured storage of data, scientific analysis of long-term data and possible data exchange with colleagues in the context of teleconsultation systems. Problems have to be solved in the field of data security, initial high investment costs and time consumption in learning to use the system as well as in incompatibility of existing IT systems.

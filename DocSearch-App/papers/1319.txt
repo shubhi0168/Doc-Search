@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Developing a video game is a costly activity, not only from an economic perspective, but also in terms of the time devoted to researching innovative solutions and managing interfaces between the creative and technical team members. In this article, we explore the possibility to use an approach rooted into AI techniques (namely Behaviour Trees) to help establish a lingua franca between these two different functions, in order to optimize both the development time and the quality of the final product. In particular, we have developed BETTER, a middleware which can be easily embedded into any game engine, and tested it during the design and development of Crazy-Hill, a commercial video game for iOS-based mobile devices.

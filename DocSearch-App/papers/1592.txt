@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+FAT file system is one of the most common file systems on various targets and operating systems. However, it has a performance issue on sequential writing to low-bandwidth storage due to reading FAT area and directory entries. In this paper, we design and implement an efficient FAT caching mechanism for sequential writing to low-bandwidth. The mechanism consists two parts: metadata cache and whole FAT read-ahead cache. As a result, we show 20x improvement for sequential writing to low bandwidth storage with our caching mechanism.

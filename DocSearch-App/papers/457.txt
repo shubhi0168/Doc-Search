@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+As an overlay cognitive radio, transform domain communication system (TDCS) has been proposed to support reliable communications with low probability of interception. However, most of research on TDCS assume perfect synchronization to simplify algorithm design. In this paper, we present a low complexity symbol timing offset (STO) and carrier frequency offset (CFO) estimation method for practical TDCS applications. By utilizing preamble consisted of multiple identical training sequences, STO can be estimated by the demodulation procedure of cyclic code shift keying (CCSK), in which the circular correlation is performed by utilizing fast Fourier transform (FFT). Thus the estimation procedure is significantly simplified with considerable complexity reduction, which is analyzed and compared to other two conventional methods. The simulation results demonstrates that the proposed STO and CFO estimation scheme is a low complexity solution for TDCS in multipath Rayleigh fading channels with comparable estimation performance in terms of probability of incorrect timing offset and mean-square-error of CFO.

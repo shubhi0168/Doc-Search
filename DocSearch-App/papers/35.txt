@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+A conceptually new algorithm of sea ice concentration retrieval in polar regions from satellite microwave radiometry data is discussed. The algorithm design favorably contrasts with that of known modern algorithms. Its design is based on a physical emission model of the "sea surface - sea ice - snow cover - atmosphere" system. No tie-points are used in the algorithm. All the calculation expressions are derived from theoretical modeling. The design of the algorithm minimizes the impact of atmospheric variability on sea ice concentration retrieval. Beside estimating sea ice concentration, the algorithm makes it possible to indicate ice areas with melting snow and melt ponds. The algorithm is simple to use, no complicated or time consuming calculations are involved. (C) 2015 COSPAR. Published by Elsevier Ltd. All rights reserved.

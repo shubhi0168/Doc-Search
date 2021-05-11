@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+FBD (function block diagram) has been widely used to implement safety-critical software for PLC (programmable logic controller)-based digital nuclear reactor protection systems. The software should be developed strictly in accordance with safety programming guidelines such as NUREG/CR-6463. Software engineering tools of PLC vendors enable us to present structural analyses using FBD programs, but specific rules pertaining to the guidelines are enclosed within the commercial tools, and specific links to the guidelines are not clearly communicated. This paper proposes a set of rules on the structure of FBD programs in accordance with guidelines, and we develop an automatic analysis tool for FBD programs written in the PLCopen TC6 format. With the proposed tool, any FBD program that is transformed into an open format can be analyzed the PLC platform-independently. We consider a case study on FBD programs obtained from a preliminary version of a Korean nuclear power plant, and we demonstrate the effectiveness and potential of the proposed rules and analysis tool. (C) 2017 Elsevier Ltd. All rights reserved.

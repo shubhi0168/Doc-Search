@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A previous knowledge of the domains of dependence of a Hamilton-Jacobi equation can be useful in its study and approximation. Information of this nature is, in general, difficult to obtain directly from the data of the problem. In this paper we formally introduce the concept of an independent sub-domain, discuss its main properties and provide a constructive implicit representation formula. Through these results, we propose an algorithm for the approximation of these sets that is shown to be relevant in the numerical resolution, via parallel computing.

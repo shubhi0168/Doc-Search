@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Graph theory plays many important roles in modern physics and in many different contexts, spanning diverse topics such as the description of scale-free networks and the structure of the universe as a complex directed graph in causal set theory. Graph theory is also ideally suited to describe many concepts in computer science. Therefore it is increasingly important for physics students to master the basic concepts of graph theory. Here we describe a student project where we develop a computational approach to electric circuit solving which is based on graph theoretic concepts. This highly multidisciplinary approach combines abstract mathematics, linear algebra, the physics of circuits, and computer programming to reach the ambitious goal of implementing automated circuit solving.

@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Computer-based control systems, especially if they run under general-purpose operating systems, often exhibit variance of the scan period of processing inputs and outputs. Although this fact is usually not taken into account when discrete control algorithms are used, it can cause worse performance of the control loop in comparison to the theoretical case. In this paper we describe a modified discrete LQ control algorithm that takes disturbances of the scan period into account and partially compensates their influence. We also show that such a controller can be implemented even on low-performance hardware platforms, if they are equipped with a sufficient amount of memory.

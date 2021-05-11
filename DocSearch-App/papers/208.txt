@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+A trie is one of the data structures for keyword search algorithms and is utilized in natural language processing, reserved words search for compilers and so on. The double-array and LOUDS are efficient representation methods for the trie. The double-array provides fast traversal at time complexity of O(1), but the space usage of the double-array is larger than that of LOUDS. LOUDS is a succinct data structure with bit-string, and its space usage is extremely compact. However, its traversal speed is not so fast. This paper presents a new compression method of the double-array with keeping the retrieval speed. Our new method compresses the double-array by dividing the double-array into blocks and by using linear functions. Experimental results for varied keywords show that our new method reduced space usage of the double-array up to about 44 %, and the retrieval speed of the new method was 9-14 times faster than that of LOUDS. Moreover, the results show that the construction speed of the new method was faster than that of the conventional method for a large keyword set.

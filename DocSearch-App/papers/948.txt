@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Combined Cycle Power Plant (CCPP) is one of the most efficient systems of energy conversion with different topping and bottoming cycles. One of the acceptable schemes, the combination of Brayton and Rankine Cycle, is analyzed for various design parameters. In the present analysis thermodynamic modelling of a CCPP with single steam extraction from bottoming Rankine Cycle is carried out to study the effect of Inlet Air Temperature (TAT), Cycle Ratio (CR), Turbine Inlet Temperature (TIT), air compressor and gas turbine efficiency on the first and second law efficiency. For parametric analysis computer programming tool Engineering Equation Solver (EES) is used and thermodynamic properties of many fluids and gases are inbuilt function of the software. From the results it is concluded that combustion chamber is the source of highest exergy destruction followed by heat recovery steam generator, gas turbine, air compressor and steam turbine.,With increase in TIT, optimum CR is also found to be increased because both the gas turbine efficiency and the gas turbine exhaust temperature are increased for the optimum cycle ratio.

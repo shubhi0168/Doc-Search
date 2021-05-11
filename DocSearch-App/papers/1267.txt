@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Dense motion field estimation is a key computer vision problem. Many solutions have been proposed to compute small or large displacements, narrow or wide baseline stereo disparity, or non-rigid surface registration, but a unified methodology is still lacking. The authors introduce a general framework that robustly combines direct and feature-based matching. The feature-based cost is built around a novel robust distance function that handles keypoints and weak features such as segments. It allows us to use putative feature matches to guide dense motion estimation out of local minima. The authors' framework uses a robust direct data term. It is implemented with a powerful second-order regularisation with external and self-occlusion reasoning. Their framework achieves state-of-the-art performance in several cases (standard optical flow benchmarks, wide-baseline stereo and non-rigid surface registration). Their framework has a modular design that customises to specific application needs.

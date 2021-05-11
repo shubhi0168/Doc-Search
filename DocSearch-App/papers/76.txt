@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A large body of research into bilingualism has revealed that language processing is fundamentally non-selective; there is simultaneous, graded co-activation of mental representations from both of the speakers' languages. An equally deep tradition of research into code switching/mixing has revealed the important role that grammatical principles play in determining the nature of bilingual speech. We propose to integrate these two traditions within the formalism of Gradient Symbolic Computation. This allows us to formalize the integration of grammatical principles with gradient mental representations. We apply this framework to code mixing constructions where an element of an intended utterance appears in both languages within a single utterance and discuss the directions it suggests for future research.

@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+A database is a structured collection of records or data that is stored in a computer so that it can be consulted by a program to answer queries. Records retrieved through queries become information that can be used to make decisions. A database consists of one or more tables containing records of values for fields that pertain to the attributes of the object being represented by the table. Relational databases contain multiple tables that are linked by means of key fields. A database management system is the computer program that manages the database and queries the data to produce reports of information. Examples of simple databases and how they are produced are described in this article.

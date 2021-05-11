@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+3D human pose estimation from a single image is an important problem in computer vision with a number of applications, including action recognition and scene understanding. However, it is still challenging due to its ill-posedness and complex non-rigid shape variations of a human body. In this paper, we use the Procrustean normal distribution mixture model as a 3D shape prior and propose a model transformation method for adjusting limb lengths of the 3D shape prior model, by which the proposed method can be applied to a novel test image. Inaccuracies of 2D part detections are handled by selecting from a diverse set of 2D pose candidates considering both the 2D part model and 3D shape model. Experimental results show that the proposed method performs favorably compared with existing methods, despite inaccuracies of 2D part detections and 3D shape ambiguities. (C) 2016 Elsevier Inc. All rights reserved.

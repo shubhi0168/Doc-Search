@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+First-order and high-order correlation-power-analysis attacks have been shown to be a severe threat to cryptographic devices. As such, they serve as a security measure for evaluation and comparison of security-oriented implementations. When properly designed, data-dependent delays can be used as a barrier to these attacks. This paper introduces a security-oriented delay assignment algorithm for mitigating single and multibit attacks. The algorithm enables a reduction of the correlation between the processed data and the consumed current by utilizing the data-dependent delays as a source of correlated noise. This is done while minimizing the area overhead, propagation time, and power. We show that for the same security level this new algorithm provides X2 and X6 more area efficiency, and X1.5 and X2.25 higher frequencies than a permuted path delay assignment and random embedding of delay elements.

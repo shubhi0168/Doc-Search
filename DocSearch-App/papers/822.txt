@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Bringing quantum science and technology to the space frontier offers exciting prospects for both fundamental physics and applications such as long-range secure communication and space-borne quantum probes for inertial sensing with enhanced accuracy and sensitivity. But despite important terrestrial pathfinding precursors on common microgravity platforms and promising proposals to exploit the significant advantages of space quantum missions, large-scale quantum test beds in space are yet to be realised due to the high costs and lead times of traditional Big Space' satellite development. But the small space' revolution, spearheaded by the rise of nanosatellites such as CubeSats, is an opportunity to greatly accelerate the progress of quantum space missions by providing easy and affordable access to space and encouraging agile development. We review space quantum science and technology, CubeSats and their rapidly developing capabilities and how they can be used to advance quantum satellite systems.

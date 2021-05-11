@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Functional dependencies (FDs) represent potentially novel and interesting patterns existent in relational databases. The discovery of functional dependencies has a wide range of applications such as database design, knowledge discovery, data quality assessment, etc. There has been growing interest in the problem of functional dependencies discovery in the last ten years. However, existing functional dependencies discovery algorithms are mainly applied to centralized small data. It is far more challenging to discover functional dependencies from big data. In this paper, we propose an efficient functional dependencies discovery algorithm, for mining functional dependencies from distributed big data. We prune candidate FDs at each node by local fragmented data and batch verify candidate FDs in parallel. Load balance is taken into account when discovering functional dependencies. Experiments show that the proposed algorithm is effective on real dataset and synthetic dataset.

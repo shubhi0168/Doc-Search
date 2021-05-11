@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A (3 + 1)-dimensional coupled nonlinear Schrodinger system is investigated, which describes the pulses in an optical fiber and transverse effects in a nonlinear optical system. With the aid of symbolic computation and Hirota method, bright one- and two-soliton solutions of the system are derived. On the basis of the soliton solutions, we will graphically discuss the head-on collisions which include the elastic and inelastic collisions between the two bright solitons. After an elastic collision, two colliding solitons keep their shapes, amplitudes and velocities unchanged except for some phase shifts, while inelastically, the intensity of one soliton is enhanced, while the other gets suppressed. (C) 2015 Elsevier Ltd. All rights reserved.

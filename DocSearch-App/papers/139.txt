@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A number of security protocols have been designed for mobile transactions using Near Field Communication technology in the last few years. However, the component architectures of these protocols are rarely implemented in Java for further evaluation. In this paper, we briefly discuss our previously proposed mobile transaction authentication protocol and extend our work by presenting its Java implementation. This implementation provides a detailed analysis based on a number of factors with respect to the security considerations of the protocol, particularly in its design stage. Thus, it provides a broad verification as well as step-by-step evaluation of the protocol specifications from its implementation point of view.

@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Controlling the moisture content of self-compacting concrete (SCC) mixtures during batching is important for assuring workability and meeting design standards, but fluctuating in situ aggregate moisture contents pose a challenge. Measuring aggregate moisture before every batch is necessary, but inconvenient and expensive in hydraulic projects in China. This study developed a method for estimating the overall moisture of an SCC mixture to guide batch weight adjusting. The method includes a laboratory-based concrete test and an in situ concrete mixing process. The overall moisture estimates, determined by slump flow values, were confirmed to be reliable through verification experiments. The proposed method may serve as an alternative to manual or automated moisture measurement. (C) 2017 Elsevier Ltd. All rights reserved.

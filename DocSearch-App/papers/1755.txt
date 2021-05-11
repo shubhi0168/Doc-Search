@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Global Software Development (GSD) is a major direction in software engineering. There is interest in applying scrum practices in distributed projects. Project stakeholder distribution in GSD is represented by geographical distance, which generates challenges for communication. This paper is written to evaluate the effect of scrum practices in mitigating geographical distance-based communication challenges. We also suggest some mitigation strategies those are supported by our survey respondents. This study finds that scrum provides advantage in mitigating geographical distance-based GSD communication challenges. This research is a reference.guide for other researchers to validate and extend current knowledge about Scrum practices i.e., how it can be used to mitigate geographical distance-based communication challenges in GSD.

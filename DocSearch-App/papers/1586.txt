@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Factorization of polynomials is one of the foundations of symbolic computation. Its applications arise in numerous branches of mathematics and other sciences. However, the present advanced programming languages such as C++ and J++, do not support symbolic computation directly. Hence, it leads to difficulties in applying factorization in engineering fields. In this paper, the authors present an algorithm which use numerical method to obtain exact factors of a bivariate polynomial with rational coefficients. The proposed method can be directly implemented in efficient programming language such C++ together with the GNU Multiple-Precision Library. In addition, the numerical computation part often only requires double precision and is easily parallelizable.

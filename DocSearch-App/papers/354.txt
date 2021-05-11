@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Among these response signals in the external auditory canal evoked by stimulating sounds, as OAEs signal intensity is very low, which is generally lower than 20BbSPL, while the stimulus artifact is relatively much stronger, stimulus artifact suppression has always been a very important but very thorny issue in the OAEs detection. This article studies the OAEs detection algorithm and the comprehensive application of the current signal processing method in the embedded hearing diagnosis system, which get good effects in artifact removal.

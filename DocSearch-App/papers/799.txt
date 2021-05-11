@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Biological data science is an emerging field facing multiple challenges for hosting, sharing, computing on, and interacting with large data sets. Privacy regulations and concerns about the risks of leaking sensitive personal health and genomic data add another layer of complexity to the problem. Recent advances in cryptography over the last five years have yielded a tool, homomorphic encryption, which can be used to encrypt data in such a way that storage can be outsourced to an untrusted cloud, and the data can be computed on in a meaningful way in encrypted form, without access to decryption keys. This paper introduces homomorphic encryption to the bioinformatics community, and presents an informal "manual" for using the Simple Encrypted Arithmetic Library ( SEAL), which we have made publicly available for bioinformatic, genomic, and other research purposes.

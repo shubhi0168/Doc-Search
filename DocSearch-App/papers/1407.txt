@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Due to network security situation affected by the threat degree of network attacks, the significance of network services and the frangibility of network system, its situation evaluation values possess fuzzification. For the uncertainty of situation evaluation values and the real-timely demand of network security situation, an improved prediction model based on clonal selection and system cloud SCGM(1,1)c model, namely CS-SCGM(1,1)c model, is proposed to be used for predicting time series of network security situation. In CS-SCGM(1,1)c model, SCGM(1,1)c model is viewed as the basic prediction model, and clonal selection principle is used for optimizing the parameters a(cs) and b(cs) of CS-SCGM(1,1)c model in order to improving the prediction precision of the proposed model. The experimental results show that CS-SCGM(1,1)c model is more accurate than SCGM(1,1)c model, and provide an effective prediction approach for network security situation.

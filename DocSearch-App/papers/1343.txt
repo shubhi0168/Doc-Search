@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Digital rights management problem has become a critical issue due to the increasing number of database applications. Proposed watermarking methods to deal with copyright management problem of multimedia cannot be applied to the databases directly. Some methods that watermark the databases use the date fields in the relation. In this work, we propose a method that uses the time field of a date attribute to watermark the relation. The method uses seconds field to hide the watermark, hour and minute field to determine which of the date attributes of the current tuple accommodate watermark information. Primary key and SHA are used together to choose the records from the relation for watermarking purposes. Tuples in the relations are also partitioned to make the method more robust against some attacks. The proposed method gives better results to various attacks (subset deletion, alteration and modification) compared to other Works in the literature as can be seen in the results.

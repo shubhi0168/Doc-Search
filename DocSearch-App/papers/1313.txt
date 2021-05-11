@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Detection of DDoS (Distributed Denial of Service) traffic is of great importance for the availability protection of services and other information and communication resources. The research presented in this paper shows the application of artificial neural networks in the development of detection and classification model for three types of DDoS attacks and legitimate network traffic. Simulation results of developed model showed accuracy of 95.6% in classification of pre-defined classes of traffic.

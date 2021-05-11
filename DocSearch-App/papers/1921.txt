@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Image splicing is a common and widespread type of manipulation, which is defined as pasting a portion of an image onto a second image. Several forensic methods have been developed to detect splicing, using various image properties. Some of these methods exploit the noise statistics of the image to try and find discrepancies. In this paper, we propose a new counter-forensic approach to eliminate the noise differences that can appear in a spliced image. This approach can also be used when creating computer graphics images, in order to endow them with a realistic noise. This is performed by changing the noise statistics of the spliced elements so that they are closer to those of the original image. The proposed method makes use of a novel way to transfer density functions. We apply this to image noise in order to impose identical noise density functions from a source to a destination image. This method can be used with arbitrary noise distributions. The method is tested against several noise-based splicing detection methods, in order to prove its efficacy.

@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A variable-coefficient nonisospectral modified Kadomtsev-Petviashvili equation with two Painlev, branches is investigated in this paper. Through the generalized singular manifold method, a couple of Lax pairs for such an equation are constructed on account of the relationship between manifolds and eigenfunctions. Meanwhile, utilizing the aforementioned Lax pairs, a binary Darboux transformation of this equation has been presented.

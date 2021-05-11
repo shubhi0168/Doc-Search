@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Cubic splines in Euclidean space minimize the mean squared acceleration among all curves interpolating a given set of data points. We extend this observation to the Riemannian manifold of discrete shells in which the associated metric measures both bending and membrane distortion. Our generalization replaces the acceleration with the covariant derivative of the velocity. We introduce an effective time-discretization for this novel paradigm for navigating shell space. Further transferring this concept to the space of triangular surface descriptorsedge lengths, dihedral angles, and triangle areasresults in a simplified interpolation method with high computational efficiency.

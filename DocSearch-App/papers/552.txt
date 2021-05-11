@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Autofocusing and feature detection are two essential processes for performing automated biological cell manipulation tasks. In this paper, we have introduced a technique capable of focusing on a holding pipette and a mammalian cell under a bright-field microscope automatically, and a technique that can detect and track the presence and orientation of the polar body of an oocyte that is rotated at the tip of a micropipette. Both algorithms were evaluated by using mouse oocytes. Experimental results show that both algorithms achieve very high success rates: 100% and 96%. As robust and accurate image processing methods, they can be widely applied to perform various automated biological cell manipulations.

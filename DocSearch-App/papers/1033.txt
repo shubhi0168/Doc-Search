@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Computer vision-based human activity recognition (HAR) has become very famous these days due to its applications in various fields such as smart home healthcare for elderly people. A video-based activity recognition system basically has many goals such as to react based on people's behavior that allows the systems to proactively assist them with their tasks. A novel approach is proposed in this work for depth video based human activity recognition using joint-based motion features of depth body shapes and Deep Belief Network (DBN). From depth video, different body parts of human activities are segmented first by means of a trained random forest. The motion features representing the magnitude and direction of each joint in next frame are extracted. Finally, the features are applied for training a DBN to be used for recognition later. The proposed HAR approach showed superior performance over conventional approaches on private and public datasets, indicating a prominent approach for practical applications in smartly controlled environments.

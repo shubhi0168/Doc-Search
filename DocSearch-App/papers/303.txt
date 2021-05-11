@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Aiming to an automatic sound recognizer for radio broadcasting events, a methodology of clustering the audio feature space using the discrimination ability of the audio descriptors as a criterion, is investigated in this work. From a given and close set of audio events, commonly found in broadcast news transmissions, a large set of audio descriptors is extracted and their data-driven ranking of relevance is clustered, providing a more robust feature selection. The clusters of the feature space are feeding machine learning algorithms implemented as classification models during the experimental evaluation. This methodology showed that support vector machines provide significantly good results, considering the achieved accuracy due to their ability of coping well in high dimensionality experimental conditions.

@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Entity Resolution (ER) concerns identifying pairs of entities that refer to the same underlying entity. To avoid O(n(2)) pairwise comparison of n entities, blocking methods are used. Sorted Neighborhood is an established blocking method for Relational Databases. It has not been applied to schema-free Resource Description Framework (RDF) data sources widely prevalent in the Linked Data ecosystem. This paper presents a Sorted Neighborhood workflow that may be applied to schema-free RDF data. The workflow is modular and makes minimal assumptions about its inputs. Empirical evaluations of the proposed algorithm on five real-world benchmarks demonstrate its utility compared to two state-of-the-art blocking baselines.

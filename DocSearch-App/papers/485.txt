@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+As scientific applications become more data intensive, finding an efficient scheduling strategy for massive computing on network-based computing systems has drawn increasingly attention. Most existing scheduling models assume that all processors are idle at the beginning of workload assignment. In fact, in the real distributed computing environments, processors may still be occupied with any previous assigned workload when a new load arrives. The time period between busy to idle states of a processor is referred to as its release time. Based on the fact that processors have arbitrary release times, we propose a new divisible-load scheduling model with hybrid time constraints and design an effective global optimization genetic algorithm to solve it. Finally, experiment results show the effectiveness and efficiency of the proposed algorithm.

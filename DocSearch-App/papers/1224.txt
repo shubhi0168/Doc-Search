@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Data structures and relations are becoming increasingly complex and difficult to assess and manage. Although automated rules and algorithms can be used for many data-mining tasks, there are still situations where human attention and insight is required to identify unexpected circumstances or unanticipated patterns. Presentation of large quantities of data has always been a challenging task. In this paper a method for representing large graph-based data sets is proposed to help users navigate through large clusters of data. The proposed method is based on a stereoscopic 3D visualization with special enhancements for a large multi node graph visualization. The stereoscopic projection allows for utilization of techniques that can draw users' attention to particular regions of the graph. The method uses specially established node-node relations to calculate attention drawing factor values for each graph node.

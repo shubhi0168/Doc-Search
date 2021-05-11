@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming skills in younger ages seem to be a promising and challenging aspect. Many visual programming tools have been developed in order to assist young students and to improve the current teaching practices and pedagogies. In this paper, we explore the potential effects of a Project Based Learning (PjBL) approach in the field of computer programming. In particular, we try to identify potential differences on students' programming habits/styles, between game development, simulation, and traditional learning strategy; in the context of PjBL. Our sample consisted of 53 middle school students who formed three groups. Introducing programming through a serious game development approach might inspire students towards a creative learning experience. Moreover, parameters like the class formation might affect the development of programming skills. The students in the PjBL treatment were able to complete a project successfully making fewer mistakes. On the other hand, students enrolled in a more traditional top-down approach chose to experiment with more complex curriculum but not always successfully

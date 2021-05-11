@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+For the purposes of computer graphics, we have developed a simulation tool to model fluid flow on the surface of a sphere with the inclusion of control parameters for the benefit of art directability. Difficulties associated with the use of spherical coordinates were surmounted by the use of locally modified consistent equations that result from an analysis of the singular equations in the neighborhood of the poles. The resulting system was solved efficiently for only a small additional cost when compared to a two-dimensional planar simulation.

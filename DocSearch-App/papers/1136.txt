@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Conventional reflow method in a convection oven is the principal step during the package assembly process in order to guarantee high productivity and make full use of the self-alignment. The package behavior, especially warpage, has significant effects on assuring package assembly reliability during the reflow process. In recent decades, several techniques, like Shadow Moire or 3-D digital image correlation (DIC), have been developed to assist industry in characterizing warpage. The requirement of artificial speckles on the specimen surface inevitably reduces the measurement accuracy and contaminates the specimen. To improve the accuracy and keep the specimen clean, a novel in situ warpage measurement method without surface treatment is developed, and its result is demonstrated. The specimen can be reapplied to the manufacturing process after the measurement, and one sample can be assessed consistently at different assembly process steps instead of wasting samples at each assembly stage.

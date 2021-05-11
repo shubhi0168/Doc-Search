@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Due to the edge-preserving ability, the bilateral filter is considered as the fundamental tool in computer vision and computer graphics. However, its computational complexity has a close connection with the size of the box window. This drawback leads that the bilateral filter is inappropriate for the computational insensitive application. One way to accelerate the bilateral filter is to approximate the Gaussian range kernel by trigonometric functions and synthesise final results from a set of filtering results of fast convolutions. A novel approximation that can be applied to any range kernel is proposed. Specifically, first the Z transformation of the range kernel is obtained, then approximate the Z transformation of the range kernel using the Pade Approximation. Finally, inverse the transformation of the Pade approximation and obtain an exponential sum to approximate original range kernel, where the coefficients of the exponential basis are computed by solving a set of linear equations. Experiments show the method achieves state-of-the-art results in terms of accuracy and speed.

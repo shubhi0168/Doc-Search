@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Functional dependencies (FD's) are a powerful concept in data organization. They have been proven very useful in e.g., relational databases for reducing data redundancy. Little work however has been done so far for using them in the context of data cubes. In the present paper, we propose to characterize the parts of a data cube to be materialized with the help of the FD's present in the underlying data. For this purpose, we consider two applications: (i) how to choose the best cuboids of a data cube to materialize in order to guarantee a fixed performance of query evaluation and, (ii) how to choose the best tuples, hence partial cuboids, in order to reduce the size of the data cube without loosing information. In both cases FD's turn to be fundamental in characterizing the solutions of these problems.

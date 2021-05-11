@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Artists and animators have observed that children's movements are quite different from adults performing the same action. Previous computer graphics research on human motion has primarily focused on adult motion. There are open questions as to how different child motion actually is, and whether the differences will actually impact animation and interaction. We report the first explicit study of the perception of child motion (ages 5 to 9 years old), compared to analogous adult motion. We used markerless motion capture to collect an exploratory corpus of child and adult motion, and conducted a perceptual study with point light displays to discover whether naive viewers could identify a motion as belonging to a child or an adult. We find that people are generally successful at this task. This work has implications for creating more engaging and realistic avatars for games, online social media, and animated videos and movies.

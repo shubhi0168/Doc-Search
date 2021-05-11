@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Existing computational pipelines for quantitative analysis of high-content microscopy data rely on traditional machine learning approaches that fail to accurately classify more than a single dataset without substantial tuning and training, requiring extensive analysis. Here, we demonstrate that the application of deep learning to biological image data can overcome the pitfalls associated with conventional machine learning classifiers. Using a deep convolutional neural network (DeepLoc) to analyze yeast cell images, we show improved performance over traditional approaches in the automated classification of protein subcellular localization. We also demonstrate the ability of DeepLoc to classify highly divergent image sets, including images of pheromone-arrested cells with abnormal cellular morphology, as well as images generated in different genetic backgrounds and in different laboratories. We offer an open-source implementation that enables updating DeepLoc on new microscopy datasets. This study highlights deep learning as an important tool for the expedited analysis of high-content microscopy data.

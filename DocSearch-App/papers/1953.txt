@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+In active sonar processing, the discrimination of the target versus clutter can be a significant challenge. Whereas conventional processing often uses target kinematics to limit the possible target tracks, it has recently been shown that frequency domain information (based on the waveguide invariant principle) can also be incorporated to further limit the possible target tracks in an environmentally robust fashion. This paper presents physics-based signal processing methods to extract information about the target track from striations in a target spectrogram formed from the echo spectra at each active sonar pulse repetition interval. The target tracking information is formulated as a post-track likeliness statistic that is extracted from the sonar data with image processing techniques. Results are demonstrated with shallow water sonar data collected during the 2013 Target and Reverberation Experiment (TREX13). It is expected that the physics-based signal processing algorithms discussed here will provide enhanced clutter rejection and improve tracking performance.

@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+After more than a decade of research, web application security continues to be a challenge and the backend database the most appetizing target. The paper proposes preventing injection attacks against the database management system (DBMS) behind web applications by embedding protections in the DBMS itself. The motivation is twofold. First, the approach of embedding protections in operating systems and applications running on top of them has been effective to protect these applications. Second, there is a semantic mismatch between how SQL queries are believed to be executed by the DBMS and how they are actually executed, leading to subtle vulnerabilities in protection mechanisms. The approach SEPTIC was implemented in MySQL and evaluated experimentally with web applications written in PHP and Java/Spring. In the evaluation SEPTIC has shown neither false negatives nor false positives, on the contrary of alternative approaches, causing also a low performance overhead in the order of 2.2%.

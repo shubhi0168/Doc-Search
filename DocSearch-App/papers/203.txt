@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+A systematic review allows us to identify, assess, and interpret all possible relevant work associated with a question in particular or the subject of an area. Different authors can use several methodologies to learn about research related to their own research in different fields. The main objective of this review is to identify work, research and publications made in the field of the mobile monitoring of patients through some application or commercial or non-commercial solutions in m-Health. Next, we compare the different solutions with our solution, MoMo (Mobile Monitoring) Framework. MoMo is a solution that allows for patient mobile monitoring through mobile phones and biometric devices (blood pressure meter, glucometer and others). Our systematic review is based on the methodology of B. Kitchenham. She proposed specific guidelines for carrying out a systematic review in software engineering. We prepare our systematic review base in the selection of primary and secondary research related to mobile monitoring solutions following criteria with a specific weight to compare with each part of our research.

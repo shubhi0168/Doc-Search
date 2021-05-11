@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Estimating the positions of a set of moving objects captured from a network of cameras is still an open problem in Computer Vision. In this paper, a distributed and real-time approach for tracking multiple objects on multiple cameras is presented. A quantitative comparison with six state-of-the-art methods has been carried out on the publicly available PETS 2009 data set, demonstrating the effectiveness of the algorithm. Moreover, the proposed method has been tested also on a multi-camera soccer data set, showing its data fusion capabilities.

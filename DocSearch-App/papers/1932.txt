@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Improving thermostability of an enzyme can accelerate the relevant chemical reaction. Thus, the analysis and prediction of thermophilic proteins are conducive to protein engineering and enzyme design. In this study, a novel method based on two-step discrimination was proposed to distinguish between thermophilic and non-thermophilic proteins. The model was rigorously benchmarked on an objective dataset including 915 thermophilic proteins and 793 non-thermophilic proteins. Results showed that the overall accuracy of our method is 94.44% in 5-fold cross-validation, which is higher than those of other published methods. We believe that the two-step discriminated strategy will become a promising method in the relevant field of protein bioinformatics.

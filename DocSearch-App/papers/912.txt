@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Cloud computing which uses outsourcing and remote processing of applications first appeared about ten years ago. Cloud Computing built on research in virtualization, distributed computing, utility computing, and web services. It reduces the information technology overhead for starting a new business and it can be accessed from anywhere. One of the concepts used for constructing cloud computing is virtualization, which has its own security risks, but they are not specific to the cloud. The key drawback to adopting cloud computing is security since clients use someone else's CPU and hard disk for processing and storing data. This paper proposes a security framework to secure Virtual Machine Images in a virtualization layer in the cloud environment. Securing the virtual machine image is significant as it will most probably affect the security of cloud computing.

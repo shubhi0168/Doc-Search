@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Firms today average forecasts collected from multiple experts and models. Because of cognitive biases, strategic incentives, or the structure of machine-learning algorithms, these forecasts are often overfit to sample data and are overconfident. Little is known about the challenges associated with aggregating such forecasts. We introduce a theoretical model to examine the combined effect of overfitting and overconfidence on the average forecast. Their combined effect is that the mean and median probability forecasts are poorly calibrated with hit rates of their prediction intervals too high and too low, respectively. Consequently, we prescribe the use of a trimmed average, or trimmed opinion pool, to achieve better calibration. We identify the random forest, a leading machine-learning algorithm that pools hundreds of overfit and overconfident regression trees, as an ideal environment for trimming probabilities. Using several known data sets, we demonstrate that trimmed ensembles can significantly improve the random forest's predictive accuracy.

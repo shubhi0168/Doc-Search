@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Digital watermarking protocols are the one, which have combined fingerprinting technique with watermarking, for embedding digital signal or watermark into an original multimedia object. Buyer-seller watermarking protocol is fundamentally applied to continue the digital rights of both buyers and seller. We proposed an identity-based buyer-seller watermarking protocol that encounters various weaknesses of Zhang et al.'s watermarking protocol. We ensured that by pointing out these weaknesses, inaccuracy can be minimised for further implementing the buyer-seller watermarking protocol. The suggested protocol uses ID-based public key cryptography and digital watermarking scheme to place the ownership of digital content. Hence, copyright protection is attained. We claim that our suggested protocol is efficient and has adequate security as compared to traditionally proposed protocols, and therefore suitable for any practical buyer-seller watermarking scheme.

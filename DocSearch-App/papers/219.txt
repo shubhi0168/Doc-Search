@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Able to directly study the internal rule by starting from the complicated phenomenon, fractal theory can describe complicated phenomenon in natural world. Nowadays, in-depth study and exploration are conducted for fractal in almost all domains of science; some architects have paid attention to it in contemporary architecture design and gained some enlightenment. In the current parametric architecture design, only computer programming means is introduced into traditional architecture design, and various complicated forms that surpass the traditional and modern buildings will be presented before us. Its development has drawn more and more attention. Based on the latest nonlinear mathematical theory of fractal geometry, this paper generates multiple 3D model prototypes for selection by applying nonlinear IFS, and further processes the models into design schemes of fractal architecture. This paper hopes to provide a new design thought and means for architecture design.

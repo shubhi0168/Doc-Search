@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+By combining the photorefractive spatial soliton waveguide of a Ce:SBN crystal with a coherent 4-f system we are able to manipulate the spatial frequencies of an input optical image to perform edge enhancement and direct component enhancement operations. Theoretical analysis of this optical image processor is presented to interpret the experimental observations. This work provides an approach for optical image processing by using photorefractive spatial solitons. (C) 2017 Elsevier B.V. All rights reserved.

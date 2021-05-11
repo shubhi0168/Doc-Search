@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Commodity operating system kernels are vulnerable to a wide range of attacks due to the large code base and broad attack surface. Mitigation mechanisms such as code signing, W circle plus X, and code integrity protection have raised the bar for kernel security. In turn, attack mechanisms have also become increasingly advanced. They have evolved from simple injection of malicious code into more sophisticated code-reuse attacks [e.g. return-oriented programming (ROP)]. In this study, the authors describe exception-oriented programming (EOP), a novel code-reuse method to construct kernel malware. Unlike previous ROP that can only reuse a limited part of existing code (gadgets), EOP is able to reuse any instruction in existing code and chain the instructions in any order to generate malicious programmes. As a result, EOP can provide the attackers with more powerful capabilities and less complexity for building kernel malware.

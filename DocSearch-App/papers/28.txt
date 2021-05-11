@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+A common way to learn is by studying written step-by-step tutorials such as worked examples. However, tutorials for computer programming can be tedious to create since a static text-based format cannot convey what happens as code executes. We created a system called Codepourri that enables people to easily create visual coding tutorials by annotating steps in an automatically-generated program visualization. Using Codepourri, we developed a novel crowdsourcing workflow where learners who are visiting an educational website (www.pythontutor.com) collectively create a tutorial by annotating execution steps in a piece of code and then voting on the best annotations. Since there are far more learners than experts, using learners as a crowd is a potentially more scalable way of creating tutorials. Our experiments with 4 expert judges and 101 learners adding 145 raw annotations to two pieces of textbook Python code show the learner crowd's annotations to be accurate, informative, and containing some insights that even experts missed.

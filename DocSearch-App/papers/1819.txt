@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Hierarchical data are found in a variety of database applications, including content management categories, forums, business organization charts, and product categories. In this paper, we will examine two models deal with hierarchical data in relational databases namely, adjacency list model and nested set model. We analysed these models by executing various operations and queries in a web-application for the management of categories, thus highlighting the results obtained during performance comparison tests. The purpose of this paper is to present the advantages and disadvantages of using an adjacency list model compared to nested set model in a relational database integrated into an application for the management of categories, which needs to manipulate a big amount of hierarchical data.

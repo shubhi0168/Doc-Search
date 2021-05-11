@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+In CMOS-based application-specific integrated circuit (ASIC) designs, total power consumption is dominated by dynamic power, where dynamic power consists of two major components, namely, switching power and internal power. In this paper, we present a low-power design for a digit-serial finite field multiplier in GF(2(m)). In the proposed design, a factoring technique is used to minimize switching power. To the best of our knowledge, factoring method has not been reported in the literature being used in the design of a finite field multiplier at an architectural level. Logic gate substitution is also utilized to reduce internal power. Our proposed design along with several existing similar works have been realized for GF(2(233)) on ASIC platform, and a comparison is made between them. The synthesis results show that the proposed multiplier design consumes at least 27.8% lower total power than any previous work in comparison.

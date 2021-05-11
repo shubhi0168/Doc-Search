@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Configuration management practices allied to the quality management processes prove to be an indispensable solution in software development. This article presents a case study of a company that develops software for public management and implemented a process of configuration management, associated with changes in process of software quality management. One of the discussed points in this article is about the benefits and the remarkable decrease in the number of requests to fix problems in the software, that in twelve months was approximately 35% and the time spent to correct problems was reduced by 55%. Another aspect is associated with the software review and inspection techniques, conducted by the release tests, that allow problems in the software are found by the test team before getting to the customer. Although some proposals are conducted to further improve processes, the changes have brought many benefits to the quality of software.

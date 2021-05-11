@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Execution plans constitute the traditional interface between DBMS front-ends and back-ends; similar networks of interconnected operators are found also outside database systems. Tasks like adapting execution plans for distributed or heterogeneous runtime environments require a plan transformation mechanism which is simple enough to produce predictable results while general enough to express advanced communication schemes required for instance in skew-resistant partitioning. In this paper, we describe the BobolangNG language designed to express execution plans as well as their transformations, based on hierarchical models known from many environments but enhanced with a novel compile-time mechanism of component multiplication. Compared to approaches based on general graph rewriting, the plan transformation in BobolangNG is not iterative; therefore the consequences and limitations of the process are easier to understand and the development of distribution strategies and experimenting with distributed plans are easier and safer.

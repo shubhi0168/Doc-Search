@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Data warehouses are designed with a multidimensional structure based on fact and dimension tables, oriented towards indicator systems that inform decision making. The most frequent loads associated to this kind of system are performed on the fact table, assuming that all dimensions are common or time-independent, which can lead to serious consequences in terms of the integrity and completeness of the obtained information. A number of proposals have been made on how to update the dimension table, calling this process Slowly Changing Dimensions (SCD), focused on relational data design. This article focuses on proposing strategies to improve the response time from queries associated to a data warehouse design for dimension tables than change, comparing SCD designs in relational and object-relational databases. Finally, a case is presented that allows to compare the performance from both designs.

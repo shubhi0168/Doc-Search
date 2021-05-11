@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A new method to obtain second-order reductions for ordinary differential equations which are polynomial in the derivatives of the dependent variable is presented. The method is applied to obtain reductions and new solutions to several well-known equations of mathematical physics: a lubrication equation, a thin-film equation, the Zoomeron equation and a family of 5th - order partial differential equations which includes the Caudrey-Dodd-Gibbon-Sawada-Kotera, Kaup-Kupershmidt, Ito and Lax equations. Some pieces of computer algebra code to derive the reductions are also included. (C) 2016 Elsevier Inc. All rights reserved.

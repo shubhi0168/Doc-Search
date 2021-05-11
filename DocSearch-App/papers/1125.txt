@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Continuity and interpolation have been crucial topics for computer graphics since its very beginnings. Every time we want to interpolate values across some area, we need to take a set of samples over that interpolating region. However, interpolating samples faithfully allowing the results to closely match the underlying functions can be a tricky task as the functions to sample could not be smooth and, in the worst case, it could be even impossible when they are not continuous. In those situations bringing the required continuity is not an easy task, and much work has been done to solve this problem. In this paper, we focus on the state of the art in continuity and interpolation in three stages of the real-time rendering pipeline. We study these problems and their current solutions in texture space (2D), object space (3D) and screen space. With this review of the literature in these areas, we hope to bring new light and foster research in these fundamental, yet not completely solved problems in computer graphics.

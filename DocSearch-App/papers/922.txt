@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Cluster analysis aims at classifying objects into categories on the basis of their similarity and has been widely used in many areas such as pattern recognition and image processing. In this paper, we propose a novel clustering algorithm called QCC mainly based on the following ideas: the density of a cluster center is the highest in its K nearest neighborhood or reverse K nearest neighborhood, and clusters are divided by sparse regions. Besides, we define a novel concept of similarity between clusters to solve the complex-manifold problem. In experiments, we compare the proposed algorithm QCC with DBSCAN, DP and DAAP algorithms on synthetic and real-world datasets. Results show that QCC performs the best, and its superiority on clustering non-spherical data and complex-manifold data is especially large.

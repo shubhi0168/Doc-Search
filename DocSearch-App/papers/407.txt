@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Any machine exposed to the Internet today is at the risk of being attacked and compromised. Detecting attack attempts, be they successful or not, is important for securing networks (servers, end-hosts and other assets) as well as for forensic analysis. In this context, we focus on the problem of evidence gathering by detecting fundamental patterns in network traffic related to suspicious activities. Detecting fundamental anomalous patterns is necessary for a solution to be able to detect as many types of attacks and malicious activities as possible. Our evidence gathering framework correlates multiple patterns detected, thereby increasing the confidence of detection, and resulting in increase in accuracy and decrease in false positives. We demonstrate the effectiveness of our framework by evaluating on a dataset consisting of normal traffic as well as traffic from a number of malwares. (C) 2017 The Author(s). Published by Elsevier Ltd on behalf of DFRWS.

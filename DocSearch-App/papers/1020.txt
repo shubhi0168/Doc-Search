@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming is not commonly taught to geographers as a part of geographic information system (GIS) courses, but the advent of NeoGeography, big data and open GIS means that programming skills are becoming more important. To encourage the teaching of programming to geographers, this paper outlines a course based around a series of laboratories that aims to provide an introduction to programming. Methods for teaching and assessment are recommended. These laboratories use core spatial concepts that are relevant for all areas of geographic study, and use an open source Python approach that has wider logistical and pedagogical benefits.

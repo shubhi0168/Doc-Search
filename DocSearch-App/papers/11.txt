@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+3D mesh segmentation is considered an important process in the field of computer graphics. It is a fundamental process in different applications such as shape reconstruction in reverse engineering, 3D models retrieval, and CAD/CAM applications, etc. It consists of subdividing a polygonal surface into patches of uniform properties either from a geometrical point of view or from a perceptual/semantic point of view. In this paper, unsupervised clustering techniques for the 3D mesh segmentation problem are introduced. The K-means and the Fuzzy C-means (FCM) clustering techniques are selected for the development of the proposed clustering-based 3D mesh segmentation techniques. Since the mesh faces are considered the main element, the clustering technique is applied to the dual mesh. The 3D Euclidean distance is used as the distance measure to compute matching between mesh elements. Based on empirical results on a benchmark dataset of 3D mesh models, the FCM-based mesh segmentation technique outperforms the K-means-based one in terms of accuracy and consistency with human segmentations.

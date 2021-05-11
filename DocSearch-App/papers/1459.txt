@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Dynamic systems are becoming steadily more important with the profusion of mobile and distributed computing devices. Coincidentally incremental computation is a natural approach to deal with ongoing changes. We explore incremental computation in the parameterized complexity setting and show that incrementalization leads to non-trivial complexity classifications. Interestingly, some incremental versions of hard problems become tractable, while others remain hard. Moreover tractability or intractability is not a simple function of the problem's static complexity, every level of the W-hierarchy exhibits complete problems with both tractable and intractable incrementalizations. For problems that are already tractable in their static form, we also show that incrementalization can lead to interesting algorithms, improving upon the trivial approach of using the static algorithm at each step.

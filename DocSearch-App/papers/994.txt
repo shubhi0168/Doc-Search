@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Computer graphics remains one of the most exciting and rapidly growing computer fields. It includes geometry processing as a major part of it. Every element in Graphics can be processed using different algorithms for acquisition, reconstruction, analysis, manipulation, simulation, and transition of simple, primitive, and complex structures. One such commonly used function is cropping/clipping of geometrical objects. In this paper, an approach has been proposed for cropping a 3D object. This algorithm allows users to crop out selective portions of geometrical objects based on certain constraints like the axis, position, and amount to be cropped. The proposed algorithm has been provided as a plugin to the open-source software OpenFlipper and the results of the crop algorithm have been presented.

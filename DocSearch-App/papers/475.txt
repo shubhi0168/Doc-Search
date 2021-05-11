@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+As one of the most classic fields in computer vision, image categorization has attracted widespread interests. Numerous algorithms have been proposed in the community, and many of them have advanced the state-of-the-art. However, most existing algorithms are designed without consideration for the supply of computing resources. Therefore, when dealing with resource constrained tasks, these algorithms will fail to give satisfactory results. In this paper, we provide a comprehensive and in-depth introduction of recent developments of the research in image categorization with resource constraints. While a large portion is based on our own work, we will also give a brief description of other elegant algorithms. Furthermore, we make an investigation into the recent developments of deep neural networks, with a focus on resource constrained deep nets.

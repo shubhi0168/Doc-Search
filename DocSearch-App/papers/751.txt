@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Based on the extended three-wave approach and the Hirota's bilinear method, the (3+1)-dimensional Boiti-Leon-Manna-Pempinelli equation is investigated. With the aid of symbolic computation, some three-wave solutions including kinky periodic solitarywave solutions, periodic soliton solutions and kink solutions are presented. The figures corresponding to these solutions are illustrated to show abundant physics structures. These solutions enrich the sorts of the dynamics of nonlinear wave model.

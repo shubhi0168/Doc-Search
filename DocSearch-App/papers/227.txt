@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+According to the tree structure description of the multibody system, the Kane's equations to establish the dynamic equations of the system are proposed. The forms of the equations are general and simple. Moreover, the equations are not only minimum in dimension but also convenient for computer calculating. The parachute-submunition system is taken as the modelling object which includes submunition, plate, parachute. The dynamic equations of the three parts are established respectively through which the dynamic and kinematics equations for the whole system are established. The influences of the drag coefficient and the crosswind velocity on the scan parameters are simulated by computer programming. The simulation results are in accordance with the flight principle and exterior ballistic theory, which verifies the reasonableness of the modelling method and the established dynamic equations.

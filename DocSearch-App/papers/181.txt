@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+A secure and safe authentication on a vehicular ad-hoc network (VANET) is essential for network security. A safe data transmission requires integrity, availability and privacy protection features as well as efficient communication in diverse settings. Recently proposed security protocols for vehicular communication cannot authenticate in a complex way in areas of heavy traffic due to the increasing number of messages in proportion to the number of vehicles. For efficient communication, data volume need be reduced and communication should be safe against a range of attacks. Hence, the present paper proposes a protocol that accelerates message processing by sending a low data volume for communication in areas of heavy traffic and that blocks replay attacks by checking timestamps. In addition, CASPER/FDR (Lowe in Casper: a compiler for the analysis of security protocols. User Manual and Tutorial, Version 1.12, 2009; Formal Systems (Europe) Ltd in Failures-Divergence Renement. FDR2 user manual, 2010) is used to verify the proposed protocol for its security and efficiency against any security vulnerabilities.

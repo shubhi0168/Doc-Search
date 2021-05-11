@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Bound-state vector soliton solutions for the coupled variable-coefficient higher-order nonlinear Schrodinger equations, which describe the simultaneous propagation of nonlinear waves in the inhomogeneous optical fiber, are investigated. Introducing auxiliary functions, we derive the bilinear forms and corresponding constraints on the variable coefficients. Through symbolic computation, we construct the one- and two-soliton solutions. We see that the variable coefficients in the equations affect the soliton structures. With different choices of the variable coefficients, we obtain the cubic, periodic, and parabolic solitons. Bound-state solitons and interactions are analyzed graphically.

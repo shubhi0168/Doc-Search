@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+As a next generation networking protocol, OpenFlow enhances network performance by separating the control plane from data plane. It can be implemented for quality of service: users desiring network resources or with higher priorities defined by the system are allocated with adequate resources. Besides the communication protocol, another two elements are required to complete the OpenFlowsystem: the switch, either physical or virtual, which supports OpenFlow, and the controller, which sends setting packets to control the switch flow table. With OpenFlow, users are not restricted to functions provided by the specific switch, since by a standard application programming interface (API) users can define wanted functions instead of predefined ones bundled in operating systems. This paper aims to create an OpenFlow switch monitoring system, which oversees traffic pass through switches under the controller, and provides a convenient webpage for network administrators to modify flow priorities and effectively manage the network.

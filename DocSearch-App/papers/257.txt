@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Adaptive learning game studies experienced rapid growth due to its learning benefits and popularity among younger generations. Computer programming is considered a challenging subject by learners and teachers, as a result of poor motivation towards its studies. It is important to know how adaptive educational games can help to enhance our student's motivation and learning perceptions towards Programming skills. This paper discusses the concept of using educational games as learning medium by applying the following techniques: motivation, intervention, collaboration etc with an agent based approach to reinforce and improve the students' abilities in the concepts of programming. We present a platform whereby instructional content and methods are customized to individual students to guide/facilitate learning and mastering of programming concepts.

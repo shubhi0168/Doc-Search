@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Based on the Lax representation, we solve the three coupled higher order nonlinear Schrodinger equations with the achievement of N-soliton solution formula, by means of Darboux transformation. With the involvement of multi-parameters (actually 21 parameters) in the two-soliton solutions, we investigate the soliton excitations and collisions in alpha helical proteins with interspine coupling at higher order, in virtue of multi-parameter management and graphical simulation. It is found that both elastic and inelastic collisions can take place under suitable parametric conditions. Additionally, there exist three kinds of shape-changing collision patterns among the three components, and the inelastic collision of single solitons occur in two different manners: enhancement or suppression of intensity. Our results of multiparameter management analysis may give theoretical support as well as further impetus in the experimental investigation on soliton excitations, elastic and inelastic collisions in alpha helical proteins with interspine coupling at higher order. (C) 2015 Elsevier B.V. All rights reserved.

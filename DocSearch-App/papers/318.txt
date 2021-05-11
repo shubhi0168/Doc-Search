@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Alignment-free methods are one of the mainstays of biological sequence comparison, i.e., the assessment of how similar two biological sequences are to each other, a fundamental and routine task in computational biology and bioinformatics. They have gained popularity since, even on standard desktop machines, they are faster than methods based on alignments. However, with the advent of Next-Generation Sequencing Technologies, datasets whose size, i.e., number of sequences and their total length, is a challenge to the execution of alignment-free methods on those standard machines are quite common. Here, we propose the first paradigm for the computation of k-mer-based alignment-free methods for Apache Hadoop that extends the problem sizes that can be processed with respect to a standard sequential machine while also granting a good time performance. Technically, as opposed to a standard Hadoop implementation, its effectiveness is achieved thanks to the incremental management of a persistent hash table during the map phase, a task not contemplated by the basic Hadoop functions and that can be useful also in other contexts.

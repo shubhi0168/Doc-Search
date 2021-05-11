@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Evolution equation is among one of the important nonlinear partial differential equations and its exact solutions are of great interest for the researchers around the globe. In this article, a new analytical technique is used to search for exact solutions of nonlinear evolution equation with the aid of symbolic computation. To check the validity of the method developed, we choose the SRLW equation and many new and more general exact solutions have been obtained for the equation, which are of great importance. The efficiency of the developed scheme is confirmed since it provides more exact solutions than other techniques used now a day.

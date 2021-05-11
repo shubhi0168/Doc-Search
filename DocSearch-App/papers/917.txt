@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Cloud security has become one of the emergent issues because of the immense growth of cloud services. A major concern in cloud security is the insider threat because of the harm that it poses. Therefore, defending cloud systems against insider attacks has become a key demand. This work deals with insider threat in cloud relational database systems. It reveals the flaws in cloud computing that insiders may use to launch attacks and discusses how load balancing across availability zones may increase insider threat. To mitigate this kind of threat, the paper proposes four models, which are peer-to-peer model, centralized model, Mobile-Knowledgebases model, and Guided Mobile-Knowledgebases model, and it discusses their advantages as well as their limitations. Moreover, the paper provides experiments and analysis that compare among the proposed models, demonstrate their effectiveness, and show the conditions under which they work with highest performance. Copyright (c) 2016 John Wiley & Sons, Ltd

@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Covering problems are well studied in the Operations Research literature under the assumption that both the set of users and the set of potential facilities are finite. In this paper, we address the following variant, which leads to a Mixed Integer Nonlinear Program (MINLP): locations of p facilities are sought along the edges of a network so that the expected demand covered is maximized, where demand is continuously distributed along the edges. This MINLP has a combinatorial part (which edges of the network are chosen to contain facilities) and a continuous global optimization part (once the edges are chosen, which are the optimal locations within such edges). A branch-and-bound algorithm is proposed, which exploits the structure of the problem: specialized data structures are introduced to successfully cope with the combinatorial part, inserted in a geometric branch-and-bound algorithm. Computational results are presented, showing the appropriateness of our procedure to solve covering problems for small (but non-trivial) values of p. (C) 2015 Elsevier Ltd. All rights reserved.

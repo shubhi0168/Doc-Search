@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+An image intensifier installed in the optical path of a compact spectrometer may act not only as a fast gating unit, which is widely used for time-resolved measurements, but also as a variable attenuator-amplifier in a continuous wave mode. This opens the possibility of an automatic gain control, a new feature in spectroscopy. With it, the user is relieved from the necessity to manually adjust signal level at a certain value that it is done automatically by means of an electronic feedback loop. It is even more important that automatic gain control is done without changing exposure time, which is an additional benefit in time-resolved experiments. The concept, algorithm, design considerations, and experimental results are presented.

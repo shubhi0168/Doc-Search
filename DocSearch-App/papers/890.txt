@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Clinical and preclinical studies of cardiovascular calcification often require interpretation of images from histopathology, computed tomography, intravascular ultrasound, and positron emission tomography. To avoid potential pitfalls in biological inferences, investigators should know what happens to data in image processing algorithms, the limitations of cross-sectional images in studying mechanostability, and how smoothing algorithms can mask partial-volume artifacts in positron emission tomography.

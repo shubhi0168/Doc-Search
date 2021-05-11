@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Any information system built on a database can not function without data access control component. Role-Based Access Control (RBAC) models are the most acceptable for large database operating. There are several approaches to implementation of modified RBAC models that support hierarchical and temporal access control. This paper considers an approach of the implementation at the logical level of a database with a set of user role permissions tables and a set of data access control views. The tables and views are created and used according to defined rules of temporal access permissions distribution.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+American Sign Language (ASL) fingerspelling is the act of spelling a word letter-by-letter when a specific sign does not exist to represent it. Synthesizing intelligible ASL, which includes fingerspelling as an integral part, is important to create signing virtual characters for training and communicating in virtual environments or further applications. The rhythm and speed of fingerspelling play a large role in how well fingerspelling is understood. Using motion capture technologies, we record fingerspelling and analyze timing information about letters in the words. Our goal is to identify fingerspelling timing information and use it to create fingerspelling animations that are natural and understandable.

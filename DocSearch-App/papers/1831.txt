@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+High-dimensional quantum key distribution (HD-QKD) can generate more secure bits for one detection event so that it can achieve long distance key distribution with a high secret key capacity. In this Letter, we present a decoy state HD-QKD scheme with the entangled single-photon-added coherent state (ESPACS) source. We present two tight formulas to estimate the single-photon fraction of postselected events and Eve's Holevo information and derive lower bounds on the secret key capacity and the secret key rate of our protocol. We also present finite-key analysis for our protocol by using the Chernoff bound. Our numerical results show that our protocol using one decoy state can perform better than that of previous HD-QKD protocol with the spontaneous parametric down conversion (SPDC) using two decoy states. Moreover, when considering finite resources, the advantage is more obvious. (C) 2017 Elsevier B.V. All rights reserved.

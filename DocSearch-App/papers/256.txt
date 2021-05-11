@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Adaptive Educational Hypermedia systems (AEHS) have provided new perspectives for access to information and enhance learning. However AEHS have advantages and positive impact on learning, there are still defies to their design and production. In this paper, we propose an Agile Learning Design method to support the design and production of AEHS. It is based on agile practices from software engineering and on practices of learning design. We illustrate our approach with an experiment that validates the proposed method through its application in the design of an AEHS called (ALD-AEHS) and creation of one of the most important component of AEHS: The User Model.

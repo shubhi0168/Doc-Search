@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Future home networks are expected to become extremely sophisticated, yet only the most technically adept persons are equipped with skills to secure them. In this paper, we provide a novel solution to detect and prevent attacks on home routers based on anomalous power consumption. We developed a means of measuring power consumption that could be used in a wide variety of home networks, although our primary focus on is on profiling Homenet-based residential routers, specifically to detect attacks against homenet routing infrastructure. Several experimental results are presented when the infrastructure is exposed to various types of attacks, which show strong evidence of the feasibility of our approach.

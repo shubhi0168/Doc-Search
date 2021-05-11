@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Database auditing is one of the biggest issues in data security. Absence of information auditing drives the business applications to the lost trail of business procedures. To cope with auditing and in order to track operations and the actors of those operations in time, we need historical data or temporary database. Legitimate and exchange times are two important time-stamps in temporary database. In this paper, we show the methods to handle database auditing in business exchange operations, accurate times, and performers of the operations. These strategies are separated in two sets; utilizing relational databases, and utilizing semi-structured information.

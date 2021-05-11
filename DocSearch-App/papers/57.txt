@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A generalized variable-coefficient KdV equation with perturbed and external-force terms is investigated in this Letter. Lax pair, Riccati-type auto-Backlund transformation and Wahlquist-Estabrook-type auto-Backlund transformation (WE-BT) are constructed. Based on the WE-BT, the nonlinear superposition formula is obtained and an infinite number of conservation laws are derived recursively, then the analytic solutions are provided including periodic, one-soliton-like and two-soliton-like solutions with inhomogeneous coefficients, external-force term and eigenvalue. (C) 2015 Elsevier Ltd. All rights reserved.

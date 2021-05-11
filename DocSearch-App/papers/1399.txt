@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Dual-energy X-ray imaging has a vast range of application in security. Luggage inspection is an essential process for an airplane or court house security as well as securing mass events. An image of a content of some package may help to figure out if there is any dangerous object inside and avoid possibly threatening situation. As the raw X-ray images are not always easy to analyze and interpret, some image processing methods like an object detection, a frequency resolution increase or a pseudocoloring are being used. Since color can be a powerful tool to improve the usefulness of an information display, we propose pseudocoloring improvement by modifying material-based approach with edge detection to fill and sharpen color layers over the image making it easier to read and analyze. We demonstrate the effectiveness of the methods using real data, acquired from a professional dual-energy X-ray scanner.

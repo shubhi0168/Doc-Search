@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Android malware has grown in exponential proportions in recent times. Smartphone operating systems such as Android are being used to interface with and manage various IoT systems, such as building management and home automation systems. In such a hostile environment the ability to test and confirm device health claims is important to preserve confidentiality of user data. This paper describes a study to determine whether an Android device could be secured to prevent malware from executing in parallel with trusted applications. The research also sought to determine whether the system image could be protected from unauthorised modifications. A prototype scheme for meeting the above requirements was developed and tested. It was observed that the prototype succeeded in preventing unauthorised modification to the system image of the test device. However, the prototype failed to prevent unauthorised IPC calls when in single process mode.

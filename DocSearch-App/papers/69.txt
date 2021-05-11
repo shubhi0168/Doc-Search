@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+A high performance license plate recognition system (LPRS) is proposed in this work. The proposed LPRS is composed of the following three main stages: (i) plate region determination, (ii) character segmentation, and (iii) character recognition. During the plate region determination stage, the image is enhanced by image processing algorithms to increase system performance. The rectangular license plate region is obtained using edge-based image processing methods on the binarized image. With the help of skew correction, the plate region is prepared for the character segmentation stage. Characters are separated from each other using vertical projections on the plate region. Segmented characters are prepared for the character recognition stage by a thinning process. At the character recognition stage, a three-layer feedforward artificial neural network using a backpropagation learning algorithm is constructed and the characters are determined.

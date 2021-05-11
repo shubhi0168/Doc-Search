@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Aiming at machine learning applications in which fast online learning is required, we develop a variant of the Least Squares SVR (LSSVR) model that can learn incrementally from data and eventually provide a sparse solution vector. This is possible by incorporating into the LSSVR model the sparsification mechanism used by the kernel RLS (KRLS) model introduced in Engel et al., 2004. The performance of the resulting model, henceforth referred to as the online sparse LSSVR (OS-LSSVR) model, is comprehensively evaluated by computer experiments on several benchmarking datasets (including a large scale one) covering a number of challenging tasks in nonlinear time series prediction and system identification. Convergence, efficiency and error bounds of the OS-LSSVR model are also addressed. The results indicate that the proposed approach consistently outperforms the state of the art in kernel adaptive filtering algorithms, by providing more sparse solutions with smaller prediction errors and smaller norms for the solution vector. (C) 2017 Elsevier B.V. All rights reserved.

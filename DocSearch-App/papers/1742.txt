@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Given a graph G that admits a perfect matching, we investigate the parameter eta(G) (originally motivated by computer graphics applications) which is defined as follows. Among all nonnegative edge weight assignments, eta(G) is the minimum ratio between (i) the maximum weight of a perfect matching and (ii) the maximum weight of a general matching. In this paper, we determine the exact value of eta for all rectangular grids, all bipartite cylindrical grids, and all bipartite toroidal grids. We introduce several new techniques to this endeavor. (C) 2016 Elsevier B.V. All rights reserved.

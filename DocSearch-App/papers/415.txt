@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Applications of process assessment have been established in various domains that require also safety considerations regarding processes, products and services. Often, the scope of the applied process assessment model is inadequate in meeting safety assurance requirements. This paper presents some considerations, how assurance needs could be met with a process assessment method, including both the assessment process and assessment model. Our main domain of interest is nuclear power, and its requirements are used here as examples. The main result is an analysis of the assurance case for systems and software engineering, and how a process assessment method and results can be used as evidence in safety assurance. Our aim is to develop an integrated approach to manage assessment and assurance related evidence in an efficient way.

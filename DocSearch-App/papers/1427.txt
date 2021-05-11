@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+Due to the network alarm data in cloud environment has the characteristics of massive, redundancy, relevance, etc., traditional FP-Growth algorithm has memory and computing time double bottleneck. Therefore, this paper presents an improved FP-Growth algorithm, which based on sharing path. It scans the cube instead of multiple scans of the entire database, adopting structured storage of alarm data model, sharing same path to reduce recursive operations and using MapReduce framework for parallel computing. Experimental results show that the algorithm has high efficiency, good scalability and reliability. It can also identify the relationship of each device when alarm condition occurs, reduce duplication of alarms and provide basis for equipment maintenance and network management.

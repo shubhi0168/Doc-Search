@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A flexible and universal domain decomposition parallel scheme is proposed for the unconditionally stable finite-difference time-domain (FDTD) method. The leapfrog alternating direction implicit FDTD (ADI-FDTD) method is employed to eliminate the restriction of the Courant-Friedrichs-Lewy stability condition. The proposed domain decomposition parallel implementation of the leapfrog ADI-FDTD method is more flexible with process allocation and requires fewer data communications. A buffer region is introduced to decouple the interactions between neighboring subdomains at each time step. Electromagnetic simulations are presented to demonstrate the applicability, accuracy, and efficiency of the proposed method.

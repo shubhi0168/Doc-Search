@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A handover authentication protocol ensures secure and seamless roaming over multiple access points. A number of such protocols are proposed, but most of these protocols are inefficient or insecure. Very recently, Li et al. (Wireless Pers Commun 80(2):581-589, 2015) proposed a privacy-aware handover authentication protocol, and claimed their protocol to be more lightweight and secure than existing protocols. However, our analysis identifies that Li et al.'s protocol is insecure against access point impersonation attack. As a remedy, we proposed an improved protocol to fix the security weakness of Li et al.'s protocol. The improved protocol achieves the provable security in the random oracle model against the hardness assumptions of the elliptic curve discrete logarithm problem and elliptic curve computational Diffie-Hellman problem. The proposed handover authentication protocol is also formally analyzed with the automated tool ProVerif. The improved protocol not only enhances the security but is more lightweight than other related protocols.

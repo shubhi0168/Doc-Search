@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Bent functions are actively investigated for their various applications in cryptography, coding theory and combinatorial design. As one of their generalizations, negabent functions are also quite useful, and they are originally defined via nega- Hadamard transforms for boolean functions. In this paper, we look at another equivalent definition of them. It allows us to investigate negabent functions f on F-2n, which can be written as a composition of a univariate polynomial over F-2n and the trace mapping from F-2n to F-2. In particular, when this polynomial is a monomial, we call f a monomial negabent function. Families of quadratic and cubic monomial negabent functions are constructed, together with several sporadic examples. To obtain more interesting negabent functions in special forms, we also look at certain negabent polynomials. We obtain several families of cubic negabent functions by using the theory of projective polynomials over finite fields.

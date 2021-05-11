@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Dense stereo correspondence is a challenging research problem in computer vision field. To address the poor accuracy behavior of stereo matching, we propose a novel stereo matching algorithm based on guided image filter and modified dynamic programming. Firstly, we suggest a combined matching cost by incorporating the absolute difference and improved color census transform (ICCT). Secondly, we use the guided image filter to filter the cost volume, which can aggregate the costs fast and efficiently. Then, in the disparity computing step, we design a modified dynamic programming algorithm, which can weaken the scanning line effect. At last, final disparity maps are gained after post-processing. The experimental results are evaluated on Middlebury Stereo Datasets, showing that our approach can achieve good results both in low texture and depth discontinuity areas with an average error rate of 5.14 % and strong robustness.

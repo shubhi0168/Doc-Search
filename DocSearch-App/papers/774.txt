@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Berta et al's uncertainty principle in the presence of quantum memory (Berta et al 2010 Nat. Phys. 6 659) reveals uncertainties with quantum side information between the observables. In the recent important work of Coles and Piani (2014 Phys. Rev. A 89 022112), the entropic sum is controlled by the first and second maximum overlaps between the two projective measurements. We generalize the entropic uncertainty relation in the presence of quantum memory and find the exact dependence on all d largest overlaps between two measurements on any d-dimensional Hilbert space. Our bound is rigorously shown to be strictly tighter than previous entropic bounds in the presence of quantum memory, which have potential applications to quantum cryptography with entanglement witnesses and quantum key distributions.

@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A design approach for determining the optimal flow pattern in a landscape lake is proposed based on FLUENT simulation, multiple objective optimization, and parallel computing. This paper formulates the design into a multi-objective optimization problem, with lake circulation effects and operation cost as two objectives, and solves the optimization problem with non-dominated sorting genetic algorithm II. The lake flow pattern is modelled in FLUENT. The parallelization aims at multiple FLUENT instance runs, which is different from the FLUENT internal parallel solver. This approach: (1) proposes lake flow pattern metrics, i.e. weighted average water flow velocity, water volume percentage of low flow velocity, and variance of flow velocity, (2) defines user defined functions for boundary setting, objective and constraints calculation, and (3) parallels the execution of multiple FLUENT instances runs to significantly reduce the optimization wall-clock time. The proposed approach is demonstrated through a case study for Meijiang Lake in Tianjin, China.

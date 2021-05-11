@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+An efficient parallel algorithm for Caputo fractional reaction-diffusion equation with implicit finite-difference method is proposed in this paper. The parallel algorithm consists of a parallel solver for linear tridiagonal equations and parallel vector arithmetic operations. For the parallel solver, in order to solve the linear tridiagonal equations efficiently, a new tridiagonal reduced system is developed with an elimination method. The experimental results show that the parallel algorithm is in good agreement with the analytic solution. The parallel implementation with 16 parallel processes on two eight-core Intel Xeon E5-2670 CPUs is 14.55 times faster than the serial one on single Xeon E5-2670 core.

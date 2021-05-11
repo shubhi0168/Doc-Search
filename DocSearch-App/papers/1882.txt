@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+Hydrological models are always related to time and spatial domains, so the model results produced by these models are very large. Microsoft component structured storage can be employed to save the model results, but it is lack of mechanism to reduce the data size. In order to tackle this situation, compressed structured storage method is introduced which based on combining component structured storage and zlib compression library. In this method, standard component rules are complied and containment as most common mechanism for object reuse in COM is applied so as to simplify the usage.

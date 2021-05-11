@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Associated with the prime number p = 3, the generalized bilinear operators are adopted to yield an extended Kadomtsev-Petviashvili-like (eKP-like) equation. With symbolic computation, eighteen classes of rational solutions to the resulting eKP-like equation are generated from a search for polynomial solutions to the corresponding generalized bilinear equation. (C) 2016 Elsevier Ltd. All rights reserved.

@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+In a digital multisignature scheme, two or more signers are allowed to produce a single signature on a common message, which can be verified by anyone. In the literature, many schemes are available based on the public key infrastructure or identity-based cryptosystem with bilinear pairing and map-to-point (MTP) hash function. The bilinear pairing and the MTP function are time-consuming operations and they need a large super-singular elliptic curve group. Moreover, the cryptosystems based on them are difficult to implement and less efficient for practical use. To the best of our knowledge, certificateless digital multisignature scheme without pairing and MTP hash function has not yet been devised and the same objective has been fulfilled in this paper. Furthermore, we formally prove the security of our scheme in the random oracle model under the assumption that ECDLP is hard.

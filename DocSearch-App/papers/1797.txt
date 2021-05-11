@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Hardware-based image processing offers speed and convenience not found in software-centric approaches. Here, we show theoretically that a 2-D periodic array of dipole-coupled elliptical nanomagnets, delineated on a piezoelectric substrate, can act as a dynamical system for specific image processing functions. Each nanomagnet has two stable magnetization states that encode pixel color (black or white). An image containing black and white pixels is first converted to voltage states and then mapped into the magnetization states of a nanomagnet array with magneto-tunneling junctions (MTJs). The same MTJs are employed to read out the processed pixel colors later. Dipole interaction between the nanomagnets implements specific image processing tasks, such as noise reduction and edge enhancement detection. These functions are triggered by applying a global strain to the nanomagnets with a voltage dropped across the piezoelectric substrate. An image containing an arbitrary number of black and white pixels can be processed in few nanoseconds with very low energy cost.

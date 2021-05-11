@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+How to cultivate the students' capacity of computational thinking during the educational process of computer programming is one of the basic goals of computer basic education. Considering the generally reflected problems in education of programming courses such as boring, not enthusiastic about learning, grammatical structures and teaching cases are dispersed, etc; this paper introduces the gamified educational mode for the purpose to cultivate the students' capacity of computational thinking. Educational model based on the gamified education was constructed, and the cultivation of gamified education to students' computational thinking ability was analyzed through specific case analysis. Gamified educational mode can effectively stimulates students' motivation and interest in learning, and then cultivate students' self-learning ability. It better tap the abstract algorithm thinking which cultivate students' computational thinking capacity.

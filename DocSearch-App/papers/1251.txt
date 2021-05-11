@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Deep convolutional neural networks have demonstrated breakthrough accuracies for image classification. A series of feature extractors learned from CNN have been used in other computer vision tasks. However, CNN features of different layers aim to encode different-level information. High-layer features care More about semantic information but less detail information, while low-layer features contain more detail information but suffer from the problem of background clutter and semantic ambiguity. We propose to exploit complementary strengths of different layers in a simple but effective way. A mapping function is designed to highlight the effectiveness of low-layer similarity, when measuring fine-grained similarity between query linage and its nearest neighbors with similar semantic. Extensive experiments show that our method can achieve Competitive performance on popular retrieval benchmarks. Extensive experiments show that the proposed method outperforms the features extracted from single layers and their direct concatenations. Meanwhile, our method achieves competitive performance on popular retrieval benchmarks.

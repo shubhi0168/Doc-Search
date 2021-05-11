@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+AES represents the algorithm for advanced encryption standard consistof different operations required in the steps of encryption and decryption. The proposed architecture is based on optimizing area in terms of reducing no of slices required for design of AES algorithm in VHDL. This paper presents AES-128 bit algorithm design consist of 128 bit symmetric key. The AES implementation, merging technique has been used wherein ShiftRows, MixColumns and AddRoundkeys transformations are performed in a single VLSI module.

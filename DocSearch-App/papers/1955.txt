@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+In all kinds of Internet security incidents, the most serious is malicious code. The increasingly serious problem caused by malicious code, not only make the enterprises and users suffered huge economic losses, but also makes network security facing serious threat. In this paper, based on the analysis of malicious code detection technology and detection system, the author designs and implements an unknown malicious code detection system based on network behavior analysis. Test results show that the detection system can distinguish three kinds of ARP attack; it can produce normal alarm information and achieve the desired results. At the same time, the network behavior analysis method needs to be further improved in order to achieve better analysis results, and provide more reliable results for the detection system.

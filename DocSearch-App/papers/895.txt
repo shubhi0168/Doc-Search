@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Cloud computing is a distributed computing model that has lot of drawbacks and faces difficulties. Many new innovative and emerging techniques take advantage of its features. In this paper, we explore the security threats to and Risk Assessments for cloud computing, attack mitigation frameworks, and the risk-based dynamic access control for cloud computing. Common security threats to cloud computing have been explored and these threats are addressed through acceptable measures via governance and effective risk management using a tailored Security Risk Approach. Most existing Threat and Risk Assessment (TRA) schemes for cloud services use a converse thinking approach to develop theoretical solutions for minimizing the risk of security breaches at a minimal cost. In our study, we propose an improved Attack-Defense Tree mechanism designated as iADTree, for solving the TRA problem in cloud computing environments.

@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+A plethora of Multi Agent Systems (MAS) development methodologies exists and all compete for prominence. This paper advocates unification of best of breed activities from these methodologies and examines two existing approaches for unifying access to them. It proposes an alternative approach that focusses on the use of domain knowledge through ontologies as offering the best potential for unifying access to them. The reliance on ontologies will provide flexibility in the process and workproducts use within the methodology. The focus on domain knowledge will reduce the number of mandatory methodological tasks and at the same time create scope for reuse with respect to both system designs and components. The paper will further sketch and argue for a full software development lifecycle for MAS where ontologies expressing domain knowledge are the central artifacts.

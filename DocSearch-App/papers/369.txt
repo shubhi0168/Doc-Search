@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+An attack graph depicts multiple-step attack and provides a description of system security vulnerabilities. It illustrates critical information necessary to identify potential weaknesses and areas for enhanced defense. Attack graphs include multiple attack paths, which are a focus for further detailed analysis and risk mitigation. Considering that different vulnerabilities have different probabilities of being exploited, this paper proposes an algorithm to dynamically generate the top K attack paths with maximum probabilities for every node of a system. The proposed algorithm does not require generation of the full attack graph to calculate the K attack paths. Instead, it directly processes and analyzes the system input data and dynamically identifies the K attack paths. The computational time, based upon the complexity of the attack paths, can be constrained by the parameter K. Experimental results show that the algorithm is scalable and efficient.

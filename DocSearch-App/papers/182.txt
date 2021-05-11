@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+A secure two-way identity authentication scheme of WiFi environment is raised from the perspective of security and the load capacity mobile terminal according the increasing serious of wireless network security. The scheme is based on one-time password authentication technology and the digital signature is realized by using the elliptic curve cryptosystem. It is known that the scheme can resist the common network attacks by analyzing the security of this scheme, which is suitable for the application to the WiFi environment with high security requirements..

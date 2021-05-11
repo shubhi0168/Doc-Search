@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Chinese Herbal Medicine (CHM) plays a significant role in breast cancer treatment. We conduct the study to ascertain the relative molecular targets of effective Chinese herbs in treating stage IV breast cancer. Survival benefit of CHM was verified by Kaplan-Meier method and Cox regression analysis. A bivariate correlation analysis was used to find and establish the effect of herbs in complex CHM formulas. A network pharmacological approach was adopted to explore the potential mechanisms of CHM. Patients in the CHM group had a median survival time of 55 months, which was longer than the 23 months of patients in the non-CHM group. Cox regression analysis indicated that CHM was an independent protective factor. Correlation analysis showed that 10 herbs were strongly correlated with favorable survival outcomes (P<0.01). Bioinformatics analyses suggested that the 10 herbs might achieve anti-breast cancer activity primarily through inhibiting HSP90, ER alpha and TOP-II related pathways.

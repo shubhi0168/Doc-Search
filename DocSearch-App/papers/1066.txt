@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Considering the ultrashort optical soliton propagation in the non-Kerr media, the cubic-quintic nonlinear Schrodinger equation with Raman effect is studied through the dependent variable transformation and Hirota method. Based on symbolic computation, the bilinear form, the explicit one- and two-soliton solutions for the equation are presented. The constraint parametric condition for the existence of soliton solutions is also derived. Propagation characteristics and interaction behaviors of the solitons are graphically shown and discussed: (1) Overtaking elastic interactions of the two solitons; (2) periodic attraction and repulsion of the bounded states of two solitons; (3) propagation in parallel of the two solitons.

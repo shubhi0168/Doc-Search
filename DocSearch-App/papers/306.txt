@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Aims: Protocol security which is important concern in the network security, which ensures the security and integrity of data transmission over the internet. Secure network data from any illegimate attempt to extract content of the data and Cloud Computing is the advance computing technology for the internet users. Materials and methods: We can enhance our system without modify or changing our resources by the internet over cloud technology. So, all the resources we can get through cloud system. Our data should be transmit in secure channel. Results: This paper focus on Protocol security in private cloud system deployment and security against POODLE (Discovered by GOOGLE TEAM at OCT 2014).

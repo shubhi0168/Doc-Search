@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Cricket system is a typical multivariable, uncertainty, strong coupling, nonlinear dynamics of the underactuated system, is two dimensional extension of club system, have been many scholars at home and abroad as the study of nonlinear control system experimental platform. Usually, the fuzzy adaptive control method is applied to uncertain nonlinear systems, for the practical engineering common multivariable and nonlinear system control matrix irreversible lacked certain applicability. In the process of cricket in uncertain nonlinear system, when the control gain matrix determinant equal to zero, namely the control matrix is irreversible, the ball is out of control. Therefore, to design a can supervise system stability and the supervision of the state variable changes hierarchical controller is of great significance. In this paper, the controller is divided into two layers: the upper layer for supervision and optimization; The lower is combined with the adaptive rule and sliding mode theory, the advantages of intelligent algorithm design of the controller.

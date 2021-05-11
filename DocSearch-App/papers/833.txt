@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+By block compressed sensing (BCS), the image can be compressed and encrypted simultaneously. A novel reversible data hiding (RDH) method is proposed to embed additional data into the BCS encrypted images. In the proposed method, based on the image block edge pixel separation, every block can be used for data embedding through a special measurement flipping. After decryption, considering the correlation of natural images, the fluctuation function can be used to find out the flipped block and realise the data extraction and image recovery. Experiments show that the proposed method can outperform the existing RDH method in BCS images.

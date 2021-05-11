@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+A set of algorithms for simultaneous localization and mapping in industrial television systems is discussed. A probabilistic model of this problem is described with the FastSLAM algorithm as an example. The possibility of using a sigma-point Kalman filter for estimating the movement of spatial landmarks, a key feature of images characterized by stable detection and recognition within the video stream, is considered. A general model of the camera motion and a method for evaluating its spatial position using a particle filter are presented.

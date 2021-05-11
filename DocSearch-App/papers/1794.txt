@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Hadoop is one of the most important Big Data processing and storage systems. In recent years, a lot of efforts have been put to enhance Hadoop's performance from networking perspectives. However, there are limited tools that can help researchers to verify their networking algorithm design in terms of Hadoop's performance. This paper proposes Doopnet which is a framework and toolset for creating Hadoop clusters in a virtualized environment and for monitoring/analysing of Hadoop's networking characteristics under different network configurations. Doopnet enables users to automatically set up a Hadoop cluster over Docker containers running inside Mininet. The Hadoop traffic is collected inside the containers and virtual switches through network flow monitors. The users can easily modify network topologies or configurations through Mininet, observe the networking behaviour through network flow monitors, and analyse the effects of different network settings on Hadoop's performance. Examples are presented to demonstrate how to setup the Doopnet testbed and analyse Hadoop traffic.

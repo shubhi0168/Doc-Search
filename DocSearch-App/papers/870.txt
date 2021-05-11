@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Change Impact Analysis is the process of determining the consequences of a modification to software. In theory, change impact analysis should be done during software maintenance, to make sure changes do not introduce new bugs. Many approaches and techniques are proposed to help programmers do change impact analysis automatically. However, it is still an open question whether and how programmers do change impact analysis. In this paper, we conducted two studies, one in-depth study and one breadth study. For the in-depth study, we recorded videos of nine professional programmers repairing two bugs for two hours. For the breadth study, we surveyed 35 professional programmers using an online system. We found that the programmers in our studies did static change impact analysis before they made changes by using IDE navigational functionalities, and they did dynamic change impact analysis after they made changes by running the programs. We also found that they did not use any change impact analysis tools.

@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Background: Current development of sequencing technologies is towards generating longer and noisier reads. Evidently, accurate alignment of these reads play an important role in any downstream analysis. Similarly, reducing the overall cost of sequencing is related to the time consumption of the aligner. The tradeoff between accuracy and speed is the main challenge in designing long read aligners. Results: We propose Meta-aligner which aligns long and very long reads to the reference genome very efficiently and accurately. Meta-aligner incorporates available short/ long aligners as subcomponents and uses statistics from the reference genome to increase the performance. Meta-aligner estimates statistics from reads and the reference genome automatically. Meta-aligner is implemented in C++ and runs in popular POSIX-like operating systems such as Linux. Conclusions: Meta-aligner achieves high recall rates and precisions especially for long reads and high error rates. Also, it improves performance of alignment in the case of PacBio long-reads in comparison with traditional schemes.

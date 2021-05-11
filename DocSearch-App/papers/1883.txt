@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Hyperfine Structure Fitting (HfS) is a tool to fit the hyperfine structure of spectral lines with multiple velocity components. The HfS_nh3 procedures included in HfS simultaneously fit the hyperfine structure of the NH3 (J, K) - (1, 1) and (2, 2) transitions, and perform a standard analysis to derive T-ex, NH3 column density, T-rot, and T-k. HfS uses a Monte Carlo approach for fitting the line parameters. Special attention is paid to the derivation of the parameter uncertainties. HfS includes procedures that make use of parallel computing for fitting spectra from a data cube.

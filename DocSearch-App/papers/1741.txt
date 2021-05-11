@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Given a graph G and a non-negative integer h, the h-restricted connectivity of G, denoted by kappa(h)(G), is defined as the minimum size of a set X of nodes in G (X subset of V (G)) such that G - X is disconnected, and the degree of each component in G - X is at least h. The h-restricted connectivity measure is a generalization of the traditional connectivity measure, and it improves the connectivity measurement accuracy. Moreover, studies have revealed that if a network possesses a restricted connectivity property, it is more reliable and demonstrates a lower node failure rate compared with other networks. The n-dimensional locally twisted cube LTQ(n), which is a well-known interconnection network for parallel computing, is a variant of the hypercube Q(n). Most studies have examined the h-restricted connectivity of networks under the conditions of h = 1 or h = 2. This paper examines a generalized h-restricted connectivity measure for n-dimensional locally twisted cube and reveals that kappa(h)(LTQ(n)) = 2(h)(n - h) for 0 <= h <= n - 2. (C) 2016 Elsevier B.V. All rights reserved.

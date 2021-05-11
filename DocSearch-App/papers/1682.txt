@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Freshwater lake sediments support a variety of submerged macrophytes that may host groups of bacteria exerting important ecological functions. We collected three kinds of commonly found submerged macrophyte species (Ceratophyllum demersum, Vallisneria spiralis and Elodea nuttallii) to investigate the bacterial community associated with their rhizosphere sediments. High- throughput 454 pyrosequencing and bioinformatics analyses were performed to examine the diversity and composition of the bacterial community. The results obtained indicated that the diversity of the bacterial community associated with the rhizosphere sediments of submerged macrophytes was significantly lower than that of the bulk sediment. Remarkable differences in the bacterial community composition between the rhizosphere and bulk sediments were also observed.

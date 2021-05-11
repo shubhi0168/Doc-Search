@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+High dimensionality and classification of imbalanced data sets are two of the most interesting machine learning challenges. Both issues have been independently studied in the literature. In order to simultaneously explore the both issues of feature selection and oversampling, we efficiently combine two different methodological approaches in an unified kernel framework. Specifically, we proposed a novel l(2,1) norm balanced multiple kernel feature selection (l(2,1) MKFS), and designed a proximal based optimization algorithm for efficiently learning the model. Moreover, multiple kernel oversampling (MKOS) was developed to generate synthetic instances in the optimal kernel space induced by l(2,1) MKFS, so as to compensate for the class imbalanced distribution. Our experimental results on multiple UCI data and two real medical application demonstrate that jointly operating nonlinear feature selection and oversampling with l(2,1) norm multi-kernel learning framework (l(2,1) MKFSOS) can lead to a promising classification performance.

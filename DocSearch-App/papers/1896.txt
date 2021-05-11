@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Identification of antigen for inducing specific class of antibody is prime objective in peptide based vaccine designs, immunodiagnosis, and antibody productions. It's urge to introduce a reliable system with high accuracy and efficiency for prediction. In the present study, a novel multilevel ensemble model is developed for prediction of antibodies IgG and IgA. Epitope length is important in training the model and it is efficient to use variable length of epitopes. In this ensemble approach, seven different machine learning models are combined to predict variable length of epitopes (4 to 50). The proposed model of IgG specific epitopes achieves 94.43% of accuracy and IgA specific epitopes achieves 97.56% of accuracy with repeated 10-fold cross validation. The proposed model is compared with the existing system i.e. IgPred model and outcome of proposed model is improved. (C) 2017 European Federation of Immunological Societies. Published by Elsevier B.V. All rights reserved.

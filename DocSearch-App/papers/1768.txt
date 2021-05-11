@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Graph databases can be defined as databases that use graph structures with nodes, edges and properties to store data. Semantic queries and graph-oriented operations are used to access them. With a rapidly growing amount of information on the Internet in recent years, relational databases sur er performance degradation as a large number of nodes are added due to the number of entries in join tables. Therefore, based on the network nature of Internet activities, graph databases are designed for fast access to complex data found in social networks, recommendation engines and networked system. The main objective of this survey is to present the work that has been done in the area of graph database, including query languages, processing, and related application.

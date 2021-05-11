@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Exploration of the structural balance of social networks is of great importance for theoretical analysis and practical use. This study modeled the structural balance of social networks as a mathematical optimization problem by using swarm intelligence, and an efficient discrete particle swarm optimization algorithm was proposed to solve the modeled optimization problem. To take advantage of the topologies of social networks in the algorithm design, the discrete representation of the particle was redefined, and the discrete particle update principles were redesigned. To validate the efficiency of the proposed algorithm, experiments were conducted using synthetic and real-world social networks. The experiments demonstrate that the proposed algorithm not only achieves a balanced social network structure, but also automatically detects the community topology of networks.

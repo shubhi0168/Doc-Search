@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Effective software effort estimation is one of the challenging tasks in software engineering. There have been various alternatives introduced to enhance the accuracy of predictions. In this respect, estimation approaches based on algorithmic models have been widely used. These models consider modeling software effort as a function of the size of the developed project. However, most approaches sharing a common thread of complex mathematical models face the difficulties in parameters calibration and tuning. This study proposes using a directed artificial bee colony algorithm in order to tune the values of model parameters based on past actual effort. The proposed methods were verified with NASA software dataset and the obtained results were compared to the existing models in other literature. The results indicated that our proposal has significantly improved the performance of the estimations.

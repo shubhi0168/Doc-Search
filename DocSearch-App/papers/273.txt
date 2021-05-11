@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Advances in laboratory and information technologies are transforming public health microbiology. High-throughput genome sequencing and bioinformatics are enhancing our ability to investigate and control outbreaks, detect emerging infectious diseases, develop vaccines, and combat antimicrobial resistance, all with increased accuracy, timeliness, and efficiency. The Advanced Molecular Detection (AMD) initiative has allowed the Centers for Disease Control and Prevention (CDC) to provide leadership and coordination in integrating new technologies into routine practice throughout the U.S. public health laboratory system. Collaboration and partnerships are the key to navigating this transition and to leveraging the next generation of methods and tools most effectively for public health.

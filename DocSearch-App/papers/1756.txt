@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Global software development (GSD), a fundamentally different paradigm from traditional software engineering, has observed continuous growth and lot of acceptance in the last few years. Organizations gain many advantages of GSD, but face additional challenges not observed in collocated teams' environment. Literature reveals that existing process improvement frameworks do not explicitly accommodate the complex and challenging needs of GSD. In literature, it is found that one of the major challenges is weak monitoring and controlling of distributed teams. In this study, therefore, we developed a process improvement framework to improve the monitoring and controlling of distributed teams in a GSD environment. The proposed framework is constructed by using grounded theory methodology, and it is validated by using the methods of face validity, content validity, construct validity, convergent validity, and discriminant validity. The detailed analysis depicts that the proposed framework is a valid framework for global monitoring and control in a GSD environment.

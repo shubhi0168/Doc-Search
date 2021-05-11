@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Elliptic curve cryptosystems proved to be well suited for securing systems with constrained resources like embedded and portable devices. In a fault-based attack, errors are induced during the computation of a cryptographic primitive, and the results are collected to derive information about the secret key safely stored in the device. We introduce a novel attack methodology to recover the secret key employed in implementations of the Elliptic Curve Digital Signature Algorithm. Our attack exploits the information leakage induced when altering the execution of the modular arithmetic operations used in the signature primitive and does not rely on the underlying elliptic curve mathematical structure, thus being applicable to all standardized curves. We provide both a validation of the feasibility of the attack, even employing common off-the-shelf hardware to perform the required computations, and a low-cost countermeasure to counteract it.

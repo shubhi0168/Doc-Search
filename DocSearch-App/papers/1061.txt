@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Consider a complete communication network on n nodes. In synchronous 2-counting, the nodes receive a common clock pulse and they have to agree on which pulses are "odd" and which are "even". Furthermore, the solution needs to be self-stabilising (reaching correct operation from any initial state) and tolerate f Byzantine failures (nodes that send arbitrary misinformation). Prior algorithms either require a source of random bits or a large number of states per node. In this work, we give fast state-optimal deterministic algorithms for the first non-trivial case f = 1. To obtain these algorithms, we develop and evaluate two different techniques for algorithm synthesis. Both are based on casting the synthesis problem as a propositional satisfiability (SAT) problem; a direct encoding is efficient for synthesising time-optimal algorithms, while an approach based on counter-example guided abstraction refinement discovers non-optimal algorithms quickly. (C) 2015 Elsevier Inc. All rights reserved.

@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+An enhanced asymmetric cryptosystem for color image is proposed by using equal modulus decomposition (EMD) in the gyrator transform domains. In this scheme, the EMD is performed to create the effective trapdoor one-way function. Moreover, to enhance the security of the cryptosystem, the Baker mapping is considered and utilized for scrambling the RGB components of the color image. The parameters in the Baker mapping and gyrator transform can be served as the extra keys of the entire cryptosystem. Various types of attacks are considered in the robustness analysis experiments. Some numerical simulations are made to verify the validity and capability of the proposed color encryption algorithm.

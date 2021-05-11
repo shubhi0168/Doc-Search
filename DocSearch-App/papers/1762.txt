@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Goal models represent requirements and intentions of a software system. They play an important role in the development life cycle of software product lines (SPLs). In the domain engineering phase, goal models guide the development of variability in SPLs by providing the rationale for the variability, while they are used for the configuration of SPLs in the application engineering phase. However, variability in SPLs, which is represented by feature models, usually has design and implementation-induced constraints. When those constraints are not aligned with variability in goal models, the configuration with goal models becomes error prone. To remedy this problem, we propose a description logic (DL)-based approach to represent both models and their relations in a common DL knowledge base. Moreover, we apply reasoning to detect inconsistencies in the variability of goal and feature models. A formal proof is provided to demonstrate the correctness of the reasoning approach. An empirical evaluation shows computational tractability of the inconsistency detection.

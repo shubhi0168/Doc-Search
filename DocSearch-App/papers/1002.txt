@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programmers with dyslexia can be found in a range of academic and professional scenarios. Dyslexia may have the effect on a computer programmer of degrading the expected results during collaborative software development. These people may perform better using visual programming languages. However, we need to understand what programmers with dyslexia experience in order to be able to come up with possible solutions. We have conducted an analysis of existing literature and a survey on dyslexia and programming. This paper reports the preliminary results based on the data gathered so far and the key characteristics and needs of this group with the aim of defining the profile of computer programmers with dyslexia.

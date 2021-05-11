@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Big data has shifted the computing paradigm of data analysis. While some of the data can be treated as simple texts or independent data records, many other applications have data with structural patterns which are modeled as a graph, such as social media, road network traffic and smart grid, etc. However, there is still limited amount of work has been done to address the velocity problem of graph processing. In this work, we aim to develop a distributed processing system for solving pattern matching queries on streaming graphs where graphs evolve over time upon the arrives of streaming graph update events. To achieve the goal, we proposed an incremental pattern matching algorithm and implemented it on GPS, a vertex centric distributed graph computing framework. We also extended the GPS framework to support streaming graph, and adapted a subgraphcentric data model to further reduce communication overhead and system performance. Our evaluation using real wiki trace shows that our approach achieves a 3x similar to 10x speedup over the batch algorithm, and significantly reduces network and memory usage.

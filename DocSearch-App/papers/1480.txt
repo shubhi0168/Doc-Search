@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Efficient processing of aggregated range queries on two-dimensional grids is a common requirement in information retrieval and data mining systems, for example in Geographic Information Systems and OLAP cubes. We introduce a technique to represent grids supporting aggregated range queries that requires little space when the data points in the grid are clustered, which is common in practice. We show how this general technique can be used to support two important types of aggregated queries, which are ranked range queries and counting range queries. Our experimental evaluation shows that this technique can speed up aggregated queries up to more than an order of magnitude, with a small space overhead. (C) 2016 Elsevier Ltd. All rights reserved.

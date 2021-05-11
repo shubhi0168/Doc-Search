@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+A handy system is presented for creating in real time a natural television image composed of a real scene and a computer graphics object. The light positions and colors (RGB values) in the real scene are estimated and then applied to the object by using simple equipment. Objective and subjective experiments demonstrated the effectiveness of this system. An enhanced algorithm is also presented that improves the accuracy of light estimation.

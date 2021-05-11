@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Algorithm Design and Analysis is one of the core courses for undergraduates majoring in Computer Science and Technology. Based on practical teaching experiences, this paper carries out concrete discussions from several aspects, i.e., teaching content, teaching methods, practical teaching, and so forth in combination with several typical problems encountered during the teaching process.

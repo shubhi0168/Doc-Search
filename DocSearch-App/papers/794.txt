@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Binary Space Partitioning (BSP) is one of the most successful method of acceleration of ray tracing in computer graphics. BSP is applied in the ray tracing coupled with Geometrical Optics (GO) in the modeling of wireless propagation. The performance of acceleration by BSP is investigated. Then the result of GO accelerated by BSP is compared with a full-wave electromagnetic simulating method, Finite Difference Time Domain (FDTD).

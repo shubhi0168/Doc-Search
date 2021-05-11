@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Due to the appearance of some new characteristics of the electric power industry such as widely interconnection, high intelligent, the open and interactive, energy internet architecture put forward more new requirements of the electric information network security prevention and the information security faced a severe challenge. At present, the method of information security is extensive, management model and prevention system exist some weak links. This paper put forward a new model to guide the overall development of information security work through the quantization of risk indicator and fuzzy intelligent analysis.

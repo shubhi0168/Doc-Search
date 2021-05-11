@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Advanced medical devices exploit the advantages of embedded software whose development is subject to compliance with stringent requirements of standardization and certification regimes due to the critical nature of such systems. This paper presents initial results and lessons learned from an ongoing project focusing on the development of a formal model of a subsystem of a software-controlled safety-critical active medical device (AMD) responsible for renal replacement therapy. The use of formal approaches for the development of AMDs is highly recommended by standards and regulations, and motivates the recent advancement of the state of the art of related methods and tools including Event-B and Rodin applied in this paper. It is expected that the presented model development approach and the specification of a high-confidence medical system will contribute to the still sparse experience base available at the disposal of the scientific and practitioner community of formal methods and software engineering.

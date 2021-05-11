@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming is regarded as a difficult skill to learn both by researchers and often by learners themselves. Metacognition has been identified as an important factor to be a successful learner in learning computer programming. Metacognitive in educational psychology is generally described as monitoring and controlling activities of one's cognition. The researchers have examined the Metacognitive Awareness Inventory OM to identify how it relates to student academic achievement at school and universities. In this research work, an empirical research is conducted using the MAI inventory with the objective to examine the correlation between the metacognitive awareness with the Grade Point Average (GPA) performance of the introductory programming course at Universities in Malaysia. The experiment result indicates a positive relationship between metacognitive awareness with the learning success of introductory programming course at Universities.

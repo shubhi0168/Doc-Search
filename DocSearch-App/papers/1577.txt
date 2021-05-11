@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Face sketch-photo synthesis technique has attracted growing attention in many computer vision applications, such as law enforcement and digital entertainment. Existing methods either simply perform the face sketch-photo synthesis on the holistic image or divide the face image into regular rectangular patches ignoring the inherent structure of the face image. In view of such situations, this paper presents a novel superpixel-based face sketch-photo synthesis method by estimating the face structures through image segmentation. In our proposed method, face images are first segmented into superpixels, which are then dilated to enhance the compatibility of neighboring superpixels. Each input face image induces a specific graphical structure modeled by Markov networks. We employ a two-stage synthesis process to learn the face structures through Markov networks constructed from two scales of dilation, respectively. Experiments on several public databases demonstrate that our proposed face sketch-photo synthesis method achieves superior performance compared with the state-of-the-art methods.

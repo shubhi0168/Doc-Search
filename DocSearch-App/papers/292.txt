@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Aim of this paper was to assess the clinical effectiveness of a novel ultrasound (US) approach for the estimation of bone fragility. A total of 85 female patients (40-80 years) were recruited and underwent conventional DXA investigations of both lumbar spine and proximal femur, an abdominal US scan of the lumbar spine and the FRAX (R) questionnaire for the calculation of osteoporotic fracture probabilities. Acquired US data were analyzed through an automatic algorithm that calculated the Fragility Score (F. S.), a parameter that estimates skeletal fragility from dedicated spectral and statistical analyses. F.S. showed a good correlation with the most reliable fracture risk predictions obtained by FRAX (R) (r=0.71, p<0.001). Since this correlation level with FRAX (R) outcomes was much better than lumbar BMD one ( vertical bar r vertical bar = 0.43) and very similar to that obtained for femoral neck BMD (vertical bar r vertical bar = 0.72), F.S. has the potential to become a simple and non-ionizing method for bone fragility assessment. (C) 2016 Elsevier Ltd. All rights reserved.

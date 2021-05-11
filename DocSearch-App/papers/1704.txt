@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Gait recognition is a challenging problem in computer vision, especially when multi-persons walk together, called as multi-gait recognition. Multi-gait recognition includes two aspects: participant segmentation and participant recognition. In this paper, we propose to segment each participant by hypergraph partition and recognize each participant by multi-linear canonical correlation analysis algorithm (UMCCA). Firstly, raw pixel areas are obtained by grid, and each pixel area is taken as a hypergraph vertex. Then HOG-based detection and tracking technology is used to calculate the weight of each hyperedge. After segmentation, UMCCA is used to extract gait features. Finally, identity of multi-gait is recognized. The experimental results demonstrate that our proposed method achieves good performance on multi-gait dataset.

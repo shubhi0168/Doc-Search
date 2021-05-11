@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Defect detection and classification of ceramic tile surface defects occurred in firing units are usually performed by human observations in most factories. In this paper, an automatic image processing system with high accuracy and time efficient approaches is presented. To this end, first, for defect detection, Rotation Invariant Measure of Local Variance (RIMLV) operator from statistical methods is employed for defect edges detection, and cooperatively a Close morphological operator from structural methods is used to fill and smooth detected regions. Then, all the detected defects of one ceramic tile are labeled, and the corresponding geometric features are extracted. Finally, a multi-class support vector machine classifier with winner-takes-all strategy based on statistical pattern recognition theories is employed to identify the defect type.

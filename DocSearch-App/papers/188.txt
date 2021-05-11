@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+A simple and accurate scheme for modeling microstructures is proposed with the help of element trimming, combined with signed distance function based boundary smoothing. To accommodate randomly distributed fibers in unidirectional composites, digital image processing is used. The interfaces of multi materials are identified by introducing a signed distance function, and then, square background elements crossing the interfaces are simply trimmed and divided to represent a single material behavior by a single element. After element trimming, the elements that are polygon-shaped in the two-dimensional domain are split into conventional three-node triangle elements (six-node prism elements in the three-dimensional domain) available in many commercial software packages. The present modeling scheme was verified through benchmark examples in terms of the accuracy and efficiency and then applied to the modeling of unidirectional composites based on real microscopic images to evaluate the equivalent elastic properties. (C) 2017 Elsevier Ltd. All rights reserved.

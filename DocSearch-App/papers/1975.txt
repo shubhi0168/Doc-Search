@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+In computer vision, many problems can be formulated as binary quadratic programs (BQPs), which are in general NP hard. Finding a solution when the problem is of large size to be of practical interest typically requires relaxation. Semidefinite relaxation usually yields tight bounds, but its computational complexity is high. In this work, we present a semidefinite programming (SDP) formulation for BQPs, with two desirable properties. First, it produces similar bounds to the standard SDP formulation. Second, compared with the conventional SDP formulation, the proposed SDP formulation leads to a considerably more efficient and scalable dual optimization approach. We then propose two solvers, namely, quasi-Newton and smoothing Newton methods, for the simplified dual problem. Both of them are significantly more efficient than standard interior-point methods. Empirically the smoothing Newton solver is faster than the quasi-Newton solver for dense or medium-sized problems, while the quasi-Newton solver is preferable for large sparse/structured problems.

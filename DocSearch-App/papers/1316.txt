@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Developers work together during software development and maintenance to resolve issues and implement features in large software projects. The structure of their development collaboration activity may have impact on the quality of the final product in terms of higher number of defects. In this paper, we aim to understand the effect of collaboration on the defect proneness software. We model the collaboration of developers as an undirected network. We extract the centrality of the developers from the collaboration network using different measures that quantifies the importance of the nodes. We analyze the defect inducing and fixing data of the developers in two large software projects. Our findings in this study can be summarized as follows: (a) Centrality and source code change activity of developers in the collaboration network may change their defect induction rates i.e. the defect proneness of their change sets, (b) Contrary to the common perception, more experienced people have relatively higher defect induction rates. (C) 2016 Elsevier Inc. All rights reserved.

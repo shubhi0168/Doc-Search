@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+How to use software effectively and efficiently in the chemical, pharmaceutical and life science industries is one of the central questions in Process Optimization. The paper shows in five examples from chemical engineering how various programs connect to a first principle process simulator through the existing interfaces. It also shows how the functionality of a process simulator can be enhanced. Through the application programming interface (CC-API), the objects are re-used beyond the boundaries of the flow sheeting program CHEMCAD.

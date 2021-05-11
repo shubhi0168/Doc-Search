@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+In clinical practice, sketches support physicians in treatment planning. For example, they are employed as direct annotations in medical image data. However, this approach leads to occlusions in case of spatially complex 3D representations of anatomical structures such as vascular systems. To overcome this limitation, we developed a framework which enables the physician to create annotations by freely sketching in 3D environment. We solve the problem of occlusions by an animated representation of the original and unfolded vascular structure with interactive unfolding. For this, we use a semi-immersive stereoscopic display and a stylus with ray based interaction techniques.

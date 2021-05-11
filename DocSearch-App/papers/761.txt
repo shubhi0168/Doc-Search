@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Bayesianism is fast becoming the dominant paradigm in archaeological chronology construction. This paradigm shift has been brought about in large part by widespread access to tailored computer software which provides users with powerful tools for complex statistical inference with little need to learn about statistical modelling or computer programming. As a result, we run the risk that such software will be reduced to the status of black boxes. This would be a dangerous position for our community since good, principled use of Bayesian methods requires mindfulness when selecting the initial model, defining prior information, checking the reliability and sensitivity of the software runs and interpreting the results obtained. In this article, we provide users with a brief review of the nature of the care required and offer some comments and suggestions to help ensure that our community continues to be respected for its philosophically rigorous scientific approach.

@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+As networks applications are growing fast, data are more generated and transmitted, leaving it vulnerable to modification. Besides that, the significance, sensitivity and preciseness of that information cause a big security issue, increasing the needs to keep it safe. One proper solution for this problem is cryptography, which is a technique used to transform data to unrecognizable information and useless to any unauthorized person. By being the main core of network security and since new attacks techniques are daily invented, ciphers are constantly under test by cryptanalysis attacks to harden their safety. This paper contains a fair comparison between serval ciphers in speed test under different platforms, also in performance and risk to globalize the vision about the most fast safe algorithm.

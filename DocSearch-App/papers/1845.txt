@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Holoscopic 3D imaging (also known as Integral imaging) is a true light field imaging system that mimics fly's eye technique for capturing fitll colour spatial images using a single aperture holoscopic 3D camera. The fly's eye microlens array view the scene at a slightly different angle to its adjacent lens that records three-dimensional information onto two-dimensional surface. As a result, the display must have the exact optical component for reconstruction of a 3D scene from the recorded holoscopic 3D image. This paper proposes an innovative holoscopic 3D image resampling method to enable replay holoscopic 3D content, captured with different pixels per lens. Two different innovative holoscopic 3D image resampling techniques are proposed to facilitate effective holoscopic 3D content creation by manipulating elemental image pixels.

@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+An algorithm for automatic digitization of pluviograph strip charts is presented. The rainfall signal is incrementally extracted from the scanned image of a strip chart by combining the moving average method and the curve edge following method. The mechanical properties of float-based rain gauge were used as constraints in the algorithm design. The algorithm was tested on 58 strip chart images. The comparison between the data derived from the algorithm and the data from the Slovenian Environment Agency shows that the algorithm produces an accurate rainfall time series except for the charts that contain ink smudges. Thus, the algorithm is well suited as a main component of an interactive system that would enable visual inspection of the detected rainfall curve and its possible adjustment.

@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+During the past few decades there have been many examples where computer algebra methods have been applied successfully in the analysis and construction of numerical schemes, including the computation of approximate solutions to partial differential equations. The methods range from Grobner basis computations and Cylindrical Algebraic Decomposition to algorithms for symbolic summation and integration. The latter have been used to derive recurrence relations for efficient evaluation of high order finite element basis functions. In this paper we review some of these recent developments.

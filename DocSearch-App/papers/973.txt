@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Component-based approaches are prevalent in software development for robotic applications due to their reusability and productivity. In this article, we present an Embedded modular Software framework for a networked roBoTic system (EmSBoT) targeting resource-constrained devices such as microcontroller-based robots. EmSBoT is primarily built upon mu COS-III with real-time support. However, its operating system abstraction layer makes it available for various operating systems. It employs a unified port-based communication mechanism to achieve message passing while hiding the heterogeneous distributed environment from applications, which also endows the framework with fault-tolerant capabilities. We describe the design and core features of the EmSBoT framework in this article. The implementation and experimental evaluation show its availability with small footprint size, effectiveness, and OS independence.

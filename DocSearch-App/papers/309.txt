@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Algebraic local cohomology classes associated with parametric semi-quasihomogeneous hypersurface isolated singularities are considered in the context of symbolic computation. The motivations for this paper are computer calculations of complete lists of Tjurina numbers of semi-quasihomogeneous polynomials with isolated singularity. A new algorithm, that utilizes parametric local cohomology systems, is proposed to compute Tjurina stratifications associated with -constant deformations of weighted homogeneous isolated singularities. The resulting algorithm gives in particular a suitable decomposition of the parameter space depending on the structure of the parametric local cohomology systems. An efficient algorithm of computing parametric standard bases of relevant ideals is also given as an application of parametric local cohomology systems.

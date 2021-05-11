@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Fine-grained image recognition, a computer vision task filled with challenges due to its imperceptible inter-class variance and large intra-class variance, has been drawing increasing attention. While manual annotation can be utilized to effectively enhance performance in this task, it is extremely time-consuming and expensive. Recently, Convolutional Neural Networks (CNN) achieved state-of-the-art performance in image classification. We propose a fine-grained image recognition framework by exploiting CNN as the raw feature extractor along with several effective methods including a feature encoding method, a feature weighting method, and a strategy to better incorporate information from multi-scale images to further improve recognition ability. Besides, we investigate two dimension reduction methods and successfully merge them to our framework to compact the final image representation. Based on the discriminative and compact framework, we achieved the state-of-the-art performance in terms of classification accuracy on several fine-grained image recognition benchmarks based on weekly supervision.

@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+For a class of nonlinear systems with uncertainty, a fuzzy sliding mode control method based on particle swarm algorithm, combined with the strong robustness of sliding mode control with fuzzy control is a good approximation capability, use the quasi sliding mode control make the system tracking error within the given boundary layer; Within the boundary layer will replace, switch control with fuzzy control and the supervision function is adopted to control action is smooth. At the same time, to join the supervision and control to diffusion control input and global stability control system has, under the condition of sliding mode existence of controller parameters was optimized by using particle swarm optimization, ensure the sliding mode control of parameter perturbation and external disturbance is strong robustness. Reducing the high frequency chattering of the system, improved the control performance of the controller. The simulation results show the effective-ness of the method.

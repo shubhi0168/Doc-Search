@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer Programming remains a difficult discipline to teach. E-learning can help improve student engagement and outcomes but offerings designed to teach programming in a University context are rudimentary when compared to publicly available sites such as Code Academy. This paper describes NoobLab, an e-learning platform for teaching programming. The environment provides a complete suite of features surpassing prior work, and has successfully been used in a number of undergraduate modules to improve student outcomes, satisfaction, and inform pedagogy.

@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+In component-based development of object-oriented software, modularization depends on how packages are structured or organized. Packages evolve over time and require re-structuring after some time so that understandability and maintainability gets improved. In this paper, a new approach for package-restructuring named as Change-History based Package-Restructuring (CHPR) is introduced to identify proper package-regrouping possibilities. CHPR approach considers past co-change patterns of packages along with their structural coupling. A series of experiments on open source software systems have been performed and preliminary results show that CHPR approach is able to indentify meaningful package restructuring.

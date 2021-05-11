@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+As Automatic Test Systems continue to adopt architectures based on synthetic instrumentation and modular I/O platforms, software is eclipsing hardware as the primary input for determining technology insertion cadence and scope. While abstracting Test Programs Sets from specific hardware is commonly referenced as a valuable tactic to reduce the risks of I/O obsolescence, it also requires significant up-front investment with a return that is later determined by the frequency of change. As systems become increasingly software-centric, a cost optimized development strategy requires bounding technology insertion options, evaluating the costs associated with developing driver and measurement layers across those options, and managing the costs of migrating across application software and operating systems as a function of time. This paper will discuss the evolving solution space for software dominated technology insertion strategies through an examination of the underlying compatibility of the COTS components at play.

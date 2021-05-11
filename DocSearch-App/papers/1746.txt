@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Given a set P of n coloured points on the real line, we study the problem of answering range alpha-majority (or "heavy hitter") queries on P. More specifically, for a query range Q, we want to return each colour that is assigned to more than an alpha-fraction of the points contained in Q. We present a new data structure for answering range alpha-majority queries on a dynamic set of points, where alpha is an element of (0, 1). Our data structure uses O(n) space, supports queries in O ((lgn)/alpha) time, and updates in O ((lgn)/alpha) amortized time. If the coordinates of the points are integers, then the query time can be improved to O (lgn/(alpha lg lg n)). For constant values of alpha, this improved query time matches an existing lower bound, for any data structure with polylogarithmic update time. We also generalize our data structure to handle sets of points in d dimensions, for d >= 2, as well as dynamic arrays, in which each entry is a colour. (C) 2016 Elsevier B.V. All rights reserved.

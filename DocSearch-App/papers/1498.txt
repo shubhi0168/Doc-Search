@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Elliptic curves over a finite field F-q with j-invariant 0 or 1728, both supersingular and ordinary, whose embedding degree k is low are studied. In the ordinary case we give conditions characterizing such elliptic curves with fixed embedding degree with respect to a subgroup of prime order l. For k = 1, 2, these conditions give parameterizations of q in terms of l and two integers m, n. We show several examples of families with infinitely many curves. Similar parameterizations for k >= 3 need a fixed kth root of the unity in the underlying field. Moreover, when the elliptic curve admits distortion maps, an example is provided.

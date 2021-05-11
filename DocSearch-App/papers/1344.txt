@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Digital signal processing algorithms are implemented using fixed point arithmetic due to expected area and power savings. However, the recent research shows that floating point arithmetic can be used by using the reduced precision format instead of standard IEEE floating point format which will avoid the algorithm design and implementation difficulties occurs in fixed point arithmetic. In this paper, the simplified single precision floating point arithmetic is used to perform division and square root operations. Goldschmidt's algorithm is iterative algorithm and has speed advantage over other iterative algorithms. Here FMA based Goldschmidt's algorithm is used for performing division and square root.

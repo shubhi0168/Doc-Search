@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+A variety of operating systems and application programs on the internet have weak points in terms of security. Intelligent attacks on such weak points have been spreading rapidly, causing a lot of damage. In particular, the files downloaded use Application Programming Interface, an intermediate interface between operating systems and application programs, for their running. At that time, attacks on weak points of the application programs are made. In such a principle, users are infected with the malicious codes disguised in the process of updating security patches. Therefore, this work tries to propose a system for integrity security patch updating using PM-FTS (Patch Management-File Transfer System).

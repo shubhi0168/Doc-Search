@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Broadcasting a message from one to many processors in a network corresponds to concurrent reading on a random access shared memory parallel machine. Computing the trees of a forest, the level of each node in its tree and the path between two nodes are problems that can easily be solved with concurrent reading in a time logarithmic in the maximum height of a tree. Solving such problems with exclusive reading requires a time logarithmic in the number of nodes, implying message passing between disjoint pairs of processors on a distributed system. Allowing concurrent reading in parallel algorithm design for distributed computing might be advantageous in practice if these problems are faced on shallow trees with some specific constraints. We show an application to LZC (Lempel-Ziv-Compress)-compressed file decoding, whose parallelization employs these computations on such trees for realistic data. On the other hand, zipped files do not have this advantage, since they are compressed by the Lempel-Ziv sliding window technique.

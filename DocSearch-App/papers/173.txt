@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+A relaxation oscillator is a kind of oscillator based on a behavior of physical system's return to equilibrium after being disturbed. The relaxation-oscillation equation is the primary equation of relaxation and oscillation processes. The relaxation oscillation equation is a fractional differential equation with initial conditions. In this paper, the approximate solutions of relaxation-oscillation equation are obtained by developing the wavelet collocation method to fractional differential equations using cubic B-spline wavelet. Analytical expressions of fractional derivatives in caputo sense for cubic B-spline functions are presented. The main advantage of the proposed method is that it transforms such problems into a system of algebraic equations which is suitable for computer programming. The reliability and efficiency of the proposed method are demonstrated in the numerical examples.

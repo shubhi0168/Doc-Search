@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Detecting moving objects in a scene is a fundamental and critical step for many high-level computer vision tasks. However, background subtraction modeling is still an open and challenge problem, particularly in practical scenarios with drastic illumination changes and dynamic backgrounds. In this paper, we present a novel background modeling method focused on dealing with complex environments based on circular shift operator. The background model is constructed by performing circular shifts on the neighborhood of each pixel, which forms a basic region unit. The foreground mask is obtained via two stages. The first stage is to subtract the established background from the current frame to obtain the distance map. The second is to adopt the graph cut on the distance map. In order to adapt to the background changes, the background model is updated with an adaptive update rate. Experimental results on indoor and outdoor videos demonstrate the efficiency of our proposed method.

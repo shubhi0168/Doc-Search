@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Given a database table with records that can be ranked, an interesting problem is to identify selection conditions for the table, which are qualified by an input record and render its ranking as high as possible among the qualifying tuples. In this paper, we study this standing maximization problem, which finds application in object promotion and characterization. After showing the hardness of the problem, we propose greedy methods, which are experimentally shown to achieve high accuracy compared to exhaustive enumeration, while scaling very well to the problem input size. Our contributions include a linear-time algorithm for determining the optimal selection range for an ordinal attribute and techniques for choosing and prioritizing the most promising selection predicates to apply. Experiments on real datasets confirm the effectiveness and efficiency of our techniques.

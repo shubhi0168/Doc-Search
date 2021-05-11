@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+In data-parallel skeleton libraries, the implementation of skeletons is usually tightly-coupled with that of data structures. However, loose coupling between them like C++ STL will improve modularity and flexibility of skeletons and data structures. This flexibility is particularly valuable for tree skeletons. To achieve such loose coupling, we present an iterator-based interface of trees for tree skeletons. We have implemented tree skeletons on the basis of our interface; we present their design and implementation. This paper also reports the results of preliminary experiments.

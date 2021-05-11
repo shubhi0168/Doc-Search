@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Graph colouring is the labelling of the elements of a graph subject to certain constraints. It is divided into vertex and edge colouring. In both cases, the assignment of labels, traditionally called colours is such that two vertices or edges must not have the same colour. Graph colouring has various applications, especially in parallel computing. This paper introduces the degree six 3-modified chordal ring,CHR6o(3) a parallel network interconnection topology model, and discusses its node and link colouring. Despite its asymmetry, the chromatic number of CHR6o(3) cannot be generalised and must be determined specifically based on the combination of chords in each case. Cases where the chromatic index of CHR6o(3) is its degree and where it is its one colour more than its degree were generalised and proven. Chromatic numbers are important in minimising the completion times of processes in parallel processing by reducing points of synchronisation, and link colouring aids processor scheduling.

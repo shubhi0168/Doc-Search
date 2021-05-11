@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Experiments in the computer teaching process often need to use a number of operating systems, which often destroys the computer room in common operating system. Maintenance of the engine room has brought some difficulties. If the traditional experiments build a virtual experimental platform to complete on the basis of virtual machine technology, it cannot only improve the use of the engine room, but also can release the administrator from the tedious maintenance work. Therefore, it has important practical value.

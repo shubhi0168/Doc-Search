@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Finding proper design patterns has always been an important research topic in the software engineering community. One of the main responsibilities of the software developers is to determine which design pattern fits best to solve a particular problem. Design patterns support the effort of exploring the use of artificial intelligence in better management of software development and maintenance process by providing faster, less costly, smarter and on-time decisions (Pena-Mora & Vadhavkar, 1996). There has been a permanent interest in finding new design patterns, especially in the last two decades. Many new design patterns apply in various areas of computer science, such as software security, software parallelism, large-scale software evolving, artificial intelligence, and more. To the best of our knowledge, the "Obligation Link" and "History Reminder" design patterns are new and can be applied in software development in many areas of computer science including artificial intelligence.

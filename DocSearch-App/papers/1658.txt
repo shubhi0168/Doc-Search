@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+For the (2 + 1)-dimensional Gardner equation, the truncated Painleve method is developed to obtain the nonlocal residual symmetry and Bucklund transformation. And, the symmetry group transformation can be computed from the extended system. Moreover, (2 + 1)-dimensional Gardner equation is proved to be consistent Riccati expansion (CRE) solvable. With the help of the Riccati equation and the CRE method, we obtain the soliton-cnoidal wave interaction solution of the equation. (C) 2016 The Physical Society of the Republic of China (Taiwan). Published by Elsevier B. V. All rights reserved.

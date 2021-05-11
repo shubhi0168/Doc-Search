@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Hierarchically structured Automatic Voltage Control (AVC) architecture enables wide-area closed-loop Coordinated Voltage Regulation (CVR). Owing to the inherent complexity of the task, CVR relies on reduced control models, i.e. simplified models of the system suitable for voltage control. It is a fact however that a single reduced control model (static RCM) cannot be optimal for all network configurations and operating conditions. In pursuit of advanced online voltage control for a future smart transmission grid, this paper presents adaptive control model reduction (adaptive RCM) for CVR. The proposed formulation is based on a complex network representation of the transmission grid. Additionally, the formulation employs spectral clustering complemented by perturbation theory to deliver the adaptive RCM. Indicative results are presented on the New England 39-bus network and provide adequate justification of the proposed approach. The implications of an adaptive RCM scheme to control algorithm design and selection are also discussed.

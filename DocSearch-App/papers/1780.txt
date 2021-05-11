@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Greedy algorithms is an important class of algorithms. Teaching greedy algorithms is a complex task. Ensuring that students can design greedy algorithms for new problems is also complex. We have built a guided discovery based greedy algorithm tutor (GATutor), to teach the process of designing greedy algorithms. GATutor guides the student to discover the greedy algorithm for a few well-known problems, by asking two important questions - i) what is the satisfying condition at each step? and ii) what is the selection criterion for the next item? As a result, the students not only learn the algorithms for the given problems, but also the process of designing greedy algorithms for new problems. We conducted a study to compare the greedy algorithm design abilities of the students who were trained with GATutor versus those who worked with traditional algorithm visualizations. The results indicate that students who worked with GATutor performed better in designing a greedy algorithm for a new problem. The students also said that their confidence in greedy algorithm design increased because of GATutor.

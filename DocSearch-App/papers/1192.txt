@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Cyber Physical Systems (CPSs) consist of hardware and software components. To verify that the whole (i.e., software + hardware) system meets the given specifications, exhaustive simulation-based approaches (Hardware In the Loop Simulation, HILS) can be effectively used by first generating all relevant simulation scenarios (i.e., sequences of disturbances) and then actually simulating all of them (verification phase). When considering the whole verification activity, we see that the above mentioned verification phase is repeated until no error is found. Accordingly, in order to minimise the time taken by the whole verification activity, in each verification phase we should, ideally, start by simulating scenarios witnessing errors (counterexamples). Of course, to know beforehand the set of such scenarios is not feasible. In this paper we show how to select scenarios so as to minimise the Worst Case Expected Verification Time. (C) 2017 Elsevier B.V. All rights reserved.

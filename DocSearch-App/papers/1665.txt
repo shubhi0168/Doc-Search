@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+For time-dependent control problems, the class of sub-optimal algorithms is popular and the parallelization is usually applied in the spatial dimension only. In the paper, we develop a class of fully-optimal methods based on space-time domain decomposition methods for some boundary and distributed control of fluid flow and heat transfer problems. In the fully-optimal approach, we focus on the use of an inexact Newton solver for the necessary optimality condition arising from the implicit discretization of the optimization problem and the use of one-level and two-level space-time overlapping Schwarz preconditioners for the Jacobian system. We show that the numerical solution from the fully-optimal approach is generally better than the solution from the sub-optimal approach in terms of meeting the objective of the optimization problem. To demonstrate the robustness and parallel scalability and efficiency of the proposed algorithm, we present some numerical results obtained on a parallel computer with a few thousand processors.

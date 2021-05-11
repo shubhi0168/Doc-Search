@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Being often deployed in remote or hostile environments, wireless sensor networks are vulnerable to various types of security attacks. A possible solution to reduce the security risks is to use directional antennas instead of omnidirectional ones or in conjunction with them. Due to their increased complexity, higher costs and larger sizes, directional antennas are not traditionally used in wireless sensor networks, but recent technology trends may support this method. This paper surveys existing state of the art approaches in the field, offering a broad perspective of the future use of directional antennas in mitigating security risks, together with new challenges and open research issues.

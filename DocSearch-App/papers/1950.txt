@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+In a typical, entanglement-based quantum key distribution (QKD) protocols the maximally entangled, singlet states are used. The standard way to generate them is to use parametric down conversion with low intensity laser beams. This way the probability to produce two or more entangled pairs is negligible. However, one obtains it at a cost of a large likelihood of producing no particles at all. In this work, we ask the question if this approach is the optimal one from the point of view of key generation rate. For a case study, we take BBM 92 protocol and find the optimal intensity of the beam. We show optimal intensities are much higher than the ones typically used. Our results can be generalized to other protocols based on singlet states.

@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+According to compression sensing reconstruction algorithm of Orthogonal Matching Pursuit (OMP) algorithm the problem of each iteration can't select the optimal atomic, to optimize the OMP algorithm design, ensures that each iteration of the current allowance minimum observation signal, and proposes a kind of optimize the OMP algorithm based on FPGA to realize the hardware structure design. In the matrix decomposition part adopts modified Cholesky decomposition methods, avoid root operation, to reduce the calculation time delay, easy to FPGA implementation. The whole system adopts parallel computing, resource reuse technology, improve the computing speed and reduce resource utilization. In the Quartus II development environment for the design of the RTL description, on the FPGA simulation platform for simulation, the simulation results verify the validity of the design.

@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Advanced modern processors support single instruction, multiple data instructions (e.g., Intel-AVX and ARM-NEON) and a massive body of research on vector-parallel implementations of modular arithmetic, which are crucial components for modern public-key cryptography ranging from Rivest, Shamir, and Adleman (RSA), ElGamal, Digital Signature Algorithm (DSA), and elliptic curve cryptography, have been conducted. In this paper, we introduce a novel double operand scanning method to speed up multi-precision squaring with non-redundant representations on single instruction, multiple data architecture where the part of the operands are doubled to compute the squaring operation without read-after-write dependencies between source and destination variables. Afterwards, Karatsuba algorithm is applied to both multiplication and squaring operations. For modular multiplication, separated Montgomery algorithm is chosen. Finally, the Rivest, Shamir, and Adleman (RSA) implementations outperform the best-known results on the ARM-NEON platforms. Copyright (C) 2017 John Wiley & Sons, Ltd.

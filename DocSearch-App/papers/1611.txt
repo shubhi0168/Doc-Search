@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Finding connected components is a fundamental task in applications dealing with graph analytics, such as social network analysis, web graph mining and image processing. The exponentially growing size of today's graphs has required the definition of new computational models and algorithms for their efficient processing on highly distributed architectures. In this paper we present CRACKER, an efficient iterative MapReduce-like algorithm to detect connected components in large graphs. The strategy of CRACKER is to transform the input graph in a set of trees, one for each connected component in the graph. Nodes are iteratively removed from the graph and added to the trees, reducing the amount of computation at each iteration. We prove the correctness of the algorithm, evaluate its computational cost and provide an extensive experimental evaluation considering a wide variety of synthetic and real-world graphs. The experimental results show that CRACKER consistently outperforms state-of-the-art approaches both in terms of total computation time and volume of messages exchanged.

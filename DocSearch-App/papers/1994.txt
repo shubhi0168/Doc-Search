@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+In Gentry's fully homomorphic encryption scheme, a sparse subset sum problem (SSSP) is used and a big set is included in the public key. In the implementation of a variant, to reduce the size of the public key, Gentry and Halevi used a specific form of a SSSP constructed from geometric progressions. In this study, the authors solve Gentry and Halevi's sparse subset sum challenges for the first time. Owing to the aggressive choice of parameters, the process is fairly easy and can be done by simply modifying their lattice-based attack. Their experiment shows that even a large challenge can be solved within two days. As a second contribution, considering other attacks such as a hybrid attack combining a meet in the middle attack with a lattice-based attack, they provide a new condition for hard instances of the SSSP from geometric progressions.

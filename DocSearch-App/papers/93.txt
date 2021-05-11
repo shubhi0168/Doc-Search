@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A model has been developed to simulate electromigration degradation in an interconnect segment in two dimensions using finite differences. The model was deployed on a parallel computer to statistically assess the lifetimes. The simulation takes into account the diffusion paths for electromigration mass transport along the grain boundaries and the capping layer. The microstructure is generated with a Monte Carlo algorithm, using a modified Potts model. Diffusivities along the grain boundaries and the capping layers were applied as multiples of a base diffusivity and were statistically scattered. The simulation results correlate well with electromigration tests. (C) 2016 Elsevier B.V. All rights reserved.

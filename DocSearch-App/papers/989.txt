@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Computer generated holography plays a main role in the contents generation for holographic displays and digital archiving of three-dimensional objects. The fully analytic mesh based computer generated holography finds exact complex optical field for each triangular mesh of the three-dimensional objects for given sampling interval in the hologram plane without any approximation, enhancing the quality of the reconstruction. The mesh based processing rather than conventional point based one makes it compatible with most computer graphics techniques and efficient especially for large objects. In this paper, we present a few recent progress on fully analytic mesh based computer generated holography techniques including the dark line artifact removal, continuous shading of each mesh surface, the implementation of the angular reflectance distribution of the object surface and application of the texture map.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Good parametrizations of affine transformations are essential to interpolation, deformation, and analysis of shape, motion, and animation. It has been one of the central research topics in computer graphics. However, there is no single perfect method and each one has both advantages and disadvantages. In this paper, we propose a novel parametrization of affine transformations, which is a generalization to or an improvement of existing methods. Our method adds yet another choice to the existing toolbox and shows better performance in some applications. A C++ implementation is available to make our framework ready to use in various applications.

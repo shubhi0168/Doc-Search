@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Due to the high computing demand of whole-trip train dynamics simulations and the iterative nature of optimizations, whole-trip train dynamics optimizations using sequential computing schemes are practically impossible. This paper reports advancements in whole-trip train dynamics optimizations enabled by using the parallel computing technique. A parallel computing scheme for whole-trip train dynamics optimizations is presented and discussed. Two case studies using parallel multiobjective particle swarm optimization (pMOPSO) and parallel multiobjective genetic algorithm (pMOGA), respectively, were performed to optimize a friction draft gear design. Linear speed-up was achieved by using parallel computing to cut down the computing time from 18 months to just 11 days. Optimized results using pMOPSO and pMOGA were in agreement with each other; Pareto fronts were identified to provide technical evidence for railway manufacturers and operators.

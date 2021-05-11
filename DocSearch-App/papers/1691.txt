@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Functional data analysis has become an important area of research because of its ability of handling high-dimensional and complex data structures. However, the development is limited in the context of linear mixed effect models and, in particular, for small area estimation. The linear mixed effect models are the backbone of small area estimation. In this article, we consider area-level data and fit a varying coefficient linear mixed effect model where the varying coefficients are semiparametrically modelled via B-splines. We propose a method of estimating the fixed effect parameters and consider prediction of random effects that can be implemented using a standard software. For measuring prediction uncertainties, we derive an analytical expression for the mean squared errors and propose a method of estimating the mean squared errors. The procedure is illustrated via a real data example, and operating characteristics of the method are judged using finite sample simulation studies.

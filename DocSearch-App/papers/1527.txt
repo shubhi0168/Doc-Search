@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+ESL examination, instead of TOEFL and IELTS to apply for American universities, are increasingly sought after by the majority of learners. Test paper generating system for ESL examination is designed in this paper to help teachers free from the onerous task of generating test paper. The efficiency and quality of test paper generating system depends on its algorithm design, therefore, algorithm design must be started firstly, including the establishment of mathematical model and objective function of generating test paper; then, on the basis of the steps of genetic algorithm, such as coding, selection, crossover and mutation, etc., elaborating the implementation process of test paper generating algorithm; and finally, according to the previous design, carried out the entire process design for test paper generating system. Test paper generating system based on genetic algorithm reduces the workload of teachers, so that proceducing papers is more reasonable and efficient, which has good performance and practicality.

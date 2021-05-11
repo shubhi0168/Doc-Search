@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Estimation of marginal or partial effects of covariates x on various conditional parameters or functionals is often a main target of applied microeconometric analysis. In the specific context of probit models, estimation of partial effects involving outcome probabilities will often be of interest. Such estimation is straightforward in univariate models, and results covering the case of quadrant probability marginal effects in bivariate probit models for jointly distributed outcomes y have previously been described in the literature. This paper's goals are to extend Greene's results to encompass the general multivariate probit context for arbitrary orthant probabilities and to extended these results to models that condition on subvectors of y and to multivariate ordered probit data structures. It is suggested that such partial effects are broadly useful in situations, wherein multivariate outcomes are of concern.

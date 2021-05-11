@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Graphics processing unit (GPU) has significantly increased the computing capacity of state-of-the-art high performance computing systems. This paper presents a novel GPU acceleration approach for transient stability-constrained optimal power flow (TSCOPF), which is one of the most computational challenging tasks in large-scale power system applications. Enabled by the revealed two-level decomposition parallelism in reduced-space interior point method, GPUs serve as plug-andplay coprocessors for time-consuming linear algebra operations in TSCOPF solving. Enhanced by multi-GPU processing and mixed-precision iterative refinement technique, the efficiency of solving TSCOPF is greatly improved without redesigning and reimplementing the existing algorithm framework. Numerical studies based on a series of test cases with up to 12 951 buses indicate the effectiveness of the proposed GPU-based approach for large-scale TSCOPF problems.

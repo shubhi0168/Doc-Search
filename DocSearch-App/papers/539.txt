@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Attention is a very important cognitive and behavioral process, by means of which an individual is able to focus on a single aspect of information, while ignoring others. In a time in which we are drawn in notifications, beeps, vibrations and blinking messages, the ability to focus becomes increasingly important. This is true in many different domains, from the workplace to the classroom. In this paper we present a non-intrusive distributed system for monitoring attention in teams of people. It is especially suited for teams working at the computer. The presented system is able to provide real-time information about each individual as well as information about the team. It can be very useful for team managers to identify potentially distracting events or individuals, as well as to detect the onset of mental fatigue or boredom, which significantly influence attention. in the overall, this tool may prove very useful for team managers to implement better human resources management strategies.

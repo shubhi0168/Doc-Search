@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+By considering the loaded and empty moving tie of robots moving among loading station, machines and unloading station, the flexible robotic manufacturing cell scheduling problem with multiple robots is studied. An improved discrete particle swarm optimisation with genetic operator and random-heuristic initialisation method is created to minimise the makespan. In addition, a multi-robot scheduling strategy is proposed to minimise the displacement operation when inserting the transportation tasks. By exchanging the positions of critical operations, the neighbourhood structure is established to enhance the capacity of the algorithm to local search. After detailed algorithm design and description, we report the results of a computational study that provides evidence that the proposed optimisation-based approach delivers high-quality solutions against the well-known algorithms.

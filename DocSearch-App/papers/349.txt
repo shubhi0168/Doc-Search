@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Among the computer science courses intended for high school non-majors, the Visual Basic (VB) program design is a very important foundation curriculum. However, in the traditional VB teaching, acquiring programming theory knowledge is especially difficult for the non-computer major students. It is urgent to find an effective way to cultivate a solid theoretical foundation and strong practical ability of students in university computer teaching. Problem based learning is a novel teaching method based on the guidance of the construct theory, which has good teaching effects in many cases. The paper presented a brief introduction to the PBL teaching method, and proposed a novel instruction design method for computer programming course teaching. The extra high teaching effects obtained in the practical application of the VB program design course has demonstrated the effectiveness of our proposed instruction design method with problem based learning.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Building oscillator-based computing systems with emerging nano-device technologies has become a promising solution for unconventional computing tasks like computer vision and pattern recognition. However, simulation and analysis of these computing systems is both time and compute intensive due to the nonlin-earity of new devices and the complex behavior of coupled oscillators. In order to speed up the simulation of coupled oscillator systems, we propose a simplified phasemodel to perform phase and frequency synchroniza-tion prediction based on a synthesis of earlier models. Our model can predict the frequency-locking behavior with several orders of magnitude speedup compared to direct evaluation, enabling the effective and efficient simulation of the large numbers of oscillators required for practical computing systems. We demonstrate the oscillator-based computing paradigm with three applications, pattern matching, convolution, and image segmentation. The simulation with these models are respectively sped up by factors of 780, 300, and 1120 in our tests.

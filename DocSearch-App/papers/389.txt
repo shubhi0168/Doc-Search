@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+An improved (G'/G)-expansion method and variable separation method have been studied in the present paper. By employing the improved (G'/G)-expansion method, new soliton solutions for the (3 + 1) dimensional BKP equations have been derived. Some interesting physics structure with the help of symbolic computation has been studied.

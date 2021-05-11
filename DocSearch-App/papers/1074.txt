@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Content creation for realtime interactive systems is a difficult problem. In game development, content creation pipelines are a major portion of the code base and content creation is a major portion of the budget. In research environments, the choice of rendering and simulation systems is frequently driven by the need for easy to use content authoring tools. In visualization, this problem is compounded by the widely varying types of data that users desire to visualize. We present a visualization application creation framework incorporated into our visualization system that enables measurement and quantitative analysis tasks in both desktop and immersive environments on diverse input data sets.

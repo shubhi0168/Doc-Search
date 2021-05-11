@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Flexible business processes can often be modelled more easily using a declarative rather than a procedural modelling approach. Process mining aims at automating the discovery of business process models. Existing declarative process mining approaches either suffer from performance issues with real-life event logs or limit their expressiveness to a specific set of constaint types. Lately, RelationalXES, a relational database architecture for storing event log data, has been introduced. In this paper, we introduce a mining approach that directly works on relational event data by querying the log with conventional SQL. By leveraging database performance technology, the mining procedure is fast without limiting itself to detecting certain control-flow constraints. Queries can be customised and cover process perspectives beyond control flow, e.g., organisational aspects. We evaluated the performance and the capabilities of our approach with regard to several real-life event logs.

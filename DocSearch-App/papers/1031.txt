@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Computer Science students are usually enthusiastic about learning Artificial Intelligence (AI) due to the possibility of developing computer games that incorporate AI behaviors. Under this scenario, Search Algorithms (SA) are a fundamental subject of AI for a broad variety of games. Implementing deterministic games, varying from tic-tac-toe to chess games, are commonly approaches used to teach AI. Considering the perspective of game playing, however, stochastic games are usually more fun to play, and are not much explored during AI learning process. Other approaches in AI learning include developing searching algorithms to compete against each other. These approaches are relevant and engaging, but they lack an environment that features both algorithm design and benchmarking capabilities. To address this issue, we present Am (e) over cap - an environment to support the learning process and analysis of adversarial search algorithms using a stochastic card game. We have conducted a pilot experiment with Computer Science students that developed different adversarial search algorithms for Hanafuda (a traditional Japanese card game).

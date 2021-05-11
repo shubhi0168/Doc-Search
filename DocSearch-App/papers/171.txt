@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A rectangular phase screen transmission model is usually applied to the simulation of optical propagation processes in atmospheric turbulence. In this paper, we analyze the relationship between fractal Brownian motion and atmospheric turbulence firstly. Then based on the classical fractal algorithm, a new algorithm is proposed to generate a rectangular phase screen, which combines the random midpoint displacement (RMD) principle with the successive random additions (SRA) technique. It mainly contains three interpolation methods including square interpolation, trigonometric interpolation and diamond interpolation, respectively. Therefore we call the algorithm (S-T-D)RMD-SRA. We carry out the split-step method to propagate beam through atmospheric turbulence, which is simulated by a rectangular phase screens transmission model. Numerical simulations show that the new algorithm and traditional FFT-based algorithm on the statistical properties are almost consistent with the theoretical value. Furthermore, it has high performance in computation time and parallel efficiency.

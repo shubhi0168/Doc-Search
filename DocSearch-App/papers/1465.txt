@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Ecopath with Ecosim (EWE) is a widely applied food web model that is mostly known as desktop software for the Microsoft Windows platform. The freely available Microsoft.NET source code of EwE, however, provides a range of possibilities to use the model in different ways, to customize and extend the model, and to execute the model on different operating systems. We provide an overview of the EwE source code, its philosophy, and its technical capabilities, targeted to model builders and advanced users of the EwE software. We showcase novel scientific applications of the EwE model that have been facilitated because of the modular approach of the system. We also present three additional versions of EwE that have been written in different computer languages for dedicated purposes. Lastly, we provide an entry point for users for obtaining and using the source code for custom purposes. (C) 2015 Elsevier B.V. All rights reserved.

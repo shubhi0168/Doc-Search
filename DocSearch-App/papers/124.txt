@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+A new vision-based system is designed for the identification of chatter vibration. Chatter vibration is a major obstacle in CNC machining as it causes bad surface finishes and increases tooling damage and costs. This research proposes the use of machine vision for the detection of chatter vibration frequencies during high-speed milling operations. The vision system utilizes digital image processing and texture analysis to determine the frequencies of the chatter marks on the surface of a machined workpiece. The developed system provides a solution to machinists at ease without any expensive measuring equipment. The vision system was verified and compared with other chatter detection methods by identifying and creating tests based on the dynamics of a machine tool.

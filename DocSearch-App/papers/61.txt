@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+A gradient-statistic-based diagnostic measure is developed in the context of the generalized linear mixed models. Its performance is assessed by some real examples and simulation studies, in terms of ability in detecting influential data structures and of concordance with the most used influence measures.

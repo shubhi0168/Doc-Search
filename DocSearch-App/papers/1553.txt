@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Existing methods for extracting titles from HTML web page mostly rely on visual and structural features. However, this approach fails in the case of service-based web pages because advertisements are often given more visual emphasize than the main headlines. To improve the current state-of-the-art, we propose a novel method that combines statistical features, linguistic knowledge, and text segmentation. Using annotated English corpus, we learn the morphosyntactic characteristics of known titles and define a part-of-speech tag patterns that help to extract candidate phrases from the web page. To evaluate the proposed method, we compared two datasets Titler and Mopsi and evaluated the extracted features using four classifiers: Naive Bayes, k-NN, SVM, and clustering. Experimental results show that the proposed method outperform the solution used by Google from 0.58 to 0.85 on Titler corpus and from 0.43 to 0.55 on Mopsi dataset, and offers a readily available solution for the title extraction problem. (C) 2017 Elsevier Ltd. All rights reserved.

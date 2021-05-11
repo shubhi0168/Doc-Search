@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Apart from being able to support the bulk of student activity in suitable disciplines such as computer programming, Web-based educational systems have the potential to yield valuable insights into student behavior. Through the use of educational analytics, we can dispense with preconceptions of how students consume and reuse course material. In this paper, we examine the speed at which students employ concepts which they are being taught during a semester. To show the wider utility of this data, we present a basic classification system for early detection of poor performers and show how it can be improved by including data on when students use a concept for the first time. Using our improved classifier, we can achieve an accuracy of 85% in predicting poor performers prior to the completion of the course.

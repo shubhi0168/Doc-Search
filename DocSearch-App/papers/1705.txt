@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Gambling help services typically evaluate treatment outcomes using self-reported responses and measurements. However, gamblers' conceptualisations and prioritisations with respect to these measurements may shift over time. Thus, changes in the self-reported responses may not always reflect true change in the individuals. This study investigated for response shift in self-report measures of psychological distress and impairment in 293 help-seeking problem gamblers. We used confirmatory factor analysis to model data structures from pre-treatment to post-treatment. The findings indicated that a response shift had occurred. Two items became less important and one item became more important in measuring psychological distress. Measurement invariance was achieved for the complete set of items for impairment. These findings provide a more in-depth understanding of the nature of self-report outcomes in otherwise routinely collected data.

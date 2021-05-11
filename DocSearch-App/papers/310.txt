@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Algorithm design and analysis is a core course of the computer and related professional, also is a comprehensive and practical course. Therefore, good teaching effect can not only improve students' ability on logical thinking, and also, it is beneficial for students to improve the ability of programming practice. In this paper, referencing to the teaching reform achievements on algorithm design and analysis that from other domestic key universities teacher, then, analyzed the teaching situation of algorithm design and analysis in our college. Aiming at shortcomings of the past teaching process of organization, proposed a teaching organization mode framework on algorithm design and analysis, in order to cultivate the students' ability of programming practice that electived algorithm design and analysis course. Through the implementation of the organization framework's, students can further improve and exercise their programming practice ability.

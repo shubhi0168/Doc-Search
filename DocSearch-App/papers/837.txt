@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+By engaging in construction-based robotics activities, children as young as four can play to learn a range of concepts. The TangibleK Robotics Program paired developmentally appropriate computer programming and robotics tools with a constructionist curriculum designed to engage kindergarten children in learning computational thinking, robotics, programming, and problem-solving. This paper documents three kindergarten classrooms' exposure to computer programming concepts and explores learning outcomes. Results point to strengths of the curriculum and areas where further redesign of the curriculum and technologies would be appropriate. Overall, the study demonstrates that kindergartners were both interested in and able to learn many aspects of robotics, programming, and computational thinking with the TangibleK curriculum design. (C) 2013 Elsevier Ltd. All rights reserved.

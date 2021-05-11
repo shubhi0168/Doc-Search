@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Conventional chloride ingress prediction models rely on simplified assumptions, leading to inaccurate estimations. Reasonable simplifications can be achieved if and only if the effects of all interacting variables are clearly known. In this work, ensemble methods to discover significant parameters that control chloride ingress using long-term field data is developed and presented. The models are trained using dataset consisting of variables describing the concrete mix ingredients, fresh and hardened properties, field conditions as well as chloride profiles. The results analyses confirm that the models are able to determine the optimal subset of the influential variables that best predicts the chloride profile from the input dataset. (C) 2017 Elsevier Ltd. All rights reserved.

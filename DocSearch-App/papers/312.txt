@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Algorithmic and computer programming in the bachelor's degree is a course that demands a large involvement of students in performing non-standard exercises. This practical aspect is incompatible with classical ex cathedra course. It is the reason why we implement a blended learning approach much more responsive to students in a bachelor class of Bio Engineering at the Gembloux Agro Bio Tech Faculty (University of Liege, Belgium). This course alternates theoretical classes, take-home lessons with the help of online pedagogical resources and video and debriefing sessions where students have the possibility to benefit from teacher' support. In doing so, the students are better prepared for the examination. They also gain in confidence and motivation. The teacher no longer simply transmits the knowledge but assists the students in their reflection process and their mastering of programming tools.

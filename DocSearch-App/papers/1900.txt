@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Identifying the processes by which human cultures spread across diffferent populations is one of the most topical objectives shared among diffferent fields of study. Seminal works have analyzed a variety of data and attempted to determine whether empirically observed patterns are the result of demic and/or cultural difffusion. This special issue collects articles exploring several themes (from modes of cultural transmission to drivers of dispersal mechanisms) and contexts (from the Neolithic in Europe to the spread of computer programming languages), which offfer new insights that will augment the theoretical and empirical basis for the study of demic and cultural difffusion. In this introduction we outline the state of art in the modeling of these processes, briefly discuss the pros and cons of two of the most commonly used frameworks (equation-based models and agent-based models), and summarize the significance of each article in this special issue.

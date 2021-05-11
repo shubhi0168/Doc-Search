@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Clustering is one of the basic tasks in data mining and machine learning which aims at discovering hidden structure in the data. For many real-world applications, there often exist many different yet meaningful clusterings while most of existing clustering methods only produce a single clustering. To address this limitation, multiple clustering, which tries to generate clusterings that are high quality and different from each other, has emerged recently. In this paper, we propose a novel alternative clustering method that generates non-redundant multiple clusterings sequentially. The algorithm is built upon nonnegative matrix factorization, and we take advantage of the nonnegative property to enforce the non-redundancy. Specifically, we design a quadratic term to measure the redundancy between the reference clustering and the new clustering, and incorporate it into the objective. The optimization problem takes on a very simple form, and can be solved efficiently by multiplicative updating rules. Experimental results demonstrate that the proposed algorithm is comparable to or outperforms existing multiple clustering methods.

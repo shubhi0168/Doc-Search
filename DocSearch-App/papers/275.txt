@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Advances in vehicular technology have resulted in more controls being incorporated into cabin designs. We present a system to determine which vehicle occupant is interacting with a control on the center console when it is activated, enabling the full use of dual-view touchscreens and the removal of duplicate controls. The proposed method relies on a background subtraction algorithm incorporating information from a superpixel segmentation stage. A manifold generated via the diffusion maps process handles the large variation in hand shapes, along with determining which part of the hand interacts with controls for a given gesture. We demonstrate superior results compared with other approaches on a challenging dataset.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Digital images may contain undesired blurred regions. Automatic detection of such regions and estimation of the amount of blurriness in a given image are important issues in many computer vision applications. This paper presents a simple and effective method to automatically detect blurred regions. The proposed method consists of two main parts. First, a novel blur metric, which can significantly distinguish blur and non-blur regions, is proposed. This metric is then used to generate a blur map to encode the amount of blurriness for individual pixels in a given image. Finally, the estimated blur map is used to segment the input image into blurred/non-blurred regions by applying a pixon-based technique. The proposed approach is evaluated for out-of-focus and motion-blurred natural images. By conducting experiments on a large dataset containing real images with defocus blur and partial motion blur regions, qualitative and quantitative measures are performed. The obtained results in this paper show that the proposed approach outperforms the state-of-the-art methods for blur estimation in digital images.

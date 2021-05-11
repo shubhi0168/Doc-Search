@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Image segmentation is a crucial step in image processing, especially for medical images. However, the existence of partial volume effect, noise and other artifacts makes this problem much more complex. Fuzzy c-means (FCM), as an effective tool to deal with partial volume effect, cannot deal with noise and other artifacts. In this paper, one modified FCM algorithm is proposed to solve the above problems, which includes three main steps: (1) peak detection is used to initialize cluster centers, which can make the initial centers close to the final ones and in turn decrease the number of iterations; (2) fuzzy clustering incorporating spatial information is implemented, which can make the algorithm robust to image artifacts; (3) the segmentation results are refined further by detecting and reallocating the misclassified pixels. Experiments are performed on both synthetic and medical images, and the results show that our proposed algorithm is more effective and reliable than other FCM-based algorithms.

@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+A Mathematica application providing the user with a graphical interface (GUI) is presented and published, which can be used to interactively explore image filtering and segmentation methods to analyse variously shaped particles in a microscopic image. The application functionality is designed around Mathematica's in-built image processing capability with custom designed functions specialized at segmenting greyscale microscope images. The main contribution is a specially designed GUI which allows the characterization of segmented particles based on their morphological properties, with focus given to differentiation of the shapes of the segmented particles. The application provides a convenient way of navigating through the myriad of ways to analyse particles in micrographs. (C) 2016 Elsevier B.V. All rights reserved.

@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+In connection with the rapid increase in the volume semistructured and unstructured data, the question of optimal saving is quite important. In optimal storage, it is important saving them in a convenient format for further processing. To resolve this issue done some review and analysis of non-relational databases and their applications are on a real example for system preservation and processing of information about medicines.

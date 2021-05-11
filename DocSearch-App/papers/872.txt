@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Changes in the electric utility will necessitate new needs and opportunities for monitoring and controlling electric power consumption and generation. Technical solutions exploiting these opportunities and answering these needs would ideally preserve best practices like reliability, privacy, efficiency, and flexibility. A nonintrusive load monitor (NILM) can serve as an ideal platform for constructing an "energy box" capable of sophisticated monitoring and control. This paper introduces a data processing and analysis framework, NILM manager. NILM manager creates a business model for handling power data by minimizing network bandwidth and placing intelligence and feature expansion in easily transmitted "energy apps."

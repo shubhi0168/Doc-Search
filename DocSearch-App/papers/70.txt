@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A high-resolution (7 km) non-hydrostatic global mesoscale simulation using the Goddard Earth Observing System (GEOS-5) model is used to visualize the flow and fluxes of carbon dioxide throughout the year. Carbon dioxide (CO2) is the most important greenhouse gas affected by human activity. About half of the CO2 emitted from fossil fuel combustion remains in the atmosphere, contributing to rising temperatures, while the other half is absorbed by natural land and ocean carbon reservoirs. Despite the importance of CO2, many questions remain regarding the processes that control these fluxes and how they may change in response to a changing climate. This visualization shows how column CO2 mixing ratios are strongly affected by local emissions and large-scale weather systems. In order to fully understand carbon flux processes, observations and atmospheric models must work closely together to determine when and where observed CO2 came from. Together, the combination of high-resolution data and models will guide climate models towards more reliable predictions of future conditions. Published by Elsevier B.V.

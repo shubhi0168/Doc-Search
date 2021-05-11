@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Frequent items in high-speed streaming data are important to many applications like network monitoring and anomaly detecting. To deal with high arrival rate of streaming data, it is desirable that such systems be capable of supporting high processing throughput with tight guarantees on errors. In this paper, we address the problem of finding frequent and top-k items, and present a parallel version of the Space Saving algorithm in the context of the open source distributed computing system. Based on the theoretical analysis, the errors are restrictively bounded in our algorithm, and our parallel design could achieve high throughput. Taking advantage of the distributed computing resources, our evaluation reveals that such design delivers linear speedup with remarkable scalability.

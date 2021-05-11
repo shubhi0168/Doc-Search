@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Community editing is an effective tool for improving contributions in peer production communities like Wikipedia and question-answer (Q&A) communities. However, the mechanisms behind who edits and why is not well understood. Previous studies have focused on the effectiveness of editing and emergent hierarchies in editing communities. What is unknown is how editing is executed in a system that contains gamified motivations for contributing edits. In this paper, we examine participants editing unfit questions on Stack Overflow (SO), a large computer programming Q&A community. The combination of SO's community and reputation system with the dynamics of unfit questions allows us to examine how different actors behave. We find that early edits come from high-reputation users who do not participate as a questioner or answerer, indicating that these users work to retain certain questions. These results suggest that high-reputation user actions can be used to identify bad questions that have archival quality.

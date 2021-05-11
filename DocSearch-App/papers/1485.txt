@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Elastic optical networks (EONs) play an important role for the next generation core networks, especially for supporting cloud computing. However, network traffic has been growing exponentially and almost reached the physical capacity limit of single-mode fibers. Space division multiplexing (SDM) can be potentially employed to increase the fiber capacity. Multi-core fibers (MCFs) make use of SDM to aggregate multiple cores together into the cladding of one fiber, which can greatly increase the capacity of EONs but incurs new crosstalk constraints. Anycast is more flexible as compared with unicast, and anycast communications are widely used in cloud computing, distributed computing, distributed storage system, and content delivery networks. This letter formulates the anycast planning problem in the SDM EONs with MCFs. Evaluation results show that CVX and Gurobi tools can solve small size problems, but do not scale well. Therefore, we propose a heuristic algorithm to efficiently solve the problem. To the best of our knowledge, this is the first work that considers ancyast routing in the SDM EONs with MCFs.

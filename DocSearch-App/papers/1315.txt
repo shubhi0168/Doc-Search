@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Determination of conserved regions that plays vital roles on regulation of transcription and translation processes is one of the most challenging problems in bioinformatics. However, with the increasing power of distributed computing systems, solving these types of combinatorial problems by utilizing parallelized brute force or exhaustive search algorithms recently has gained popularity. In this paper, we investigated the parallelized implementation of a search tree based brute force technique to find motifs with different lengths. Experimental studies showed that parallelization of the brute force techniques with less communication overhead is significantly increased the usability of them to analyze long nucleotide sequences.

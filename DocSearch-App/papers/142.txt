@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A parallel version of the NEMO complex ocean circulation model has been implemented for the Black Sea basin; the results of circulation numerical modeling with a high spatial resolution are presented. Analysis of the spatial variability is performed for the reconstructed hydrophysical fields in 2005-2008. The resulting simulated spatial variability characteristics of the sea surface temperature are compared with available satellite observational data.

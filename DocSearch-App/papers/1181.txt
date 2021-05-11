@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Current studies have presented multiple understandings or meanings to the concept of agile project management. However, there has not been a formal definition of agile project management, which relates the underlying theoretical foundation of project management with the agile project management literature. This study presents various concepts of project and project management in order to articulate a final research-based definition of agile project management. Consequently, a formal definition of agile project management is constructed. As a result, the paper concludes with a set of recommendations for further research on agile project management. This paper is a portion of an ongoing computer information system's research effort on agile frameworks.

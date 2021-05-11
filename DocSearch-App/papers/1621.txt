@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Fitting geometric or algebraic surfaces to 3D data is a pervasive problem in many fields of science and engineering. In particular, ellipsoids are some of the most employed features in computer graphics and sensor calibrations. They are also useful in pattern recognition, computer vision, body detection and electronic device design. Standard ellipsoid fitting techniques to solve this problem involve the minimization of squared errors. However, most of these procedures are sensitive to noise. Here, we propose a method based on the minimization of absolute errors. Although our algorithm is iterative, an adaptive step size is used to achieve a faster convergence. This leads to a substantial improvement in robustness against outlier data. The proposal is demonstrated with several computational examples which comprise synthetic data and real data from a 3D scanner and a stereo camera.

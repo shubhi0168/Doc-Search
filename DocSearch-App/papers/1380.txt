@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+DNS (Domain name System) is one of the most prevalent protocols on modern networks and is essential for the correct operation of many network activities including the malicious operation. Monitoring the DNS traffic is an effective method to detect malicious activities. In this paper, we proposed an approach to detect malicious domains by analyzing massive mobile web traffic data. We used multiple features to classify, including the textual features and the traffic statistics features of domains and presented three typical classifiers to compare the classifying effect of each. Spark framework is leveraged to speed up the calculation of a large-scale DNS traffic. The efficiency of our system makes us believe the approach can help a lot in the field of network security.

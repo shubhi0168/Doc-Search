@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Drosophila have served as a model for research on innate immunity for decades. However, knowledge of the post-transcriptional regulation of immune gene expression by microRNAs (miRNAs) remains rudimentary. In the present study, using small RNA-seq and bioinformatics analysis, we identified 67 differentially expressed miRNAs in Drosophila infected with Escherichia coli compared to injured flies at three time-points. Furthermore, we found that 21 of these miRNAs were potentially involved in the regulation of Imd pathway-related genes. Strikingly, based on UAS-miRNAs line screening and Dualluciferase assay, we identified that miR-9a and miR-981 could both negatively regulate Drosophila antibacterial defenses and decrease the level of the antibacterial peptide, Diptericin. Taken together, these data support the involvement of miRNAs in the regulation of the Drosophila Imd pathway. (C) 2017 Elsevier Ltd. All rights reserved.

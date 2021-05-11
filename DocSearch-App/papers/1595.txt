@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Feature extraction and tracking is a fundamental operation used in many geoscience applications. In this paper, we present a scalable method for computing and tracking features on distributed memory machines for large-scale geospatial data. We carefully apply new communication schemes to minimize the data exchanged among the computing nodes in building and updating the global connectivity information of features. We present a theoretical complexity analysis, and show that our method can significantly reduce the communication cost compared to the traditional method.

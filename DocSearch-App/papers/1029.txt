@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programs, constructed to facilitate the development of the technological world, are created with different objectives for different target platforms. As a result, different languages may exhibit significantly different run times when performing specific tasks. In a world where computer programming is instrumental in STEM education, computer languages are often utilized to perform mathematical calculations in classrooms. In this experiment, I compared different run time speeds for Python, C, and Java on Cygwin, Linux, and MacAir to compare the languages' run times. The purpose of this research paper and poster is to demonstrate, test, analyze, and utilize knowledge of the varying speeds of languages to promote the educational use of computer languages. This data can be applied by utilizing certain languages when paired with different platforms to enhance and accelerate student learning in the classroom.

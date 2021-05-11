@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+As a signing capability delegation technique, multi-proxy signature allows all signers in the delegated group to produce jointly a multi-proxy signature on the behalf of an original signer, and has been widely applied in distributed computing. Currently, most of multi-proxy signature schemes in the standard model cannot achieve strong unforgeablity, lightweight computation and short length of multi-proxy signature. These problems restrict its application since many devices has limited computation capacity and storage space. In this work, a novel multi-proxy signature scheme with short length in the standard model is proposed. The scheme can not only achieve strong unforgeability, but also has short length of the signature. Compared with the other three multi-proxy signature schemes, the proposed scheme has the great advantages over the other three schemes. To the best of our knowledge, our proposed multi-proxy signature scheme is the first shortest size, whose signature length is only 320 bits for a security level of 80 bits and the same length as that of DSA.

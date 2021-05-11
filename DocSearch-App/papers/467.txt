@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+As location-aware applications and location-based services continue to increase in popularity, data sources describing a range of dynamic processes occurring in near real-time over multiple spatial and temporal scales are becoming the norm. At the same time, existing frameworks useful for understanding these dynamic spatio-temporal data, such as time geography, are unable to scale to the high volume, velocity, and variety of these emerging data sources. In this paper, we introduce a computational framework that turns time geography into a scalable analysis tool that can handle large and rapidly changing datasets. The Hierarchical Prism Tree (HPT) is a dynamic data structure for fast queries on spatio-temporal objects based on time geographic principles and theories, which takes advantage of recent advances in moving object databases and computer graphics. We demonstrate the utility of our proposed HPT using two common time geography tasks (finding similar trajectories and mapping potential space-time interactions), taking advantage of open data on space-time vehicle emissions from the EnviroCar platform.

@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Design defects are symptoms of design decay, which can lead to several maintenance problems. To detect these defects, most of existing research is based on the definition of rules that represent a combination of software metrics. These rules are sometimes not enough to detect design defects since it is difficult to find the best threshold values; the rules do not take into consideration the programming context, and it is challenging to find the best combination of metrics. As an alternative, we propose in this paper to identify design defects using a genetic algorithm based on the similarity/distance between the system under study and a set of defect examples without the need to define detection rules. We tested our approach on four open-source systems to identify three potential design defects. The results of our experiments confirm the effectiveness of the proposed approach.

@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Base bleed is an important extended-range technology wherein low-speed mass flux is injected with high temperature by using an ammonium perchlorate (AP)-based burning composite propellant. The range of a projectile can be increased effectively by controlling the burning rate of the propellant. In this study, the burning rate of a type of bimodal AP/hydroxyl-terminated polybutadiene (HTPB) base-bleed composite propellant was measured under ground free ambient pressure (0.99 atm) by using laser ignition, highspeed video, and image-processing technology. As it is difficult to determine the existing burning rate of this bimodal AP/HTPB base-bleed composite propellant, a numerical calculation model of the burning rate was constructed. The numerical calculation result, that is, 1.59 mm/s, agrees well with the experimental value of 1.607 mm/s. (C) 2016 Elsevier Masson SAS. All rights reserved.

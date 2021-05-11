@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+For Lorenz system we investigate multiple Hopf bifurcation and centerfocus problem of its equilibria. By applying the method of symbolic computation, we obtain the first three singular point quantities. It is proven that Lorenz system can generate 3 small limit cycles from each of the two symmetric equilibria. Furthermore, the center conditions are found and as weak foci the highest order is proved to be the third, thus we obtain at most 6 small limit cycles from the symmetric equilibria via Hopf bifurcation. At the same time, we realize also that though the same for the related three-dimensional chaotic systems, Lorenz system differs in Hopf bifurcation greatly from the Chen system and Lu system. (c) 2014 Elsevier Inc. All rights reserved.

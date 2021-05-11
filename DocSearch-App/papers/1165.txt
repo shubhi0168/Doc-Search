@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Cryptanalysis refers to finding the plaintext from the given cipher text. The problem reduces to finding the correct key from a set of possible keys, which is basically a search problem. Many researchers have put in a lot of effort to accomplish this task. Most of the efforts used conventional techniques. However, soft computing techniques like Genetic Algorithms are generally good in optimized search, though the applicability of such techniques to cryptanalysis is still a contentious point. This work carries out an extensive literature review of the cryptanalysis techniques, finds the gaps there in, in order to put the proposed technique in the perspective. The work also finds the applicability of Cellular Automata in cryptanalysis. A new technique has been proposed and verified for texts of around 1000 words. Each text is encrypted 10 times and then decrypted using the proposed technique. The work has also been compared with that employing Genetic Algorithm. The experiments carried out prove the veracity of the technique and paves way of Cellular automata in cryptanalysis. The paper also discusses the future scope of the work.

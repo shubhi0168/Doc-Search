@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Computer network is a dynamic entity whose state changes with the introduction of new services, installation of new network operating system, and addition of new hardware components, creation of new user roles and by attacks from various actors instigated by aggressors. Unauthorized intrusion into a computer system or network is one of the most serious threats to computer security. Intrusion detection systems have been developed to provide early warning of an intrusion so that defensive action can be taken to prevent or minimize damage. Intrusion detection involves detecting unusual patterns of activity or patterns of activity that are known to correlate with intrusions. One of the two most publicized threats to security is the intruder (the other is viruses), often referred to as a hacker or cracker. Various security mechanisms employed in the network does not give the complete picture of security of complete network. In this paper, we have derived more number of probabilities for prediction rules and implemented those probabilities in the simulation model web application to protect the datacenter.

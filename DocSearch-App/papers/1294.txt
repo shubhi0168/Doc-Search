@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Despite the fact that numerous online 3D virtual worlds (3DVWs) are implemented as elearning and e-training platforms, mainly in academic milieus, these environments are still employed for research purposes and not as a current practice. The present paper presents a synthetic evaluation of an experimental online multi-user 3DVW for teaching and learning computer graphics classes and discusses findings against results from an evaluation of similar activities performed on a Moodle LMS platform. The paper concludes on different aspects, such as the usability, pedagogical efficacy and technology acceptance, and gives recommendations for good practices in designing educational 3DVWs.

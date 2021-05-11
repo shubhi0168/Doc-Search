@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Bidirectional reflectance distribution function (BRDF) estimation is one of the fundamental problems in computer graphics, computer vision and related fields, yet most work relies on conventional local minimisation. Two global optimisation methods for estimating the anisotropic Ward BRDF model and its variants under an L-2-cost function are introduced. The presented algorithms are based on branch-and-bound search which guarantees to provide globally optimal solutions. In contrast to the traditional local optimisation, the methods mentioned here are not affected by the setting of initial BRDF parameter values. Experiments have been carried out to validate the presented methods using anisotropic materials from the UTIA BRDF database.

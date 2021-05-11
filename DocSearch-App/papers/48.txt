@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A dimension splitting method (DSM) with Crank-Nicolson time discrete strategy for a three-dimensional heat equation is proposed. The basic idea is to simulate the three-Dimensional problem by numerically solving a series of two-dimensional problems in parallel fashion. Convergence and error estimation for the DSM scheme are derived in the paper. Numerical experiments demonstrate the feasibility and efficiency of the DSM scheme. Copyright (c) 2016 John Wiley & Sons, Ltd.

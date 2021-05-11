@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+In birefringent optical fi bers, the propagation of femtosecond soliton pulses is described by coupled higherorder nonlinear Schrodinger equations. In this paper, we will investigate the bright and dark soliton solutions of (2+1)dimensional coupled higher- order nonlinear Schrodinger equations, with the aid of symbolic computation and the Hirota method. On the basis of soliton solutions, we test and discuss the interactions graphically between the solitons in the x-z, x-t, and z-t planes.

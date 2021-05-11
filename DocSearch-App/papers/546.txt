@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Augmented reality allows to add virtual object in real scene. It has an increasing interest last years since mobile device becomes performant and cheap. The augmented reality is used in different domains, like maintenance, training, education, entertainment or medicine. The demonstrator we show is focused on maintenance operations. A step by step process is presented to the operator in order to maintain an element of a system. Based on this demonstration, we will explain the modelling we propose allowing describing an entire maintenance process with augmented reality. Indeed it is still difficult creating augmented reality application without computer programming skills. The proposed model will allow to create an authoring tool - or to plug to an existing one - in order to create augmented reality process without deep computer programming skills.

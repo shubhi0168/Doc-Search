@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Conventional online education platforms implement a combination of static and PTZ (Pan-Tilt-Zoom) cameras which are not only costly but also require operators and high computational power. In this paper, we establish a real-time face tracking system based on a single PTZ camera with automatic operation as a cost effective solution. The proposed system takes into account the camera movement and network delays in the tracking algorithm design while maintaining cost and flexibility in practical implementation.

@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Aiming at a poor optimization effect, search difficulty of feasible solution and other problems of existing optimization methods for deriving reservoir operation rule curves, the Genetic Algorithms (GA) based on Dynamic Variable Sampling Space (DVSS) were proposed to establish a common multi-objective optimization model in this study. The modeling theory and method were comprehensively introduced from the aspects of operation rule curve generalization, simulation model, objective function and algorithm design. The Siping Reservoir in China was chosen as a case study for analyzing the computational efficiency and optimization effect of the algorithms. The results validated the good effectiveness and feasibility of the model and algorithms, which has a good application value.

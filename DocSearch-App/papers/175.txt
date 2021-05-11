@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A review and comparative analyses of methods for restricting the range of molecular interactions within the concept of atom-atom potentials are presented. Emphasis is placed on the problem of calculating the electrostatic energy in models with periodic boundary conditions. Numerous calculations of the thermodynamic and structural characteristics of water using parallel Monte Carlo computations have shown that the use of functional forms simulating the electric potentials of "screened charges" provides very good results.

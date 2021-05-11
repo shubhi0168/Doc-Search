@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Due to the ever-increasing efficiency of computer systems, symmetric cryptosystem are becoming more vulnerable to linear cryptanalysis brute force attacks. For example, DES with its short key (56 bits) is becoming easier to break, while AES has a much longer key size (up to 256 bits), which makes it very difficult to crack using even the most advanced dedicated cryptanalysis computers. However, more complex algorithms, which exhibit better confusion and diffusion characteristics, are always required. Such algorithms must have stronger resistance against differential and linear cryptanalysis attacks. This paper describes the development of an algorithm that implements a pseudo random number generator (PRNG) in order to increase the key generation complexity. Experimental results on both DES and AES cryptosystems complemented with the PRNG have shown an average improvement of up to 36.3% in the avalanche error computation over the original standard systems, which is a considerable improvement in the time complexity of both systems.

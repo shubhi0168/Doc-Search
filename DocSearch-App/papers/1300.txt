@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Despite the unconditionally secure theory of the Quantum Key Distribution (QKD), several attacks have been successfully implemented against commercial QKD systems. Those systems have exhibited some flaws, as the secret key rate of corresponding protocols remains unaltered, while the eavesdropper obtains the entire secret key. We propose the negative acknowledgment state quantum key distribution protocol as a novel protocol capable of detecting the eavesdropping activity of the Intercept Resend with Faked Sates (IRFS) attack without requiring additional optical components different from the BB84 protocol because the system can be implemented as a high software module. In this approach, the transmitter interleaves pairs of quantum states, referred to here as parallel and orthogonal states, while the receiver uses active basis selection.

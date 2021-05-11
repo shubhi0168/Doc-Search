@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Evolution of systems during their operational life is mandatory and both updates and upgrades should not impair their dependability properties. Dependable systems must evolve to accommodate changes, such as new threats and undesirable events, application updates or variations in available resources. A system that remains dependable when facing changes is called resilient. In this paper, we present an innovative approach taking advantage of component-based software engineering technologies for tackling the online adaptation of fault tolerance mechanisms. We propose a development process that relies on two key factors: designing fault tolerance mechanisms for adaptation and leveraging a reflective component based middleware enabling fine-grained control and modification of the software architecture at runtime. We thoroughly describe the methodology, the development of adaptive fault tolerance mechanisms and evaluate the approach in terms of performance and agility. (C) 2017 Elsevier B.V. All rights reserved.

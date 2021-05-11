@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+In a peer to peer self-stabilizing message passing system, every single node in the network operates independently with independent resources. In order to self-stabilize to a correct state, messages are passed as a distributed system collectively, messages are passed through out the network among each of the member of the network to inform other nodes about their own states which is later to be used to construct a complex distributed routing tables. Each of the members of the network should be able to communicate intelligently so that the topology can be constructed just by passing messages and take some actions upon receiving messages from other nodes. In this paper, we present the analysis of overhead of number of messages passed during the construction process of a self-stabilizing linearizing algorithm. This overhead really give some impact on the network, especially in the simulation environment where resources are physically shared by logical nodes.

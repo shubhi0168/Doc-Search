@@ -1,0 +1,5 @@
+CS 
+
+ Structured Storage  
+
+For the data storing and sharing requirement, the database becomes more important in the industrial control software. From this point, a scheme is proposed for the design of the database. First, the Object-Oriented technology is applied in the design of the data structure. Then the real-time database is designed by the Direct Memory Address technology. And the historical database is built by the structured storage technology. Last an interface of the 'historical database to other client application is designed based on the COM technology'

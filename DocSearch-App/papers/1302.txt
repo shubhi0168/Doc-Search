@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Detecting cancer at an early stage is useful in better patient prognosis and treatment planning. Even though there are several preliminary tests and non-invasive procedures that are conducted for the detection of cancer of various organs, a histopathology study is inevitable and is considered a golden standard in the diagnosis of cancer. Today as the cost of electronic components are slashed down, computers with high memory capacity and better processing capabilities are built. Furthermore, imaging modalities have also been developed to a great extent. Interestingly, computers help doctors to interpret medical images in the diagnosis process and thus the area of Computer Aided/Assisted Diagnosis (CAD) is born. Consequently, the diagnosis procedures become reproducible, reliable and less subject to observer variations. This survey, explores the state-of-the-art materials and methods that have been used for CAD to detect cancer from histopathology images.

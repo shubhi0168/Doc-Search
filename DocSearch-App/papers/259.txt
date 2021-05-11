@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Addressing the documented shortage of students in the United Sates choosing to enter computing and engineering fields, Computing Education Academy (CEA) was established at Fairfield University in 2013 to expose the high school students to key computing concepts and basic computer programming through hands-on activities and to motivate students to enter post-secondary education and career opportunities in computing. The curriculum of CEA was developed with 24 class modules combined with lectures and lab activities providing basic computing skill development in first semester and Android App development in second semester. Based on the survey results after the completion of CEA in 2013-4, additional class modules combining Arduino circuit design and Android App Development components were added in the first semester CEA curriculum to help students better prepared for second semester. Survey results indicated obtaining higher levels of understanding of computing and mobile development through CEA. Details of CEA curriculum and evaluation results are described and future enhancement is suggested.

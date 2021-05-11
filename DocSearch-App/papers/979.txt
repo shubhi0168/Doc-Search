@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Computational fluid dynamic (CFD) calculations on geometrically complex domains such as porous media require high geometric discretisation for accurately capturing the tested physical phenomena. Moreover, when considering a large area and analysing local effects, it is necessary to deploy a multi-scale approach that is both memory-intensive and time-consuming. Hence, this type of analysis must be conducted on a high-performance parallel computing infrastructure. In this paper, the coupling of two different scales based on the Navier-Stokes equations and Darcy's law is described followed by the generation of complex geometries, and their discretisation and numerical treatment. Subsequently, the necessary parallelisation techniques and a rather specific tool, which is capable of retrieving data from the supercomputing servers and visualising them during the computation runtime (i.e. in situ) are described. All advantages and possible drawbacks of this approach, together with the preliminary results and sensitivity analyses are discussed in detail. (C) 2016 Elsevier Ltd. All rights reserved.

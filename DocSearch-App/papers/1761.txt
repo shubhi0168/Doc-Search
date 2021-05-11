@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+GNSS-based navigation technology for lunar mission with more than 60,000 km above earth, which is still lack of relevant research and simulation. In this paper, "Chang-E One" lunar mission is used with three stages of orbiting the earth, earth-moon transfer, and around moon. A detailed analysis of feasibility of autonomous navigation using GPS, GALILEO navigation system alone and combination under sidelobe signals is given. The number of visible satellites GNSS receiver to receive, DOP value, receiving signal level and dynamic, etc. are analyzed, and autonomous navigation algorithm design under different observation conditions were also considered. As can be seen from the theoretical analysis and simulation results, the use of GNSS signals fully meet user needs that realize autonomous navigation around earth, earth-moon transfer, and around moon three-stages, which can be considered as the foundation for future engineering applications.

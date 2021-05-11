@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Based on the invariant subspace method, a symbolic computation scheme and its corresponding MAPLE package are developed to construct exact solutions for nonlinear evolution equations. In the symbolic computation scheme, a crucial step is constructing the linear differential equations as invariant subspaces that systems of evolution equations admin and taking their solutions as subspaces to construct exact solutions. The MAPLE package is proved to provide an easy way for constructing exact solutions of evolution equations automatically by only inputting several necessary parameters. Three different types of examples are given to illustrate the scope and demonstrate the validity of our package, especially for wave equation. The results of the examples reveal that there are polynomial subspaces, trigonometric subspaces, exponential subspaces and other complex subspaces as invariant subspaces that evolutions equations admit. In addition, our MAPLE software package provides a helpful and easy-to-use tool in science and engineering to deal with a wide variety of (1+1) dimensional nonlinear evolution equations.

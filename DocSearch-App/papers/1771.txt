@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Graphic clipping algorithm is a hotspot all the time in computer graphics. Based upon non-intersect polygon boundary, a clipping algorithm on vector graphics is proposed in this paper. The proposed algorithm can be divided into three steps. First, eliminating the boundary which has no intersection with vector graphics and calculating effective intersections; second, dividing graphics into several parts; finally, determining whether each part within boundaries and achieving graphic clipping. Besides, it can be demonstrated by experiments that compared with traditional algorithm, the proposed algorithm is clear, simple, effective and can be applied widely. Furthermore, the proposed algorithm only consumes about 7 seconds in millions of data and the memory consumption nearly unchanged.

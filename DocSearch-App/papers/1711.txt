@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Games became popular, within the formal verification community, after their application to automatic synthesis of circuits from specifications, and they have been receiving more and more attention since then. This paper focuses on coding the "Sokoban" puzzle, i.e., a very complex single-player strategy game. We show how its solution can be encoded and represented as a Bounded Model Checking problem, and then solved with a SAT solver. After that, to cope with very complex instances of the game, we propose two different ad-hoc divide-and-conquer strategies. Those strategies, somehow similar to state-of-the-art abstraction-and-refinement schemes, are able to decompose deep Bounded Model Checking instances into easier subtasks, trading-off between efficiency and completeness. We analyze a vast set of difficult hard-to-solve benchmark games, trying to push forward the applicability of state-of-the-art SAT solvers in the field. Those results show that games may provide one of the next frontier for the SAT community.

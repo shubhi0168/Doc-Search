@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A three-party scheme for secure quantum communication, namely controlled quantum dialogue ( CQD), is analyzed under the influence of non-Markovian channels. By comparing with the corresponding Markovian cases, it is seen that the average fidelity can be maintained for relatively longer periods of time. Interestingly, a number of facets of quantum cryptography, such as quantum secure direct communication, deterministic secure quantum communication and their controlled counterparts, quantum dialogue, quantum key distribution, quantum key agreement, can be reduced from the CQD scheme. Therefore, the CQD scheme is analyzed under the influence of damping, dephasing and depolarizing non-Markovian channels, and subsequently, the effect of these non-Markovian channels on the other schemes of secure quantum communication is deduced from the results obtained for CQD. The damped non-Markovian channel causes a periodic revival in the fidelity, while fidelity is observed to be sustained under the influence of the dephasing non-Markovian channel.

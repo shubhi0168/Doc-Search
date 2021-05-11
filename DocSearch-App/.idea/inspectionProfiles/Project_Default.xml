@@ -1,0 +1,64 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="461" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="34">
+            <item index="0" class="java.lang.String" itemvalue="django-celery-beat" />
+            <item index="1" class="java.lang.String" itemvalue="django-celery-results" />
+            <item index="2" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="3" class="java.lang.String" itemvalue="python-crontab" />
+            <item index="4" class="java.lang.String" itemvalue="amqp" />
+            <item index="5" class="java.lang.String" itemvalue="redis" />
+            <item index="6" class="java.lang.String" itemvalue="Django" />
+            <item index="7" class="java.lang.String" itemvalue="certifi" />
+            <item index="8" class="java.lang.String" itemvalue="virtualenv" />
+            <item index="9" class="java.lang.String" itemvalue="django-timezone-field" />
+            <item index="10" class="java.lang.String" itemvalue="python-decouple" />
+            <item index="11" class="java.lang.String" itemvalue="urllib3" />
+            <item index="12" class="java.lang.String" itemvalue="djangorestframework" />
+            <item index="13" class="java.lang.String" itemvalue="dal" />
+            <item index="14" class="java.lang.String" itemvalue="django-querysetsequence" />
+            <item index="15" class="java.lang.String" itemvalue="pytest-splinter" />
+            <item index="16" class="java.lang.String" itemvalue="pytest-django" />
+            <item index="17" class="java.lang.String" itemvalue="splinter" />
+            <item index="18" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="19" class="java.lang.String" itemvalue="django-nested-admin" />
+            <item index="20" class="java.lang.String" itemvalue="django-debug-toolbar" />
+            <item index="21" class="java.lang.String" itemvalue="django-extensions" />
+            <item index="22" class="java.lang.String" itemvalue="genericm2m" />
+            <item index="23" class="java.lang.String" itemvalue="django-gm2m" />
+            <item index="24" class="java.lang.String" itemvalue="django-tagging" />
+            <item index="25" class="java.lang.String" itemvalue="django-taggit" />
+            <item index="26" class="java.lang.String" itemvalue="nested-admin" />
+            <item index="27" class="java.lang.String" itemvalue="channels-redis" />
+            <item index="28" class="java.lang.String" itemvalue="channels" />
+            <item index="29" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="30" class="java.lang.String" itemvalue="numpy" />
+            <item index="31" class="java.lang.String" itemvalue="twilio" />
+            <item index="32" class="java.lang.String" itemvalue="asgiref" />
+            <item index="33" class="java.lang.String" itemvalue="importlib-metadata" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>

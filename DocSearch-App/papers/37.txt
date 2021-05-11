@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+A correspondence is a set of mappings that establishes a relation between the elements of two data structures (i.e. sets of points, strings, trees or graphs). If we consider several correspondences between the same two structures, one option to define a representative of them is through the generalised median correspondence. In general, the computation of the generalised median is an NP-complete task. In this paper, we present two methods to calculate the generalised median correspondence of multiple correspondences. The first one obtains the optimal solution in cubic time, but it is restricted to the Hamming distance. The second one obtains a sub-optimal solution through an iterative approach, but does not have any restrictions with respect to the used distance. We compare both proposals in terms of the distance to the true generalised median and runtime.

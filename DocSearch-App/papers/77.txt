@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+A large number of computer applications(like Computer Graphics, Control Systems, Modeling System, Simulators etc.) needed floating point arithmetic. However, most of the presently available methods are slow and inefficient because of sequential design however the recent development in the field of programmable logic devices such as FPLA and CPLD opens the new area of parallel and high speed floating point designs. Considering that the synchronous architectures requires that that all clock events happen at the same time over the complete circuit which it not possible due to clock skew also the latency and throughput of the circuit are directly linked to the worst-case delay of the slowest element which increases the delay. Hence this paper presents self-timed carry look ahead adder based implementation of IEEE 754 32 bit floating point multiplier for FPGA devices. The simulation results shows that the proposed design has lower latency than synchronous design as well as lower power requirements.

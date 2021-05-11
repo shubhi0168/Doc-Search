@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Findings from information-seeking behavior research can inform application development. In this report we provide a system description of Spark, an application based on findings from Serendipitous Knowledge Discovery studies and data structures known as semantic predications. Background information and the previously published IF-SKD model (outlining Serendipitous Knowledge Discovery in online environments) illustrate the potential use of information-seeking behavior in application design. A detailed overview of the Spark system illustrates how methodologies in design and retrieval functionality enable production of semantic predication graphs tailored to evoke Serendipitous Knowledge Discovery in users. (C) 2016 Published by Elsevier Inc.

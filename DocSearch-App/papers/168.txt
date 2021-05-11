@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A recent biological study shows that the extremely good efficiency of fruit flies in finding food, despite their small brain, emerges by two distinct stimuli: smell and visual contrast. "contrast-based fruit fly optimization", presented in this paper, is for the first time mimicking this fruit fly behaviour and developing it as a means to efficiently address multi-parameter optimization problems. To assess its performance a study was carried out on ten mathematical and three truss optimization problems. The results are compared to those obtained using twelve state-of-the-art optimization algorithms and confirm its good and robust performance. A sensitivity analysis and an evaluation of its performance under parallel computing were conducted. The proposed algorithm has only a few tuning parameters, is intuitive, and multi-faceted, allowing application to complex n-dimensional design optimization problems. (C) 2016 Elsevier Ltd. All rights reserved.

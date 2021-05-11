@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Crowds arise in a variety of situations, such as public concerts and sporting matches. In typical conditions, the crowd moves in an orderly manner, but panic situations may lead to catastrophic results. We propose a computer vision method to identify motion pattern changes in human crowds that can be related to an unusual event. The proposed approach can identify global changes, by evaluating 2D motion histograms in time, and also local effects, by identifying clusters that present similar spatial locations and velocity vectors. The method is tested both on publicly available data sets involving crowded scenarios and on synthetic data produced by a crowd simulation algorithm, which allows the creation of controlled environments with known motion patterns that are particularly suitable for multicamera scenarios.

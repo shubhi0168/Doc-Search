@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Extreme apprenticeship, a recent learning methodology, was used in a blended fashion for teaching a technical subject: Bash scripting for operating systems. Online learning was supported with the Moodle platform, in particular, for managing Bash programming exercises. How did students behave? Were the exercises equally difficult for them? If not, where did differences arise? And why? This paper reports on the design of a blended learning experience for Bash programming, focusing on the definition and evaluation of levels of programming exercises and on students behavior in programming, supported by Moodle. (C) 2015 Elsevier Ltd. All rights reserved.

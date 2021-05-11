@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+How we can describe the similarity relationship between the biological sequences is a basic but important problem in bioinformatics. The first graphical representation method for the similarity relationship rather than for single sequence is proposed in this article, which makes the similarity intuitional. Some properties such as sensitivity and continuity of the similarity are proved theoretically, which indicate that the similarity describer has the advantage of both alignment and alignment-free methods. With the aid of multiresolution analysis tools, we can exhibit the similarity's different profiles, from high resolution to low resolution. Then the idea of multiresolution clustering is raised first. A reassortment analysis on a benchmark flu virus genome data set is to test our method and it shows a better performance than alignment method, especially in dealing with problems involving segments' order.

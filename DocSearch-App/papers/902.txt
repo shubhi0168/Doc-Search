@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Cloud computing is a set of Information Technology services that are provided to a customer over a network on a leased basis and with the ability to scale up or down their service requirements. Cloud computing is a new general purpose internet-based technology through which information is stored in servers and provided as a service and on-demand to the clients. It builds on decades of research in virtualization, distributed computing, utility computing, and more recently networking, web and software services. It implies a service oriented architecture, reduced information technology overhead for the end-user, great flexibility, reduced total cost of ownership, on-demand services and many other things. This paper discusses the concept of cloud computing, some of the issues it tries to address, and available cloud computing implementation.

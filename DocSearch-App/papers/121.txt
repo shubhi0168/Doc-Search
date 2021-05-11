@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A new quantum dialogue protocol is designed by using the continuous-variable two-mode squeezed vacuum states due to its entanglement property. The two communication parties encode their own secret information into the entangled optical modes with the translation operations. Each communication party could deduce the secret information of their counterparts with the help of his or her secret information and the Bell-basis measurement results. The security of the proposed quantum dialogue protocol is guaranteed by the correlation between two-mode squeezed vacuum states and the decoy states performed with translation operations in randomly selected time slots. Compared with the discrete variable quantum dialogue protocols, the proposed continuous-variable quantum dialogue protocol is easy to realize with perfect utilization of quantum bits.

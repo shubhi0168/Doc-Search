@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Based on a Lie symmetry analysis, we construct a closed form solution to the kinematic part of the (partial differential) Cosserat equations describing the mechanical behavior of elastic rods. The solution depends on two arbitrary analytical vector functions and is analytical everywhere except a certain domain of the independent variables in which one of the arbitrary vector functions satisfies a simple explicitly given algebraic relation. As our main theoretical result, in addition to the construction of the solution, we proof its generality. Based on this observation, a hybrid semi-analytical solver for highly viscous two-way coupled fluid-rod problems is developed which allows for the interactive high-fidelity simulations of flagellated microswimmers as a result of a substantial reduction of the numerical stiffness.

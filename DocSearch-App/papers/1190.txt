@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Cutting plane algorithm (CPA) is a generalization of iterative first-order gradient method, in which the objective function is approximated successively by supporting hyperplanes. CPA has been tailored to solve regularized loss minimization in machine learning by exploiting the regularization structure. In particular, for linear Support Vector Machine (SVM) embedding a line search procedure effectively remedies the fluctuations of function value and speeds up the convergence in practical issue. However, the existing line search strategy based on sorting algorithm takes O(mlogm) time. In this paper, we propose a more effective line search solver which spends only linear time. It can be extended to multiclass SVM in which an optimized explicit piecewise linear function finding algorithm is prearranged. The total SVM training time is proved to reduce theoretically and experiments consistently confirm the effectiveness of the proposed algorithms. (C) 2017 Elsevier Ltd. All rights reserved.

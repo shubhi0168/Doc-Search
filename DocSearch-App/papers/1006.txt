@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming courses (C, Java, C++, etc) intended for non-majors are facing a lot of problems in cultivating undergraduates' abilities of computational thinking and problem solving. Students are frustrated with complex syntax of these languages and are confused with their practical applications. In the paper, our exploration on students' abilities cultivations based on Python teaching practice is introduced. Lesson plan, teaching method and teaching effect are presented in detail. We wish our research and practice could give some hint for the reform of introductory programming courses.

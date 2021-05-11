@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Forward and adjoint Monte Carlo (MC) models of radiance are proposed for use in model-based quantitative photoacoustic tomography. A two-dimensional (2-D) radiance MC model using a harmonic angular basis is introduced and validated against analytic solutions for the radiance in heterogeneous media. A gradientbased optimization scheme is then used to recover 2-D absorption and scattering coefficients distributions from simulated photoacoustic measurements. It is shown that the functional gradients, which are a challenge to compute efficiently using MC models, can be calculated directly from the coefficients of the harmonic angular basis used in the forward and adjoint models. This work establishes a framework for transport-based quantitative photoacoustic tomography that can fully exploit emerging highly parallel computing architectures. (C) The Authors. Published by SPIE under a Creative Commons Attribution 3.0 Unported License.

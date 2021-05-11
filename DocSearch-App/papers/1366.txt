@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Distributed Denial of Service attacks produce large volumes of spoofed network data. Manual analysis of gigabytes of network logs to determine source of the attacks, victim IPs and vulnerability exploitation is time- consuming and error prone. Cloud Computing has recently emerged as a promising technology which allows everyday users to harness the massively parallel processing capabilities of commodity machines as a payas- you- go utility service. The contribution of this work is the conceptualization, design and implementation of a distributed DDoS analysis framework that uses the power of the cloud via the MapReduce paradigm to perform an entropy based clustering and security analysis of the key features of attack traffic. We have evaluated our framework on two large and publicly available DDoS attack datasets. Moreover, we achieve 86% speedup in analysis with a modestly sized cluster of ten nodes.

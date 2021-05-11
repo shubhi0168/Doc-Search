@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+DNA palindromes are known to have many beneficial and detrimental functions in cell biology. Most of these functions are shared between perfect and imperfect palindromic sequences, but imperfect palindromes can be of particular interest due to their additional ability to dramatically increase the local mutation rate. Almost all available tools capable of extracting genetic palindromes were designed to accommodate inverted repeats, which are palindromic sequences with centralized non-matching nucleotides. We developed computational methods that focus specifically on perfect and imperfect palindromes, allowing us to take advantage of palindrome-specific properties which led to an 8x to 40x increase in speed and an approximately 10x decrease in memory requirements compared to the leading inverted repeats detection method.

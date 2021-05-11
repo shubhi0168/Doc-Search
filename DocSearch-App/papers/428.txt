@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Argument-based machine learning (ABML) knowledge refinement loop offers a powerful knowledge elicitation tool, suitable for obtaining expert knowledge in difficult domains. In this paper, we first use it to conceptualize a difficult, even ill-defined concept: distinguishing between "basic" and "advanced" programming style in python programming language, and then to teach this concept in an interactive learning session between a student and the computer. We demonstrate that by automatically selecting relevant examples and counter examples to be explained by the student, the ABML knowledge refinement loop provides a valuable interactive teaching tool.

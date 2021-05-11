@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Five homologous acetylated acylglycerols of 3-hydroxyfatty acids (chain lengths C(14) - C(18)), named euphrasianins A -E, were characterized for the first time in Euphrasia rostkoviana HAYNE (Orobanchaceae) by gas chromatography/mass spectrometry (GC/MS) and high-performance liquid chromatography/atmospheric pressure chemical ionization-mass spectrometry (HPLC/APCI-MSn). In addition to mass spectrometric data, structures of euphrasianins were verified via a three-step total synthesis of one representative homologue (euphrasianin A). The structure of the latter was confirmed by 1D- and 2D-NMR experiments as well as high-resolution electrospray ionization-mass spectrometry (HR-ESI-MS). The absolute configuration of the 3-hydroxyfatty acid moiety at C(3) was found to be R in the natural euphrasianins, which was determined by alkaline hydrolysis and methylation of a purified fraction, followed by chiral GC analysis. Furthermore, in extracts of Euphrasia tetraquetra (BREB.) ARROND. euphrasianins C and E were detected exclusively, indicating that this subclass of lipid constituents is possibly valuable for fingerprinting methods.

@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Gaussian Process (GP) models provide a very flexible nonparametric approach to modeling location-and-time indexed datasets. However, the storage and computational requirements for GP models are infeasible for large spatial datasets. Nearest Neighbor Gaussian Processes (Datta A, Banerjee S, Finley AO, Gelfand AE. Hierarchical nearest-neighbor gaussian process models for large geostatistical datasets. J Am Stat Assoc 2016., JASA) provide a scalable alternative by using local information from few nearest neighbors. Scalability is achieved by using the neighbor sets in a conditional specification of the model. We show how this is equivalent to sparse modeling of Cholesky factors of large covariance matrices. We also discuss a general approach to construct scalable Gaussian Processes using sparse local kriging. We present a multivariate data analysis which demonstrates how the nearest neighbor approach yields inference indistinguishable from the full rank GP despite being several times faster. Finally, we also propose a variant of the NNGP model for automating the selection of the neighbor set size. (C) 2016 Wiley Periodicals, Inc.

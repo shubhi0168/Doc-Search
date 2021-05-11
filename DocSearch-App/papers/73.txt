@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+A key aspect of realizing the future smart grid communication solution is a balanced approach between the network performance and the network security during the network deployment. A high security communication flow path is not useful when the network path cannot support capacity and reachability requirements. The deployment phase in communication network can facilitate an optimal network path by focusing on both the network performance and the network security at the same time. In this paper, we describe a use case of smart grid application where security, network capacity and reachability needs to be optimal for successful network operation. We explain our proposed balancing approach of the network performance and the network security which can be useful for the optimal smart grid secure system design.

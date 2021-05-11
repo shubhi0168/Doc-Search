@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Fusion technology has been demonstrated to be a good method for generating a large-scale entangled coherent W or GHZ state from two small ones in QED system. It is of importance to study how to fuse small-scale entangled coherent W or GHZ states via optical system. In this paper, we present a scheme for generating larger entangled coherent W or GHZ state in an optical system by virtue of fusion technology. The key fusion mechanism is realized by photon detectors and a Mach-Zehnder interferometer with its two arms immersed in Kerr media, by which an n-mode entangled coherent W state and an m-mode entangled coherent W state can be probabilistically fused into an (n + m - 2)-mode entangled coherent W state. This fusion scheme applies to entangled coherent GHZ state too but with a unit probability of success. Feasibility analysis indicates that our fusion scheme may be realized with current experimental technology. Large-scale entangled coherent W and GHZ states may find new applications in quantum communication.

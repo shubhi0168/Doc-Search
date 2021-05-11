@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+In addition to algorithm-or concept-oriented training of problem solving by computer programming, introductory computer science classes may contain programming projects on themes that are relevant for young people. The motivation for theme-driven programmers is not to practice coding but to create a digital artefact related to a domain they are interested in and they want to learn about. Necessary programming concepts are learned on the way ("diving into programming"). This contribution presents examples of theme-driven projects, which are related to text mining and web cam image processing. The development and learning process is supported by metaphorical explanations of programming concepts and algorithmic ideas, experiments with simple programming statements, stories and code fragments.

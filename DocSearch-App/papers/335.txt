@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Although the determination of university students' attitudes towards computer programming is a significant issue, the issue has been rarely studied. The purpose of this study was to develop an attitude scale assessing university students' attitudes towards computer programming. In the first phase, the scale was administered to 522 university students. Explanatory factor analysis yielded three dimensions: affection, cognition, and behavior. In the second phase, final version of the 18 item-scale was administered to 553 university students. Results of confirmatory factor analysis provided evidence for the factorial structure of the scale. The Cronbach alpha coefficients ranged from 0.80 to 0.90. Psychometric properties of Computer Programming Attitude Scale (CPAS) suggest that it is a valid and reliable instrument for measuring university students' attitudes towards computer programming. (C) 2015 Wiley Periodicals, Inc.

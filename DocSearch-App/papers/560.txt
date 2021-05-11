@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Automatic detection of brain tumors in single-spectral magnetic resonance images is a challenging task. Existing techniques suffer from inadequate performance, dependence on initial assumptions, and, sometimes, the need for manual interference. The research reported in this paper seeks to reduce some of these shortcomings, and to remove others, achieving satisfactory performance at reasonable computational costs. The success of the system described here is explained by the synergy of the following aspects: (1) a broad choice of high-level features to characterize the image's texture, (2) an efficient mechanism to eliminate less useful features (3) a machine-learning technique to induce a classifier that signals the presence of a tumor-affected tissue, and (4) an improved version of the skippy greedy snake algorithm to outline the tumor's contours. The paper describes the system and reports experiments with synthetic as well as real data. (C) 2017 Elsevier Ltd. All rights reserved.

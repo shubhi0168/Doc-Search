@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Desktop ToonTalk was first released twenty years ago and was successfully used by children as young as 3 to construct computer programs. Uniquely these programs are constructed by demonstration using game elements such as robots, birds, trucks, boxes, and magic wands. The user's avatar inhabits a town where computations can be created and executed in an animated manner. ToonTalk Reborn is a re-conceptualization of ToonTalk for the web. It runs in any modern browser without any plugins. The move to become a web-based tool for web programming has resulted in much being gained and lost.

@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+A parallelized numerical contour integral based method is proposed for counting interior eigenvalues in a given region on the complex plane. The proposed method is derived from descriptor system of power system linearized model and complex analysis theory, based on which the computation of eigenvalue number is converted to a set of matrix trace problems. The contour integral results are able to be utilized to detect missing target eigenvalues in partial eigenvalue methods and provide an approximate eigenvalue distribution along the integral curve. Efficient evaluation of integral function is implemented by exploiting the sparsity of descriptor systems. An adaptive integral point collocation strategy is proposed for numerically evaluating contour integral with moderate number of discretized points. As the computation of integral function is decoupled at each integral point, the proposed method features well parallel computing capability.

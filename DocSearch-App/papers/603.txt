@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Background: A common problem of some information technology courses is the difficulty of providing practical exercises. Although different approaches have been followed to solve this problem, it is still an open issue, specially in security and computer network courses. Results: This paper proposes NETinVM, a tool based on nested virtualization that includes a fully functional lab, comprising several computers and networks, in a single virtual machine. It also analyzes and evaluates how it has been used in different teaching environments. Conclusions: The results show that this tool makes it possible to perform demos, labs and practical exercises, greatly appreciated by the students, that would otherwise be unfeasible. Also, its portability allows to reproduce classroom activities, as well as the students' autonomous work.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+A research has been carried out on the dynamic analysis and simulation of parallel robots due to the situation where parallel robots tend to break down on account of large stress during movements. In order to study the force condition of the robot on the move, a mathematical model, based on the Kane method, has been built and the driving force of each electric cylinder has been calculated by computer programming. In the meantime, a dynamic simulation model and a simulation control system are established on the basis of Adams and Matlab and through analyzing the joint simulation, we can obtain the driving force of each cylinder. The gap between the simulation results and the results obtained by the mathematical model is within 7%, which verifies the correctness of the Kane dynamic system and gives provide the foundation for future studies of dynamics and structure optimization.

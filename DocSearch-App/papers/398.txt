@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Analytical solutions of the van der Waals normal form for fluidized granular media have been done to study the phase separation phenomenon by using two different exact methods. The Painleve analysis is discussed to illustrate the integrability of the model equation. An auto-Backlund transformation is presented via the truncated expansion and symbolic computation. The results show that the exact solutions of the model introduce solitary waves of different types. The solutions of the hydrodynamic model and the van der Waals equation exhibit a behavior similar to the one observed in molecular dynamic simulations such that two pairs of shock and rarefaction waves appear and move away, giving rise to the bubbles. The dispersion properties and the relation between group and phase velocities of the model equation are studied using the plane wave assumption. The diagrams are drawn to illustrate the physical properties of the exact solutions, and indicate their stability and bifurcation. (C) 2015 Elsevier B.V. All rights reserved.

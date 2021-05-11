@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Considering transmission capabilities and renewable integration, zonal regulation and spinning reserve requirements are discussed to handle uncertainty of load and renewable energy as well as any N-1 outage. A new zonal reserve model is proposed in the paper including reserve dispatched time constraints, zonal reserve requirements and network security constraints using the method of chance constrained programming. Analysis on the IEEE 39 system demonstrates the model can schedule zonal energy, regulation and spinning reserve in an economic way for a renewable power integrated system. (C) 2016 The Authors. Published by Elsevier Ltd.

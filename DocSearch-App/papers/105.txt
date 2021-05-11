@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+A neural network technique known as Kohonen unsupervised training is coupled with a modified version of the particle swarm optimization technique in an effort to develop an algorithm capable of finding multiple optimal solutions for a given problem. The results of five example problems of increasing difficulty validate the Alternative Analysis Networking algorithm's functionality.

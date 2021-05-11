@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Applications that manipulate sparse data structures contain memory reference patterns that are unknown at compile time due to indirect accesses such as A [B [1]]. To exploit parallelism and improve locality in such applications, prior work has developed a number of Run-Time Reordering Transformations (RTRTs). This paper presents the Sparse Polyhedral Framework (SPF) for specifying RTRTs and compositions thereof and algorithms for automatically generating efficient inspector and executor code to implement such transformations. Experimental results indicate that the performance of automatically generated inspectors and executors competes with the performance of hand-written ones when further optimization is done. (C) 2016 Elsevier B.V. All rights reserved.

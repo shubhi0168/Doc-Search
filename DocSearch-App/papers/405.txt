@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Antimicrobial peptides (AMPs) from cuticular extracts of worker ants of Trichomyrmex criniceps (Mayr, Hymenoptera: Formicidae) were isolated and evaluated for their antimicrobial activity. Eight peptides ranging in mass from 804.42 to 1541.04 Da were characterized using a combination of analytical and bioinformatics approach. All the eight peptides were novel with no similarity to any of the AMPs archived in the Antimicrobial Peptide Database. Two of the eight novel peptides, the smallest and the largest by mass were named Crinicepsin-1 and Crinicepsin-2 and were chemically synthesized by solid phase peptide synthesis. The two synthetic peptides had antibacterial and weak hemolytic activity.

@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+An efficient routing with Quality of Service (QoS) guarantees for any safety traffic communication plays a vital role for the success of vehicle ad hoc networks (VANETs). Due to the connection less nature of such network, establishing stable route between connected nodes in VANETs is extremely important and challenging. This paper, proposes a new algorithm for multi-constrained QoS routing in vehicular network by adopting clustering approach. In the algorithm design, some QoS metrics are used in addition to the stability metrics for finding and establishing a stable route to destination. This is achieved by calculating the corresponding QoS provision values before selecting an optimal, reliable and stable route. NCTUns 6.0 network simulator was used for the experiment of the proposed scheme. Results show a significant improvement of the proposed approach in terms of broken links, routing overhead and end-to-end delay.

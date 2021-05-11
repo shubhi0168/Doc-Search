@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+ARINC 653 provides a strong isolation mechanism for safety computing fields, such as aircrafts. seL4, a 3rd generation microkernel, was formally verified for its functional correctness and provides a desirable code base for partitioning operating systems. But there is a long way from seL4 to partitioning. We take the first step and focus on the temporal aspect, i.e., implementing a partitioned scheduler based on seL4. However, seL4 implements a stiff scheduler inside the kernel, which conflicts with the genera principles(eg. ARINC 653 standard) of temporal partitioning. To address this problem, we propose a user-mode approach. We also elaborate performance of our scheduler.

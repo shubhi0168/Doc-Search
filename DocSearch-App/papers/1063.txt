@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Considered the cooperation of the container truck and quayside container crane in the container terminal, this paper constructs the model of the quay cranes operation and trucks scheduling problem in the container terminal. And the hybrid intelligence swarm algorithm combined the particle swarm optimization algorithm(PSO) with artificial fish swarm algorithm (AFSA) was proposed. The hybrid algorithm (PSO-AFSA) adopt the particle swarm optimization algorithm to produce diverse original paths, optimization of the choice nodes set of the problem, use AFSA's preying and chasing behavior improved the ability of PSO to avoid being premature. The proposed algorithm has more effectiveness, quick convergence and feasibility in solving the problem. The results of stimulation show that the scheduling operation efficiency of container terminal is improved and optimized.

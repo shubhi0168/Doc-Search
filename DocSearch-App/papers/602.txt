@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Background: A basic task in bioinformatics is the counting of k-mers in genome sequences. Existing k-mer counting tools are most often optimized for small k= 32. Our software is the result of an intensive process of algorithm engineering. It implements a two-step approach. In the first step, genome reads are loaded from disk and redistributed to temporary files. In a second step, the k-mers of each temporary file are counted via a hash table approach. In addition to its basic functionality, Gerbil can optionally use GPUs to accelerate the counting step. In a set of experiments with real-world genome data sets, we show that Gerbil is able to efficiently support both small and large k. Conclusions: While Gerbil's performance is comparable to existing state-of-the-art open source k-mer counting tools for small k < 32, it vastly outperforms its competitors for large k, thereby enabling new applications which require large values of k.

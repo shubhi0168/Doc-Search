@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Human body customization is an important task in computer graphics and computer simulation recently. The existing human body modeling methods may generate distorted model or generate a human body model that does not match the target measurements. These shortcomings are improved in this paper. This human body modeling module includes two parts: analyzing the linear relationship between human body shapes and measurements, and human shape modeling according to the target measurements. Instead of analyzing the linear relationship between measurements and the whole human body shapes, we segment each model into 16 rigid parts, and learn the mapping between 3D body shapes of each part and their measurements. By using the above method, we can obtain a new human body model with the control of target measurements. The reconstructed human models are used as infantry battle formation in the damage simulations.

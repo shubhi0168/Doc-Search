@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Accumulating evidence suggests that ribosomal proteins may have extraribosomal functions in various physiological and pathological processes, including cancer. We analyzed the expression of the CIRH1A ribosomal protein in colorectal carcinoma and para-carcinoma samples by bioinformatics analyses of data extracted from The Cancer Genome Atlas and in colorectal cancer cell lines in vitro by qPCR. CIRH1A was highly expressed in carcinoma samples and colorectal cancer cells. We also transduced the RKO colorectal cancer (CRC) cell line with lentivirus-mediated small interfering RNAs (siRNAs) and studied the impact that this knockdown of CIRH1A expression had on cell growth. RNA interference (RNAi)-mediated inhibition of CIRH1A expression significantly suppressed proliferation and increased apoptosis of transduced cells, and tended to arrest them in G(1) phase. Our data suggest that CIRH1A plays a critical role in the proliferation, cell cycle distribution, and apoptosis of human malignant colorectal cells, and might therefore be a potential target for therapeutic strategies.

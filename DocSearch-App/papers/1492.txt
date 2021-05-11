@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Eliciting sufficient high-quality knowledge from individuals to build a robust and useful Artificial Intelligence or Intelligent System solution is a very time-consuming and expensive activity, especially in domains where the knowledge is informal, partial, incomplete, implicit, tacit and unstructured. Moreover, in order to develop a solution, a systematic way to incorporate the elicited knowledge into a specification is necessary. The goal of this thesis is to develop a strategy oriented to the transfer and transformation of knowledge with the aim of eliciting and structuring the most quantity of domain knowledge, either tacit or explicit; then incorporate it into a specification that covers the needs and expectations of domain specialists. The application of the strategy in real informally structured domain cases provides empirical insights about its usefulness and value.

@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Data have become a very important asset to many organizations, companies, and individuals, and thus, the security of relational databases that encapsulate these data has become a major concern. Standard database security mechanisms, as well as network-based and host-based intrusion detection systems, have been rendered inept in detecting malicious attacks directed specifically to databases. Therefore, there is an imminent need in developing an intrusion detection system (IDS) specifically for the database. In this paper, we propose the use of the random forest (RF) algorithm as the anomaly detection core mechanism, in conjunction with principal components analysis (PCA) for the task of dimension reduction. Experiments show that PCA produces a very compact, meaningful set of features, while RF, a graphical method that is most likely to exploit the inherent tree-structure characteristic of SQL queries, exhibits a consistently good performance in terms of false positive rate, false negative rate, and time complexity, even with varying number of features.

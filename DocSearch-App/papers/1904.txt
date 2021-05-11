@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Ill-posed inverse problems call for some prior model to define a suitable set of solutions. A wide family of approaches relies on the use of sparse representations. Dictionary learning precisely permits to learn a redundant set of atoms to represent the data in a sparse manner. Various approaches have been proposed, mostly based on optimization methods. We propose a Bayesian non-parametric approach called IBP-DL that uses an Indian Buffet Process prior. This method yields an efficient dictionary with an adaptive number of atoms. Moreover the noise and sparsity levels are also inferred so that no parameter tuning is needed. We elaborate on the IBP-DL model to propose a model for linear inverse problems such as inpainting and compressive sensing beyond basic denoising. We derive a collapsed and an accelerated Gibbs samplers and propose a marginal maximum a posteriori estimator of the dictionary. Several image processing experiments are presented and compared to other approaches for illustration. (C) 2016 Elsevier Inc. All rights reserved.

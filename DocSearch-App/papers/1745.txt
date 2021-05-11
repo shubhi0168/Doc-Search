@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Given a planar point set sampled from an object boundary, the process of approximating the original shape is called curve reconstruction. In this paper, a novel non-parametric curve reconstruction algorithm based on Delaunay triangulation has been proposed and it has been theoretically proved that the proposed method reconstructs the original curve under epsilon-sampling. Starting from an initial Delaunay seed edge, the algorithm proceeds by finding an appropriate neighbouring point and adding an edge between them. Experimental results show that the proposed algorithm is capable of reconstructing curves with different features like sharp corners, outliers, multiple objects, objects with holes, etc. The proposed method also works for open curves. Based on a study by a few users, the paper also discusses an application of the proposed algorithm for reconstructing hand drawn skip stroke sketches, which will be useful in various sketch based interfaces.

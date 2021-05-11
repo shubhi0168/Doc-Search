@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A function transformation is presented to change a kind of nonlinear coupled system into a set of two elliptic equations of the first kind. Then new infinite sequence complexion two-soliton solutions to a kind of nonlinear coupled system are constructed by new solutions and Backlund transformation of elliptic equation of the first kind.

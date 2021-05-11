@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Complex analytic invariants of hypersurface isolated singularities are considered in the context of symbolic computation. The motivations for this paper are computer calculations of mu*-sequences that introduced by B. Teissier to study the Whitney equisingularity of deformations of complex hypersurfaces. A new algorithm that utilizes parametric local cohomology systems is proposed to compute mu*-sequences. Lists of mu*-sequences of some typical cases are also given.

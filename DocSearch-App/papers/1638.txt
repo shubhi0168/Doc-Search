@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+For a decision table, it is firstly proved that the effective pair is equivalent to improved discernibility matrix to guarantee that the attribute reduction based on discernibility matrix can be calculated by effective pair. To get the attribute reduction more quickly, a parallel radix sort model is proposed. Then a simple decision table and effective pair are obtained. Taking the length of distinguishable or indistinguishable elements string among the effective pair as heuristic information, an attribute reduction algorithm based on parallel Logical OR is proposed. Finally, the examples and experiments are shown to verify the effectiveness and feasibility of the proposed algorithm.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Colour detection plays an important role for many computer vision-based applications. However, most existing colour detection methods tend to be environment dependent since slight changes of environmental factors such as illumination or shadowing effects could greatly reduce their performances. In this paper, a new colour model is introduced to allow enhanced colour detection from images, even with significantly different lighting conditions and image qualities. The proposed colour model is called the HPBr colour model. It is converted from the RGB colour model and it consists of three colour components, namely, hue (H), purity (P) and brightness (Br). This colour model can be represented in three different geometric shapes: diamond, sphere and cylinder. To assess the effectiveness of the model, two different colour detection methods have been applied onto benchmark images. Experimental results from both methods confirmed that the proposed colour model produced the best colour detection results among existing models.

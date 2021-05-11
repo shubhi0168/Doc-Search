@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+anomaly detection is playing an increasingly important role in network security, and the ability to detect and process anomalies for big data in real-time is a difficult task. In this conditions, this paper presents a model which combine cloud computing with machine learning. Hadoop is a widely used open source cloud computing framework to big data. The traffic data stored in HDFS and processed by MapReduce. Besides these, machine learning module selected best performance algorithm from multiple algorithms by called Weka interface. Moreover, naive Bayes, decision tree and SVM are used to validate the accuracy and efficiency. Finally, experimental results demonstrate that this method has a good performance in detection with above 90% of accuracy.

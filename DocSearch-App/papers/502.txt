@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+As the prevalence of social media on the Internet, opinion mining has become an essential approach to analyzing so many data. Various applications appear in a wide range of industrial domains. Meanwhile, opinions have diverse expressions which bring along research challenges. Both of the practical demands and research challenges make opinion mining an active research area in recent years. In this paper, we present a review of Natural Language Processing (NLP) techniques for opinion mining. First, we introduce general NLP techniques which are required for text preprocessing. Second, we investigate the approaches of opinion mining for different levels and situations. Then we introduce comparative opinion mining and deep learning approaches for opinion mining. Opinion summarization and advanced topics are introduced later. Finally, we discuss some challenges and open problems related to opinion mining. (C) 2016 Elsevier B.V. All rights reserved.

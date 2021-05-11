@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+By using symbolic computation software(Maple), a generalized Dirac soliton hierarchy is derived from a new matrix spectral problem associated with the Lie algebra sl(2,R). A bi-Hamiltonian structure yielding Liouville integrability is furnished by the trace identity. (c) 2016 Elsevier Ltd. All rights reserved.

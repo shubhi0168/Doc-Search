@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Data structures have been a core discipline in computer engineering studies. Several difficulties related to teaching and learning of these contents have been detected by the academic community. With the aim of obtaining a better knowledge of these situations, we present the conclusions obtained after evaluating the results achieved by the students of the subject Programming II, in the first course of the degree in computer engineering at the University of A Coruna (Spain) and the students of the subject data structures, where similar contents are taught in the Informatics Degree at Portucalense University (Portugal).

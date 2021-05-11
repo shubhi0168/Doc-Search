@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+A new compact combinatorial coordinate system is presented to address not only the voxels (truncated octahedra) of the body-centered cubic grid but also the lower-dimensional cells - faces, edges and vertices. Almost all integer triples address some cell in the grid, and incidence and adjacency relations between cells can easily be captured by the coordinate values. The new coordinate system can effectively and efficiently be applied in topological shape analysis and modeling, image processing and computer graphics applications. (C) 2016 Elsevier Inc. All rights reserved.

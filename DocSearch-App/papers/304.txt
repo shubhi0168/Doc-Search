@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Aiming to reduce the losses of shipwreck, this paper employs methods in mathematics and simulation fields to build a progressive search model and give out targeted solutions for each stage. After simplifying the actual process of search and rescue, based on Air France Flight 447 (2009) case data, we put forward two kinds of search algorithms to conduct and optimize the maritime search scheme. In order to compare with different sea search arrangements, using Monte Carlo simulation and analyzing the different types of search planes, the best choice was set to get the target. The way to assign different search area resorts to "3 sigma" principle and then identifying the arrangement which can find the wreckage-site more quickly. Meanwhile, 72-hour "golden window" is also considered. Through taking all these factors into consideration, eventually the best Algorithm is attained for maritime search scheme.

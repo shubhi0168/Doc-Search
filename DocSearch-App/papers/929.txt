@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Clustering is regarded as one of the significant task in data mining and has been widely used in very large data sets. Soft clustering is unlike the traditional hard clustering which allows one data belong to two or more clusters. Soft clustering such as fuzzy c-means and rough k-means have been proposed and successfully applied to deal with uncertainty and vagueness. However, the influx of very large amount of noisy and blur data increases difficulties of parallelization of the soft clustering techniques. The question is how to deploy clustering algorithms for this tremendous amount of data to get the clustering result within a reasonable time. This paper provides an overview of the mainstream clustering techniques proposed over the past decade and the trend and progress of clustering algorithms applied in big data. Moreover, the improvement of clustering algorithms in big data are introduced and analyzed. The possible future for more advanced clustering techniques are illuminated based on today's information era.

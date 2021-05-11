@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Although motion estimation (ME) approaches for fluid flows have been widely studied in computer vision domain, most existing ME algorithms cannot accurately deal with regions with both slight and drastic brightness changes. To address this issue, this paper introduces a novel data structure called brightness distribution matrix (BDM) which can be used to accurately model regional brightness. Based on our proposed consistency constraints and energy function, we can obtain motion vectors from image sequences with high accuracy. Since the BDM-based ME approach requires a large number of computations when dealing with complex fluid scenarios, to reduce the overall ME time, a parallelized version of our approach is developed based on graphics processing unit (GPU). Experimental results show that our GPU-based approach not only can be used to improve the ME quality for complex fluid images, but also can reduce the overall ME processing time (up to 7.06 times improvement).

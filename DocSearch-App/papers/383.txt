@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+An experimental technique based on time-averaged circular geometric moire for optical measurement of angular oscillations is presented in this paper. The pitch of the circular moire is preselected in such a way that angular oscillations of different amplitudes yield time-averaged moire fringes at different locations of the cover image. This optical effect enables to construct an optical scale for direct measurement of angular oscillations. The proposed technique is similar to visual cryptography, which is a cryptographic technique that allows encryption of visual information in such a way, that decryption can be done without use of any computational device. The efficiency and the applicability of the proposed technique for performance degradation prediction of rotating mechanical components is illustrated and validated by computational simulations and experimental tests.

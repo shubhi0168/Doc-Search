@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+For a given septic Bezier curve with a distinct ordered sequence of control points, how to determine whether it is a PH curve via exact symbolic computation in theory. This problem motivated the study of a necessary and sufficient condition for a planar septic Bezier curve to possess a Pythagorean hodograph (PH). Based on the definition of a PH curve and the complex representation of a planar curve, we develop geometric conditions in terms of the leg-lengths and angles of a control polygon that must be separated to guarantee the PH property. The relation between the compatibility of solutions with respect to the complex coefficients of PH equations and geometric constraints is analyzed. Moreover, PH septic curves with inflections are extended to construct S-shaped transition curves. (C) 2015 Elsevier B.V. All rights reserved.

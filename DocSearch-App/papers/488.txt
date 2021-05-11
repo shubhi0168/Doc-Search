@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+As synchrophasor data start to play a significant role in power system operation and dynamic study, data processing and data analysis capability are critical to wide-area measurement systems (WAMSs). The frequency monitoring network (FNET/GridEye) is a WAMS network that collects data from hundreds of frequency disturbance recorders at the distribution level. The previous FNET/GridEye data center is limited by its data storage capability and computation power. Targeting scalability, extensibility, concurrency, and robustness, a distributed data analytics platform is proposed in this paper to process large volume, high velocity dataset. A variety of real-time and non-realtime synchrophasor data analytics applications are hosted by this platform. The computation load is shared with balance by multiple nodes of the analytics cluster, and big data analytics tools such as Apache Spark are adopted to manage large volume data and to boost the data processing speed. Future data analytics applications can be easily developed and plugged into the system with simple configuration.

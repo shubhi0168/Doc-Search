@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+For given positive integers tinfinity)R(2)(s) exists or not. If it does exist, then their results indicate that the limit is between 0.494 and 0.625. In this paper we completely solve the problem by showing that lim(s ->infinity)R(2)(s) = 0.5. (C) 2016 Published by Elsevier B.V.

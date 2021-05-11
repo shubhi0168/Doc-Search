@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+An increasing number of wireless Internet users and deployed wireless access points over the past several years and have raised the importance of wireless security issues. The absolute majority of wireless users are not IT professionals, but a population unaware of wireless security types, settings and importance. Wireless security assessment and analytics can help in raising the security awareness of users and in increasing their skills, leading to improvement of the entire security situation. In this paper a short overview of wireless security assessment and history is presented. The methodology and tools for a more accurate wireless security assessment, including data acquisition, processing and analysis, are offered. The proposed methodology and tools are used for processing wireless scan results for the two capital cities, Hungary (Budapest) and Serbia (Belgrade). The possibility of access point configuration changes and security improvement has also been investigated. The research results and potential improvements of wireless security situation are discussed.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Human gait recognition, an active research topic in computer vision, is generally based on data obtained from images/videos. We applied computer vision technology to classify pathology-related changes in gait in young children using a foot-pressure database collected using the GAITRite walkway system. As foot positioning changes with children's development, we also investigated the possibility of age estimation based on this data. Our results demonstrate that the data collected by the GAITRite system can be used for normal/pathological gait classification. Combining age information and normal/pathological gait classification increases the accuracy of the classifier. This novel approach could support the development of an accurate, real-time, and economic measure of gait abnormalities in children, able to provide important feedback to clinicians regarding the effect of rehabilitation interventions, and to support targeted treatment modifications.

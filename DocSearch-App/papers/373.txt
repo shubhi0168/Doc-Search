@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+An effective lane detection algorithm employing the Hough transform and inverse perspective mapping to estimate distances in real space is utilized to send steering control commands to a self-driving vehicle. The vehicle is capable of autonomously traversing long stretches of straight road in a wide variety of conditions with the same set of algorithm design parameters. Better performance is hampered by slowly updating inputs to the steering control system. The 5 frames per second (FPS) using a Raspberry Pi 2 for image capture and processing can be improved to 23 FPS with an Odroid XU3. Even at 5 FPS, the vehicle is capable of navigating structured and unstructured roads at slow speed.

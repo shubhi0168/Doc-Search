@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Global optimisation of unknown noisy functions is a daunting task that appears in domains ranging from games to control problems to meta-parameter optimisation for machine learning. We show how to incorporate heuristics to Stochastic Simultaneous Optimistic Optimization (STOSOO), a global optimisation algorithm that has very weak requirements from the function. In our case, heuristics come in the form of Covariance Matrix Adaptation Evolution Strategy (CMA-ES). The new algorithm, termed Guided STOSOO (STOSOO-G), combines the ability of CMA-ES for fast local convergence (due to the algorithm following the "natural" gradient) and the global optimisation abilities of STOSOO. We compare all three algorithms in the "harder" parts of the Comparing Continuous Optimisers on Black-Box Optimization Benchmarking benchmark suite, which provides a default set of functions for testing. We show that our approach keeps the best of both worlds, i.e. the almost optimal exploration/exploitation of STOSOO with the local optimisation strength of CMA-ES.

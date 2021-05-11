@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming education has practice-oriented as well as theory-oriented learning goals. Here, lab work plays an important role in students' learning. It is however widely reported that many students face great difficulties in learning theory as well as practice. This paper investigates the important but problematic relation between the learning of theory and the learning of practice for novice programming students. A phenomenographic and variation theoretical analysis on novice students' understanding of concepts is combined with a variation theoretical analysis on students' programming activities. It is shown that different levels of practical proficiency as well as different levels of conceptual understandings are related to dimensions of variation. The paper proposes a way to describe how students' learning of practice and concepts are related. In this way it extends traditional use of phenomenography and variation theory by discussing students' learning of practice as well as concepts, and specifically how these relate.

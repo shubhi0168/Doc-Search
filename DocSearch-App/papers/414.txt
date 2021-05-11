@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Application of smart grid produces massive data. Unfortunately, the traditional analysis of power systems can not process such a huge volume of data in an efficient manner. Distributed computing like Map-Reduce framework in cloud environment can provide a promising solution to this problem by processing the data in parallel on a large amount of computing nodes. In this paper, we parallelize power flow calculation based on Map-Reduce programming framework and evaluate the efficiency. T he classic NewtonRaphson method commonly used in power flow calculation is totally parallelized. To solve sparse linear equations in Map-Reduce framework, the factorization tree is carefully partitioned and in turn, all the variables in subtrees which are independent with each other can be calculated in parallel. Moreover, to map the proposed algorithm into MapReduce jobs, we also define the appropriate formats for the input, intermediate and output data. Experimental results demonstrate that the effectiveness of the proposed scheme.

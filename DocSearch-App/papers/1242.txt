@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Data-related businesses is an emerging trend in the recent decade. However, the availability and amount of information make it difficult to ensure quality in terms of data fusion and version control. Completely automated data aggregation systems fail to provide reliable and consistent data. In this paper we summarise existing knowledge on relation databases and augment it with description of business requirements for data version control. We propose an architecture that addresses the requirements, and discuss possible future work to improve and evaluate the approach.

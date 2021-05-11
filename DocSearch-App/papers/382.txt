@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+An enormous growth in internet usage has resulted into great amounts of digital data to handle. Data sharing has become significant and unavoidable. Data owners want the data to be secured and perennially available. Data protection and any violations thereby become crucial. This work proposes a traitor identification system which securely embeds the fingerprint to provide protection for numeric relational databases. Digital data of numeric nature calls for preservation of usability. It needs to be done so by achieving minimum distortion. The proposed insertion technique with reduced time complexity ensures that the fingerprint inserted in the form of an optimized error leads to minimum distortion. Collusion attack is an integral part of fingerprinting and a provision to mitigate by avoiding the same is suggested. Robustness of the system against several attacks like tuple insertion, tuple deletion etc. is also depicted.

@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+For successful software system, maintenance efforts dominate initial development costs by far. However, research and practice still place most of the attention on the initial development phase. In consequence, companies suffer mission-critical systems that are extremely hard to maintain. To better support practitioners in writing maintainable software, we both need an empirically sound understanding of software properties that help or hinder maintenance and tools that are useful in practice. This requires work that includes both research and practitioner perspectives. In this article, I outline my work towards this goal.

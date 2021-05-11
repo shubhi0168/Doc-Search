@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Astronomical data does not always use Cartesian coordinates. Both all-sky observational data and simulations of rotationally symmetric systems, such as accretion and protoplanetary disks, may use spherical polar or other coordinate systems. Standard displays rely on Cartesian coordinates, but converting non-Cartesian data into Cartesian format causes distortion of the data and loss of detail. Here, I. demonstrate a method using standard techniques from computer graphics that avoids these problems with three-dimensional data in arbitrary coordinate systems. The method adds minimum computational cost to the display process and is suitable for both realtime, interactive content, and producing fixed rendered images and videos. Proof-of-concept code is provided which works for data in spherical polar coordinates.

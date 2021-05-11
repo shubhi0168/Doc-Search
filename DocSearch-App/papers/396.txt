@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Analytic two-dark soliton solutions for a variable-coefficient nonlinear Schrodinger equation are obtained via modified Hirota method. Parallel solitons are observed and soliton control such as the soliton compression is realized with different group velocity dispersion profiles. Besides, soliton interactions are investigated with the interaction distance being adjusted. In addition, soliton repulsive structures as well as attractive ones are obtained with exponential dispersion profile. Results in our research may be useful for the soliton control in inhomogeneous optical fibers, which will be a benefit to the realistic optical communication systems. (C) 2016 Elsevier Ltd. All rights reserved.

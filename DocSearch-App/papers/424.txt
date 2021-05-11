@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Architects around the world search for new forms of buildings. Many interesting shapes are derived from geometry and theory of surfaces. Among them the minimal surfaces discovered by Heinrich Scherk deserve special attention due to their esthetical values. One kind of them turns out to be especially suitable for shaping facades of tall buildings. The present paper makes use of Weierstrass-Enneper parameterization to construct these surfaces by explicit formulae. Selected surfaces are implemented in the symbolic computation software. Upon exporting the models to the CAD system one obtains possibility of designing sketches ready to use in the engineering practice. (C) 2015 The Authors. Published by Elsevier Ltd.

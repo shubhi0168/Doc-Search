@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Attacks against web-based applications is one of the most serious network security threats. At present, web-based attacks are so complex that single detection method is unable to cope with the emerging attacks. Motivated by this, we efficiently merge both misuse detection and anomaly detection, and propose a hybrid model for web log intrusion detection. Considering that a web log request contains the majority of attack features, we propose a method to extract feature vectors of HTTP request to distinguish abnormal behaviors of users. Particularly, we construct a normal access model based on request feature vectors by using K-means clustering algorithm. The test data indicate that compared to single intrusion detection model, the hybrid intrusion detection model proposed can effectively improve the detection rate and reduce the false alarm rate.

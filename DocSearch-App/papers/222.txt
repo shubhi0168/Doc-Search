@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+According to a recent Gartner report, Turkey is now to be considered in one of the world's outsourcing destinations since it has secured its place in the list of top 30 countries for Information Technology ( IT), and offshore services. In the last decade, the country has made excellent progress in the software sector, and this is reflected in the rise of its exports to many countries. In this article, we present an overview of advancement of Turkey's software sector, including current trends in software process, testing, quality, and the adoption of agile methods along with techno parks and incentives provided by the government.

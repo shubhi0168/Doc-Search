@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A nonlinear Schrodinger equation with self-consistent sources can be used to describe the interaction between an high-frequency electrostatic wave and an ion-acoustic wave in two-component homogeneous plasmas. In this paper, breather and rogue waves solutions for such a system are investigated via the Darboux transformation. The spatially and temporally periodic breathers have been found. When the cubic nonlinearity coefficient and the background amplitude are varied, the propagating trajectories of breather are changed. The interaction between two breathers are also studied, which shows that when the wave numbers are close, the two breathers are partially coalesced. All of the first-, second-, and third-order rogue waves present certain lumps or valleys around a center in the temporal-spatial distribution, and the peak heights of the ion-acoustic waves are more than three times those of the background. However, for the high-frequency electrostatic waves, the values around the centers are less than the background intensity.

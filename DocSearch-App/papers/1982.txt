@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+In distributed computing environment, task scheduling is one of the most important factors that affect the overall efficiency of the system. Task scheduling has been proved to be a NP-completeness problem, and the only way to solve this kind of problem is the method of exhaustion. Genetic algorithm is one of the best algorithms can solve the NP-completeness problem, which has the ability to quickly approach the optimal solution. However, there are still some shortcomings of genetic algorithm, such as the problem of premature convergence. In this paper, an improved genetic algorithm called genetic algorithm with geographical isolation is proposed. It restrains the excessive growth phenomenon of individuals by dividing the population, effectively solves the problem of premature convergence in genetic algorithm. In this paper, several sets of experiments are made to compare the operating efficiency and the final allocation effect of the algorithm and other scheduling algorithms, which prove that the algorithm can improve the efficiency of the algorithm without affecting the quality of the final solution.

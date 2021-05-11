@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+C is a basic computer language widely used in both industry and education. Many computer programming beginners choose C as the first computer language to learn. But it is difficult for the beginners, especially for high-school students, to learn C programming because the learning supporting environment is not enough. This research proposes PROVIT(PROgramming VIsualization Tool) for Web, an e-Learning supporting environment for C programming education. PROVIT for Web has many features: (1) It can be used to write, run and check C programs without installing any IDE; (2) It especially can be used at lecture to show the execution of C program step by step; and (3) It can detect more run time error often seen in beginner's program. Web PROVIT has been used in a C programming course in author's university. This paper reports the design, implementation and the result of experimental use of PROVIT for Web.

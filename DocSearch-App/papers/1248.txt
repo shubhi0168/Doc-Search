@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Decomposing a divisor over a suitable factor basis in the Jacobian of a hyperelliptic curve is a crucial step in an index calculus algorithm for the discrete log problem in the Jacobian. For small genus curves, in the year 2000, Gaudry had proposed a suitable factor basis and a decomposition method. In this work, we provide a new method for decomposition over the same factor basis. The advantage of the new method is that it admits a sieving technique which removes smoothness checking of polynomials required in Gaudry's method. Also, the total number of additions in the Jacobian required by the new method is less than that required by Gaudry's method. The new method itself is quite simple and we present some example decompositions and timing results of our implementation of the method using Magma.

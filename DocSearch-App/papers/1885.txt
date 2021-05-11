@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Hypergraph partitioning is commonly used in solving very large scale integration (VLSI) placement problem, data mining, sparse matrix multiplication, and parallel computing. This paper presents a novel heuristic for hypergraph partitioning based on nonlinear programming. In our approach we consider adjacent one-dimensional bins. Since the reduction of cuts is equivalent to reducing the net length across the two bins, the vertices are moved across the bins in such a way that the density of vertices in each bin is balanced as per the partitioning requirement and reduction in the wirelength. For the Walshaw partitioning benchmarks, our tool NAPs' results are consistently comparable to that obtained by Chaco. Our tool NAP produces better cuts than Chaco on 22 instances out of 29 graph samples.

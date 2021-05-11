@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A new method for obtaining random bijective S-boxes based on discrete chaotic map is presented. The proposed method uses a discrete chaotic map based on the composition of permutations. The obtained S-boxes have been tested on the number of criteria, such as bijection, nonlinearity, strict avalanche criterion, output bits independence criterion, equiprobable input/output XOR distribution and maximum expected linear probability. The results of performance test show that the S-box presented in this paper has good cryptographic properties. The advantage of the proposed method is the possibility to achieve large key space, which makes it suitable for generation of S-boxes for larger values of n. Also, because this method uses discrete chaotic map based on the composition of permutations which has finite space domain, there is no need for discretization of continuous values of chaotic map, so the process of generation of S-boxes is not affected by approximations of any kind.

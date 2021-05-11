@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Image denoising is one of the fundamental and essential tasks within image processing. In medical imaging, finding an effective algorithm that can remove random noise in MR images is important. This paper proposes an effective noise reduction method for brain magnetic resonance (MR) images. Our approach is based on the collateral filter which is a more powerful method than the bilateral filter in many cases. However, the computation of the collateral filter algorithm is quite time-consuming. To solve this problem, we improved the collateral filter algorithm with parallel computing using GPU. We adopted CUDA, an application programming interface for GPU by NVIDIA, to accelerate the computation. Our experimental evaluation on an Intel r Xeon r CPU E5-2620 v3 2.40GHz with a NVIDIA Tesla K40c GPU indicated that the proposed implementation runs dramatically faster than the traditional collateral filter. We believe that the proposed framework has established a general blueprint for achieving fast and robust filtering in a wide variety of medical image denoising applications.

@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Aim of this paper was to assess the discrimination power of a novel ultrasound (US) parameter, called the Fragility Score (F.S.), in the early identification of subjects prone to osteoporotic fractures. A total of 102 female patients were recruited: 49 with a recent osteoporotic fracture ("frail" subjects), 53 were controls without fracture history ("non-frail" subjects). All the patients underwent a spinal DXA (dual X-ray absorptiometry) and an abdominal US scan of lumbar vertebrae. Acquired US data were analyzed by a novel algorithm, which calculated the F.S. through spectral and statistical analyses involving both echo graphic images and corresponding "raw" signals. F.S. showed a good performance in discriminating "frail" from "non-frail" subjects (sensitivity = 76%, specificity = 68%), resulting even slightly more effective than DXA-measured BMD (sensitivity = 73%, specificity = 66%). This methodology has a potential to become an effective tool for the early identification, and timely treatment, of "frail" subjects. (C) 2016 Elsevier Ltd. All rights reserved.

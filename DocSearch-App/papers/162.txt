@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+A prominent software security violation-buffer overflow attack has taken various forms and poses serious threats until today. One such vulnerability is return-oriented programming attack. An return-oriented programming attack circumvents the dynamic execution prevention, which is employed in modern operating systems to prevent execution of data segments, and attempts to execute unintended instructions by overwriting the stack exploiting the buffer overflow vulnerability. Numerous defense mechanisms have been proposed in the past few years to mitigate/prevent the attack - compile time methods that add checking logic to the program code before compilation, dynamic methods that monitor the control-flow integrity during execution and randomization methods that aim at randomizing instruction locations. This paper discusses (i) these different static, dynamic, and randomization techniques proposed recently and (ii) compares the techniques based on their effectiveness and performances. Copyright (c) 2015 John Wiley & Sons, Ltd

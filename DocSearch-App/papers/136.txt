@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+A novel switching circuitry for fully differential millimetre-wave applications is presented. The structure of the proposed switching architecture includes 90 nm CMOS transistors and a distributed-active-transformer. To minimise the chip size, an innovative topology based on lumped components is investigated, resulting a total size of <0.025 mm(2). The performance of the designed switch is validated within a dual-mode local oscillator-distribution circuitry of a V-band transceiver.

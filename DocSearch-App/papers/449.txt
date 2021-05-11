@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+As a result of the rapid growth in popularity of portable digital devices in recent years, the power requirements for computer operating systems used in these devices have also rapidly increased as both their complexity and processing power have increased. Compared with systems based on DRAM as main memory, PCM (Phase change memory), a new memory technology, can significantly reduce power consumption because data stored in PCM does not disappear when the device is powered down. This paper will first discuss several PCM-RAM-based hybrid systems. In these systems, the amount of read-only data influences the design of the hybrid structure. In the experiment section, it was found that almost 80% of data was semi-read-only.

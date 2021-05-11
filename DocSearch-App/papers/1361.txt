@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Distributed Computing has achieved tremendous development since cloud computing was proposed in 2006, and played a vital role promoting rapid growth of data collecting and analysis models, e.g., Internet of things, Cyber-Physical Systems, Big Data Analytics, etc. Hadoop has become a data convergence platform for sensor networks. As one of the core components, MapReduce facilitates allocating, processing and mining of collected large-scale data, where speculative execution strategies help solve straggler problems. However, there is still no efficient solution for accurate estimation on execution time of run-time tasks, which can affect task allocation and distribution in MapReduce. In this paper, task execution data have been collected and employed for the estimation. A two-phase regression (TPR) method is proposed to predict the finishing time of each task accurately. Detailed data of each task have drawn interests with detailed analysis report being made. According to the results, the prediction accuracy of concurrent tasks' execution time can be improved, in particular for some regular jobs.

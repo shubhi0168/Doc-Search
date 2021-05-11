@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+A design of an advanced-reliability piezoelectric transducer of acoustic emission (AE) is suggested. The advanced reliability is achieved by eliminating the main reasons that lead to failures; duplicating/backing the main operating systems; and imparting redundant or extended technical capabilities to the transducer design that make it possible to compensate for partial or complete performance loss of the antenna group. It is shown that given such a design approach, it is feasible to achieve technical characteristics that are stipulated for industrial acoustic-emission transducers. Theoretical estimates of transducer reliability are presented that show that a combination of backing of AE registration channels with different versions of their connection gives ample opportunities for governing the reliability of sensors during their usage/service life.

@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Digital Image Processing can be mentioned as computer image processing. It refers to a process within which image signals are transformed into digital ones and computers will be applied to the process of transformation so as to generate images that should be received by human vision or receiving devices of other types. Mathematics serves as the base of digital image processing and its primary missions include algorithm design and realization of the algorithm. By utilization of computers, a multitude of image data can be processed [1]. MATLAB has already gained its reputation as one of the most excellent mathematical application software with high competence for scientific calculation. The software assists image processing engineers and scientific researchers by offering a more visible and reliable development tool, which is named Image Processing Toolbox [2]. To design an image processing system, and to discourse the image display, this paper conducts image drawing and picture processing through the system on the basis of digital image processing environment of MATLAB.

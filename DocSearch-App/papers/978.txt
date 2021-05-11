@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Computational complexity of public key cryptography over sensor nodes is not anymore a blocking concern in modern devices which natively (and efficiently) support elliptic curve cryptography. The problem has rather shifted toward the significant airtime consumption required to exchange multiple messages and certificates so as to perform authentication and key agreement. This letter addresses such problem by exploiting implicit certificates (elliptic curve Qu-Vanstone). We specifically propose a novel key management protocol (KMP) which suitably integrates implicit certificates with a standard elliptic curve Diffie-Hellman exchange, and performs authentication and key derivation. As confirmed by a proof-of-concept implementation and relevant experimental results, the proposed KMP guarantees maximal airtime savings (up to 86.7%) with respect to conventional approaches, robust key negotiation, fast rekeying, and efficient protection against replay attacks.

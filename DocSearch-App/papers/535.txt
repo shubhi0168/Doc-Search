@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Attack intention recognition is to reason and judge the goal of attackers according to attack behavior and network environment. In order to deal with the dynamical character of offense-defense confrontation, a dynamical real-time network attack intention recognition algorithm was proposed. By correlating real-time security alerts and vulnerabilities, we recognized the spread route and stage of attacks based on graph theory and probability theory. Then we identified the attack intention and predicted the possible transition of attacks, combined with network connectivity relationship. A simulation experiments for the proposed network attack intention recognition algorithm is performed by network examples. The experimental results show that the proposed method can be more accurately identify attack intention and fully predict the post stage of attacks.

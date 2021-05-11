@@ -1,0 +1,5 @@
+CS 
+
+ Bioinformatics  
+
+Amifostine, 2-(3-aminopropyl) aminoethyl phosphorothioate, is a broad-spectrum cytoprotective agent used to treat nuclear radiation and chemical weapon injuries. Recently, amifostine has been shown to have a profound biological influence on tumor cells. To examine the effects and mechanisms underlying the effects of amifostine on human acute megakaryocytic leukemia, we evaluated the efficacy of amifostine against Dami cells and observed a cell cycle arrest in G(2)/M phase. Amifostine treatment also induced cell apoptosis of Dami cells which corresponds to formal studies. Through whole-genome microarray and bioinformatics analyses, we found that amifostine affected the gene expression of CCND1,BCL2, and CASP3 which revealed the mechanism amifostine acted on Dami cells. Thus, CCND1-BCL2 Gene Network is predicted to be a direct target of amifostine treating human acute megakaryocytic leukemia, which may provide a novel potential target for the therapy of several subtypes of human AML.

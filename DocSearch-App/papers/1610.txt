@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Filters with slowly decaying impulse responses have many uses in computer graphics. Recursive filters are often the fastest option for such cases. In this paper, we derive closed-form formulas for computing the exact initial feedbacks needed for recursive filtering infinite input extensions. We provide formulas for the constant-padding (e.g. clamp-to-edge), periodic (repeat) and even-periodic (mirror or reflect) extensions. These formulas were designed for easy integration into modern block-parallel recursive filtering algorithms. Our new modified algorithms are state-of-the-art, filtering images faster even than previous methods that ignore boundary conditions.

@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Data Communication and network have changed the way business and other daily affair works. Now, they rely on computer network and internetwork. Computer network is a telecommunication channel through which we can share our data. It is also called data network. Security for data transmission is one of the important aspects to be considered in modern communication system. In this paper data that is to be transferred is sent in certain pattern which is embedded in the huge amount of data that can be seen by everyone. The effectiveness of the proposed method is described in such a way to increase security of data. To hide data in a binary image, no key is needed here rather this algorithm is based on binary tree traversal through which the bits are plotted in MSB (Most Significant Bit), LSB(Least Significant bit) and MIDDLE bit of a byte. The proposed algorithm assures the data hiding and security.

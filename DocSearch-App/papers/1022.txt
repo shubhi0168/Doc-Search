@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer programming is one of the main skills that students gain when they graduate from computer science programs. However, students often have significant difficulties with their programming skills. This paper is based on a survey study that summarizes the primary reasons for students difficulties in this area. In addition, methodologies, such as seeing the software big picture and pair programming, are suggested by which students can improve their programming skills. These methods are adapted from software engineering subdisciplines.

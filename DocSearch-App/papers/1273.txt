@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Describing the dispersion decreasing fiber, a variable-coefficient nonlinear Schrodinger equation is hereby under investigation. Three transformations have been obtained from such a equation to the known standard and cylindrical nonlinear Schrodinger equations with the relevant constraints on the variable coefficients presented, which turn out to be more general than those previously published in the literature. Meanwhile, several families of exact dark-soliton-like and bright-soliton-like solutions are constructed. Also, we obtain some similarity solutions, which can be illustrated in terms of the elliptic and the second Painleve transcendent equations.

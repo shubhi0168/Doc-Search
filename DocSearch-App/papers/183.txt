@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+A series of experiments were conducted in a flume to study bed-load transport. The motion of bed-load particles was captured by a series of images taken by a high-speed camera.A novelparticle motion tracking method was developed to automatically detect all the moving particles and calculate the instantaneous particle velocities. The instantaneous bed load transport rate was calculated based on particle velocity and the volume of moving particles. To verify this method, bed load transport rate based on the image processing technique was compared to the manually measured ones as well as data from other experiments. Results showed that the new technique made it possible to quantify the spatial and temporal variations of bed load transport rate at the individual particle scale. (C) 2016 International Research and Training Centre on Erosion and Sedimentation/the World Association for Sedimentation and Erosion Research. Published by Elsevier B.V. All rights reserved.

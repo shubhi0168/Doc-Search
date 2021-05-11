@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Aim: Alzheimer's disease patients are increasing rapidly every year. Scholars tend to use computer vision methods to develop automatic diagnosis system. (Background) In 2015, Gorji et al. proposed a novel method using pseudo Zernike moment. They tested four classifiers: learning vector quantization neural network, pattern recognition neural network trained by Levenberg-Marquardt, by resilient backpropagation, and by scaled conjugate gradient. Method: This study presents an improved method by introducing a relatively new classifier-linear regression classification. Our method selects one axial slice from 3D brain image, and employed pseudo Zernike moment with maximum order of 15 to extract 256 features from each image. Finally, linear regression classification was harnessed as the classifier. Results: The proposed approach obtains an accuracy of 97.51%, a sensitivity of 96.71%, and a specificity of 97.73%. Conclusion: Our method performs better than Gorji's approach and five other state-of-the-art approaches. Therefore, it can be used to detect Alzheimer's disease.

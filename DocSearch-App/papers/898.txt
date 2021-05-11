@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Cloud computing is a paradigm in which information is permanently stored in servers on the Internet and cached temporarily on clients. Virtual private network (VPN) is the most widely used technology for secure cloud access. Unfortunately, VPN-based cloud services become unavailable when a VPN failure occurs. In this paper, we propose a new scheme to improve the availability of VPN connections against such failures, called high-availability virtual communication (HAVC). Unlike most of the multipath transmission schemes in the literature, the proposed scheme is implemented by using a virtualization technique, and its protocol functions are independent of existing networks - potential clients are not required to modify their applications or operating systems. Simulation results show that the HAVC can not only tolerate VPN failures but also achieve high transmission performance.

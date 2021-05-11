@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Cointegration analysis is particularly sensitive to outlying observations. Traditional robust approaches rely on parameter estimates based on weighting schemes to penalize aberrant units. This, in particular, is the idea underlying pseudo maximum likelihood robust estimators. Atypical observations, however, can reveal useful information about the investigated phenomenon. Aiming to detect these observations, we extend the forward search procedure to the cointegrated vector autoregressive model. The analysis is carried out by building up subsets of increasing dimension and monitoring suitable statistics at each subset size. Simulation experiments and real data analysis highlight that our forward search is more effective than the pseudo maximum likelihood in detecting atypical units and data structures.

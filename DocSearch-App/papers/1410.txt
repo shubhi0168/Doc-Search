@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Due to technical bottlenecks and errors caused by artificial operation, the problem of incomplete data always exists in big data research. Traditional data imputation algorithms incur high complexity and the accuracy cannot reach the desired level. At the same time, analysis and computation involved in mass data makes limitation of traditional algorithms and computing platform more noticeable. In this paper, we propose a data imputation method based on Apriori algorithm, and implement the corresponding algorithm on the distributed computing system built with Spark, The experimental results show that the proposed algorithm outperforms a traditional data imputation algorithm in terms of efficiency and accuracy.

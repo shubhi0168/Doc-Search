@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Crowd simulation is studied extensively in computer graphics, animation, and safety. A real-time crowd simulator has been developed based on potential fields and agent approach in this article. This simulator produces realistic complex heterogeneous motion and improves the simulation rates by at least 32% in comparison with the potential field results. The model of this simulator can efficiently tackle the problems in global optimal navigation, collision avoidance, and dynamic interaction; furthermore, it allows an agent to make independent decisions.

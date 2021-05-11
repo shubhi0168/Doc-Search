@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Basic graph structures such as maximal independent sets (MIS's) have spurred much theoretical research in randomized and distributed algorithms, and have several applications in networking and distributed computing as well. However, the extant (distributed) algorithms for these problems do not necessarily guarantee fault-tolerance or load-balance properties. We propose and study low-average degree or sparse versions of such structures. Interestingly, in sharp contrast to, say, MIS's, it can be shown that checking whether a structure is sparse, will take substantial time. Nevertheless, we are able to develop good sequential/distributed (randomized) algorithms for such sparse versions. We also complement our algorithms with several lower bounds. Randomization plays a key role in our upper and lower bound results. (c) 2016 Wiley Periodicals, Inc. Random Struct. Alg., 49, 322-344, 2016

@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Building fractional mathematical models for specific phenomena and developing numerical or analytical solutions for these fractional mathematical models are crucial issues in mathematics, physics, and engineering. In this work, a new analytical technique for constructing and predicting solitary pattern solutions of time-fractional dispersive partial differential equations is proposed based on the generalized Taylor series formula and residual error function. The new approach provides solutions in the form of a rapidly convergent series with easily computable components using symbolic computation software. For method evaluation and validation, the proposed technique was applied to three different models and compared with some of the well-known methods. The resultant simulations clearly demonstrate the superiority and potentiality of the proposed technique in terms of the quality performance and accuracy of substructure preservation in the construct, as well as the prediction of solitary pattern solutions for time-fractional dispersive partial differential equations. (C) 2014 Elsevier Inc. All rights reserved.

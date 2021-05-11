@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Facial images embed age, gender, and other rich information that is implicitly related to occupation. In this work, we advocate that occupation prediction from a single facial image is a doable computer vision problem. We extract multilevel hand-crafted features associated with locality-constrained linear coding and convolutional neural network features as image occupation descriptors. To avoid the curse of dimensionality and over-fitting, a boost strategy called multichannel SVM is used to integrate features from face and body. Intra- and interclass visual variations are Jointly considered in the boosting framework to further improve performance. In the evaluation, we verify the effectiveness of predicting occupation from face and demonstrate promising performance obtained by combining face and body information. More importantly, our work further integrates deep features into the multichannel SVM framework and shows significantly better performance over the state of the art.

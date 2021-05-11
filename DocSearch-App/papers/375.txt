@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+An effective way to learn computer programming is to sit side-by-side in front of the same computer with a tutor or peer, write code together, and then discuss what happens as the code executes. To bring this kind of in-person interaction to an online setting, we have developed Codechella, a multi-user Web-based program visualization system that enables multiple people to collaboratively write code together, explore an automatically-generated visualization of its execution state using multiple mouse cursors, and chat via an embedded text box. In nine months of live deployment on an educational website - www.pythontutor.com people from 296 cities across 40 countries participated in 299 Codechella sessions for both tutoring and collaborative learning. 57% of sessions connected participants from different cities, and 12 % from different countries. Participants actively engaged with the program visualizations while chatting, showed affective exchanges such as encouragement and banter, and indicated signs of learning at the lower three levels of Bloom's taxonomy: remembering, understanding, and applying knowledge.

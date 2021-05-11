@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Humanitarian aid information, e.g., information on the occurrences of disaster situations, victims, shelters, resources, and facilities, is usually rapidly dynamic, ambiguous, and huge. A system of humanitarian aid often involves data items frommultidisciplinary environments, some of which have similar meanings but appear structurally different in various data sources. To achieve semantic interoperability among humanitarian aid information systems to be exchanged meaningful information, this paper contributes a methodology for construction of an application-independent ontology and proposes a guideline for merging information from different databases through the application-independent ontology that helps people to integrate systems with minimal modification. We demonstrate how to develop an ontology for Humanitarian Aid for Refugee in Emergencies (HARE) as a common ontology for sharing and re-use the current knowledge bases. We discuss an approach to merging Relational Databases (RDBs) to heterogeneous hierarchical ontology.

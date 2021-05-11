@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Convolutional neural network (CNN), a well-known machine learning algorithm, has been widely used in the field of computer vision for its amazing performance in image classification. With the rapid growth of applications based on CNN, various acceleration schemes have been proposed on FPGA, GPU and ASIC. In the implementation of these specific hardware accelerations, the most challenging part is the implementation of 2D convolution. To obtain a more efficient design of 2D convolution in CNN, this paper proposes a novel technique, singular value decomposition approximation (SVDA) to reduce the usage of resources. Experimental results show that the proposed SVDA hardware implementation can achieve a reduction in resources in the range of 14.46% to 37.8%, while the loss of classification accuracy is less than 1%.

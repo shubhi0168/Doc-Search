@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Data Structures and Algorithms are a central part of Computer Science. Due to their abstract and dynamic nature, they are a difficult topic to learn for many students. To alleviate these learning difficulties, instructors have turned to algorithm visualizations (AV) and AV systems. Research has shown that especially engaging AVs can have an impact on student learning of DSA topics. Until recently, most AV systems were Java-based systems. But, the popularity of Java has declined and is being supplanted by HTML5 and JavaScript content online. In this paper, we present JSAV: the JavaScript AV development library. JSAV goes beyond traditional AV library support for displaying standard data structures components, to provide functionality to simplify creation of AVs on many engagement levels including interactive exercises. We describe the growing body of content created with JSAV and summarize our three years of experience and research results from using JSAV to build content that supports CS education.

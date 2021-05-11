@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Computer-assisted orthopedic surgery allows clinicians to have better results and decreases the number of early prosthetic replacements. Nevertheless, the patient follow-up from pre-operative diagnosis to post-operative control cannot be assessed in a constant referential. In this paper, a real-time algorithm that extracts bone edges from images and, then, derives bony landmarks from these edges is proposed. Indeed, we assess in real-time the bone structure positions via ultrasound imaging to create a useful referential for pre-operative, intra-operative and post-operative measurements. To assist the clinician while acquiring bony anatomical landmarks, the extraction of the bone-soft tissue interface and bony landmarks from ultrasound images is done automatically. The experimentations were performed on a database of images from healthy volunteers, and the obtained results showed the efficiency and the stability of the performance of the proposed method.

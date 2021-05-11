@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+As the course of computer operating system requires students to understand the interactions between computer systems, users and hardware platform, this paper concentrates on the problem of using the virtualization technology in computer operating system teaching. Particularly, virtualization technology is designed to simulate the real computer hardware environment, and then make the operating system run in a virtual computer environment. Because the virtual machine software can simulate real computer hardware equipment, several operating systems are supported, such as Microsoft Windows, Linux, and Unix etc. The main idea of this paper is to utilize the VMware software in operating system teaching. VMware provides a completely virtualized set of hardware for a specific operating system. Afterwards, we discuss how to design and implement an experimental platform with multiple operating systems based on VMware.

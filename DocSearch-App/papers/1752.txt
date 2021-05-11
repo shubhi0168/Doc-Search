@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Given two linear projections of maximal rank from P-k to P-h1 and P-h2 with k >= 3 and h(1) + h(2) >= k+1 the Grassmann tensor introduced by Hartley and Schaffalitzky (Int J Comput Vis 83(3):274-293, 2009. doi:10.1007/s11263-009-0225-1), turns out to be a generalized fundamental matrix. Such matrices are studied in detail and, in particular, their rank is computed. The dimension of the variety that parameterizes such matrices is also determined. An algorithmic application of the generalized fundamental matrix to projective reconstruction is described.

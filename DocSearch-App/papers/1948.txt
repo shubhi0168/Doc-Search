@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+In a strong designated verifier signature with message recovery (SDVSWMR) scheme, only the designated receiver has the capability to recover and validate the message-signature pair. In 2015, using the bilinear pairing, Islam and Biswas presented an SDVSWMR scheme (we call it: IsBi-SDVSWMR) with non-delegatability, which has better performance than other schemes in terms of communication and computation cost. However, in this study, we address that IsBi-SDVSWM scheme does not satisfy the security property of non-delegatability as they claimed and we present two types of delegatability attack to their scheme. We also propose a new and pairing-free SDVSWMR scheme that possesses the following security requirements: non-delegatability, unforgeability, non-transferability and privacy of signer's identity (PrSI). Compared our scheme with other existing related schemes, our scheme obtains better performance; that is, the computational cost is only 58%(lower) of IsBi-SDVSWM scheme (other schemes), and the communication cost is 800bits that is only 68%(lower) of IsBi-SDVSWM scheme (other schemes). Copyright (C) 2017 John Wiley & Sons, Ltd.

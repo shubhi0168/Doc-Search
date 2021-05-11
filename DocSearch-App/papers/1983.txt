@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+In distributed computing environments, frequent pattern mining by a multi-computing node can greatly improve mining efficiency. However, the drawback of memory limitations may cause interruption in the kernel and computing nodes when recursively building a frequent pattern (FP) tree or an FP-growth algorithm. In this paper, we propose disk-based FP-tree generation and node-based clustering mechanisms to solve the insufficient memory problem. Results from empirical evaluations show that the proposed method delivers excellent scalability.

@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Aiming at the problem that the fixed radio frequency identification (RFID) system with lightweight cryptography may be easily illegally controlled, a communication authentication protocol based on quantum key distribution using decoy-state method is proposed and developed in this study. A new RFID-system model using quantum key distribution is introduced, which indicates that the quantum keys are distributed to the RFID tags and reader and EPC information server via weakly coherent photons transmitted through optical fiber. This work mainly presents the protocol description with detailed theoretical analyses, including RFID system's initialization, the transmission, reception, and acquisition of the random quantum key, and the authentication process between the EPC information server and the RFID tag and reader. The security analysis of the protocol is finally carried out, which proves that the proposed protocol can prevent various eavesdropper's attacks with solid security.

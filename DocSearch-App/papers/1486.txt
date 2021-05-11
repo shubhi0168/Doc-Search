@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+E-learning is a new learning model based on computer, multimedia and network, and it is based on "constructivism education theory" and "humanistic education theory". After study the limits of classical methods of computer graphic experiment learning, this paper implemented an e-learning platform. This platform includes 4 parts: the basic knowledge module, the tools and material module, the learning and communication module, and the learning evaluation module. This platform can improve the interest and enthusiasm of student. It can achieve better learning effect.

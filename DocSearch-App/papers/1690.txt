@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Functional data analysis has become a major branch of nonparametric statistics and is a fast evolving field. Peter Hall has made fundamental contributions to this area and its theoretical underpinnings. He wrote more than 25 papers in functional data analysis between 1998 and 2016 and from 2005 on was a tenured faculty member with a 25% appointment in the Department of Statistics at the University of California, Davis. This article describes aspects of his appointment and academic life in Davis and also some of his major results in functional data analysis, along with a brief history of this area. It concludes with an outlook on new types of functional data and an emerging field of "random objects" that subsumes functional data analysis as it deals with more complex data structures.

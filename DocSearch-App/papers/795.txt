@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Binary tree traversal algorithm can be applied in many aspects, such as information encryption, Network, operating systems, cluster computing and so on. We have already proposed a useful method to verify the correctness of algorithmic programs based on Isabelle proof assistant and Dijkstra's weakness precondition theory, and have manually derived and verified binary tree traversal non-recursive algorithms in our previous work. In order to ensure the security of the non-recursive algorithms, the focus of this paper is to construct a unified recurrence-relations expression about preorder, in-order, and post-order binary tree traversal non-recursive algorithms. The recurrence-relations expression make it easier to derive the loop invariants of three algorithms. Meanwhile, we automatically verify the correctness of three kinds of non-recursive algorithms by using a generic proof assistant Isabelle. This work realizes mechanically automatic-verification and overcomes the intricacies and weakness of manual verification, improves the verification efficiency, and ensures the trustworthiness and reliability of the algorithm program.

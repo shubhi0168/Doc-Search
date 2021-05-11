@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+How to transfer the trained detector into the target scenarios has been an important topic for a long time in the field of computer vision. Unfortunately, most of the existing transfer methods need to keep source samples or label target samples in the detection phase. Therefore, they are difficult to apply to real applications. For this problem, we propose a framework that consists of a controlled convolutional neural network (CCNN) and a modulating neural network (MNN). In a CCNN, the parameters of the last layer, i.e., the classifier, are dynamically adjusted by a MNN. For each target sample, the CCNN adaptively generates a proprietary classifier. Our contributions include (1) the first detector-based unsupervised transfer method that is very suitable for real applications and (2) a new scheme of a dynamically adjusting classifier in which a new object function is invented. Experimental results confirm that our method can achieve state-of-the-art results on two pedestrian datasets. (C) 2017 SPIE and IS&T

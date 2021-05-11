@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Due to formal protection and commercial development, cultural ecology and cultural forms of vernacular architecture landscape that have local characteristics have been threatened seriously. However, at present the records of vernacular architecture landscape protection lack support of new and high technology. Three-dimensional panoramic hybrid technology can blend the virtual objects accurately into real environment through computer graphics and computer vision technology. This technique provides an effective way to express a stereoscopic three-dimensional real scene. In this research, three-dimensional panoramic hybrid technology is reasonably applied to implementation strategy and process of vernacular architecture landscape protection, which can make up the inadequacy of application field of vernacular architecture heritage protection, and can extend application of information technology based on 3-dimensional digitalization in architecture heritage protection at the same time.

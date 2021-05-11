@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Advances in database technologies are moving the attention of data managers from well known structured relational databases (SQL-Like DBs) towards NoSQL approaches, especially to address big data issues. However, changing technologies in consolidated data management system is hard and requires great investments. Deploying hybrid SQL-NoSQL approaches could be a good solution to speed up the transition in many domains and information systems, but a formal data model to design hybrid databases is necessary. This paper presents a new data model aimed at solving this issue. Starting from the well known E-R model, we introduce some additional components to identify data and "big data" in the system, in order to drive the implementation of SQL-like solutions to manage data, and NoSQL solutions to manage big data. The paper also discusses a Hospital Information System use case, to clearly show how the proposed enriched E-R model can be successfully adopted.

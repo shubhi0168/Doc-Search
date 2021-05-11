@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+A slow-paced persistent attack, such as slow worm or bot, can bewilder the detection system by slowing down their attack. Detecting such attacks based on traditional anomaly detection techniques may yield high false alarm rates. In this paper, we frame our problem as detecting slow-paced persistent attacks from a time series obtained from network trace. We focus on time series spectrum analysis to identify peculiar spectral patterns that may represent the occurrence of a persistent activity in the time domain. We propose a method to adaptively detect slow-paced persistent attacks in a time series and evaluate the proposed method by conducting experiments using both synthesized traffic and real-world traffic. The results show that the proposed method is capable of detecting slow-paced persistent attacks even in a noisy environment mixed with legitimate traffic.

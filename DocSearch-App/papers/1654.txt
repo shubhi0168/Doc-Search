@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+For ordinary differential equations which are polynomial in the dependent variable and its derivatives, two methods are provided to find, if possible, reductions to first-order ordinary differential equations. Computer codes for the underlying algorithms are also given. These techniques are applied to find new explicit solutions of relevant equations of Mathematical Physics. (C) 2015 Elsevier By. All rights reserved.

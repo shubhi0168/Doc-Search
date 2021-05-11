@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Bioinformatics is both an umbrella term for the body of biological studies that use computer programming as part of their methodology, as well as a reference to specific analysis "pipelines" that are repeatedly used, particularly in the fields of genetics and genomics. Data mining an interdisciplinary subfield of computer science is the computational process of discovering patterns in large data sets involving methods at the intersection of artificial intelligence, machine learning, statistics, and database systems. The overall goal of the data mining process is to extract information from a data set and transform it into an understandable structure for further use. Common uses of data mining in bioinformatics include the identification of candidate genes and nucleotides (SNPs). In the paper we proposed an association rule mining strategy for discovery SNP in Cancer sequences.

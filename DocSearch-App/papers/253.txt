@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Ad hoc networks are subject to multiple challenges, particularly the problem of limited resources such as energy and vulnerability in terms of security. Indeed, the nodes are subject to various attacks and malicious actions. Thus, each mobile is confronted with a dilemma: cooperate to ensure security, in this case the node spend a part of its energy, or not cooperate which allows it to save energy but making the security of the network more vulnerable. In this work, we develop an approach which takes into account two conflicting objectives: contribute to network security while reducing energy consumption. The approach is based on alternating two steps: Clustering-Evolutionary game. The clustering step is performed by an algorithm that takes into account the energy constraint in election of cluster-heads. The interactions between each pair of cluster-heads, when exchanging data, in their contribution to the security of the network, are modeled as an evolutionary game which is the second step of the proposed approach.

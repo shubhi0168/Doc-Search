@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+As recent heterogeneous system designs integrate general purpose processors, GPUs, and other specialized accelerator devices into a single platform to provide both power and performance benefits, it is important to support efficient dispatching mechanisms in terms of performance and programmability. This work proposes models for integrating hardware accelerators with applications executing under standard operating systems on an embedded processor. Instead of using direct mapping of accelerator units to user applications, or using legacy drivers that incur communication overheads and large programming effort, we develop an abstraction layer in kernel driver which driver communicates with a custom dispatcher to interface a number of hardware accelerators. At the same time we remove the need to include IOMMUs for virtual-to-physical translation from the device side, and the need to perform copies from user to kernel space when offtoading computational instensive tasks to the accelerators. We demonstrate the effectiveness of our solutions running real applications on a prototype hybrid heterogeneous System-on-Chip platform.

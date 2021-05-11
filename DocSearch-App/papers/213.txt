@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A Web-based knowledge database and computing platform for nonlinear differential equations is presented, which could provide computing and graphing based on symbolic computing system Maple and some of its built-in packages. Users can not only calculate specific types of analytical solutions of nonlinear differential systems by calling the packages, but also carry out any symbolic computations associated with equations and other kinds of simple computations in an interactive mode with visual output. The knowledge database of differential equations has all functions of the general database. Furthermore, each equation has a web page to show its properties and research results. In addition, each mathematica formula is stored in its infix form in the knowledge database and can be displayed visually.

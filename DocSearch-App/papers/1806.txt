@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Heisenberg-type models for spin-spin interactions have been used to explain magnetic ordering in ferromagnetic materials. In this paper, a generalized, inhomogeneous, nonlinear Schrodinger equation for the Heisenberg ferromagnetic spin system is investigated. By virtue of the generalized Darboux transformation, higher-order rogue-wave solutions are derived. Wave propagation and interaction are analyzed: (1) bright-rogue waves are found; (2) perturbation parametes and inhomogeneities in the medium of the system affect the direction and existing time of the first-order rogue-wave propagation; (3) perturbation parameters and inhomogeneities in the medium of the system affect the shapes, distances, patterns, and existing times of the second-and third-order rogue-wave interactions; (4) the direction of each second-order rogue wave remains unvaried after the interaction.

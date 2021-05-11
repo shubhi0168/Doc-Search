@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Computer Programming and related courses account for a large proportion in current information courses. Such courses typically include C/C++ language programming, VB language programming, Java language programming, C # language programming, data structures and algorithms. There are many common aspects in terms of knowledge points among programming courses. However, currently, the courses are taught separately. Furthermore, under the trend of shrinking time allocation and declining number of courses in undergraduate curriculum, it is critical to maximize the use of limited hours of programming courses to enhance teaching effectiveness. Based on inquiry-based teaching model in accordance with CDIO teaching philosophy, it is proposed in this paper to conduct programming curriculum group construction. Therefore, knowledge of program design courses within the group will be shared and courses instruction within the group will be coordinated. Knowledge sharing facilitates its application to experiments and projects, which can improve students' comprehensive capabilities, especially their ability to solve practical problems.

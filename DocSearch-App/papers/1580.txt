@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Facial expression reconstruction is an important issue in the field of computer graphics. While it is relatively easy to create an animation based on meshes constructed through video recordings, this kind of high-quality data is often not transferred to another model because of lack of intermediary, anthropometry-based way to do so. However, if a high-quality mesh is sampled with sufficient density, it is possible to use obtained feature points to encode the shape of surrounding vertices in a way that can be easily transferred to another mesh with corresponding feature points. In this paper we present a method used for obtaining information for the purpose of reconstructing changes in facial surface on the basis of selected feature points.

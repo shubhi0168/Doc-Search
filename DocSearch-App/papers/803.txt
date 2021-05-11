@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Bipedal locomotion has been an active area of research for many decades, it has wide ranging applications in the field of humanoid locomotion, as well as in the understanding of the biomechanics of normal human gait. Inherently human gait is a complex non-linear dynamic system, which is usually modeled by a set of differential equations satisfying a given set of constraints. In this paper an attempt has been made to view gait from the perspective of software engineering. In doing so, the entire gait cycle has been discretized into phases and sub-phases and modeled using a hybrid automaton, subsequently the automaton has been integrated with the BIP(Behavior, Interaction, Priority) framework, thereby creating a component based computational framework for modeling biped locomotion. The correctness of the developed model has been validated and verified through simulation runs in OpenSim. (C) 2016 Elsevier B.V. All rights reserved.

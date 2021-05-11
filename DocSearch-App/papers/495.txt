@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+As the development level of economy and society improves and technology changes quickly, human society informatization degree also deepens continuously. A distinguishing feature of information age is gradual promotion of internet and computer. Meanwhile, internet technology and computer technology also prevent a booming development trend. At present, internet and computer have successfully entered each field of production and life so that people's work, learning and living modes change greatly. Although internet technology and computer technology establish very close relationship with each field of social life, people cannot ignore potential safety hazard of internet and computer caused to people's production and life. On this basis, this paper aims to briefly introduce computer network security, analyze the reasons of computer network security, further discuss feasible measures to improve computer network security and propose suggestions on improving the level of computer network security.

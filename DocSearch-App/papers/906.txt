@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Cloud Computing is one of the increasing technology that is connected with Grid Computing, Utility Computing, Distributed Computing. In today's world, securing of data plays a vital role. In the computing environment, data privacy and data security is popular in fields like government, industry, and business for the future development. These are inter-related to both hardware and software. Hence, this paper analyses the data security solutions in Cloud Computing.

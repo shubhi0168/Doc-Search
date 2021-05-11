@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Central to behavior and cognition is the way that sensory stimuli are represented in neural systems. The distributions over such stimuli enjoy rich structure; however, how the brain captures and exploits these regularities is unclear. Here, we consider different sources of perhaps the most prevalent form of structure, namely hierarchies, in one of its most prevalent cases, namely the representation of images. We review experimental approaches across a range of subfields, spanning inference, memory recall, and visual adaptation, to investigate how these constrain hierarchical representations. We also discuss progress in building hierarchical models of the representation of images-this has the potential to clarify how the structure of the world is reflected in biological systems. We suggest there is a need for a closer embedding of recent advances in machine learning and computer vision into the design and interpretation of experiments, notably by utilizing the understanding of the structure of natural scenes and through the creation of hierarchically structured synthetic stimuli.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Alice is an incredibly fun 3D programming environment that allows users to manipulate objects in a 3D world in order to create program animated movies. This paper discusses the impact of adopting Alice on female students' attitude and performance in an introductory computer programming course in Java language. The target population of this research is first year computing students at Arab Open University - Jordan branch. Quasi-experiment was conducted in this research, where two classes were chosen one of which used Alice, and the other class has not used it. Data analysis showed that using Alice had a positive impact on female students' performance and attitude towards computer programming.

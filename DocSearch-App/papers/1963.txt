@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+In centralized cellular network architecture, the concept of virtualized Base Station (VBS) becomes attracting since it enables all base stations (BSs) to share computing resources in a dynamic manner. This can significantly improve the utilization efficiency of computing resources. In this paper, we study the computing resource allocation strategy for one VBS by considering the non-negligible effect of delay introduced by switches. Specifically, we formulate the VBS's sum computing rate maximization as a set optimization problem. To address this problem, we firstly propose a computing resource schedule algorithm, namely, weight before one-step-greedy (WB-OSG), which has linear computation complexity and considerable performance. Then, OSG retreat (OSG-R) algorithm is developed to further improve the system performance at the expense of computational complexity. Simulation results under practical setting are provided to validate the proposed two algorithms.

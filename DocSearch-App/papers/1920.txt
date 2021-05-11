@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Image sparse representation methods have been widely applied in many image processing fields, such as computer vision, image de-noising, super resolution, and visual tracking. An efficient sparse representation method can improve the accuracy. However, few of the traditional representation methods consider from the point of the anti-packing problem. Thus, these methods are not only restricted by the size of the image, but also lose a great amount of detail information by using a symmetric blocking method. In this paper, we have proposed an image sparse representation method, called NAMIet Transform. The NAM lets are haar-type wavelets, which are based on the non-symmetric homogeneous blocks obtained by the non-symmetry and anti-packing model. In homogeneous blocks, all the pixels are in the same bit-plane. The NAMIet transform can reduce the lost detail information and remove the restrictions of image size. The experiment results show the strong superiority of the NAMIet transform for image representation in comparison with some state-of-the-art image sparse representation methods. (C) 2017 Elsevier B.V. All rights reserved.

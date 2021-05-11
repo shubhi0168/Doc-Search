@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+A network traffic detection model based on swarm intelligent optimization neural network algorithm is proposed in this paper. QAPSO algorithm is used to optimize the basis function center and base function width of RBF neural network, and the connection weights of the output layer and the hidden layer as well. This paper analyzes the detection model studied in this paper by an example, and use the collected data to train the network traffic identification system and test its performance. The comparison between the proposed method and the conventional PSO algorithm based on the HPSO algorithm shows that the proposed method has faster recognition speed and better recognition accuracy, and avoids the problem of falling into the local optimal solution. Situation.

@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Card-based protocols enable us to easily perform cryptographic tasks such as secure multiparty computation using a deck of physical cards. Since the first card-based protocol appeared in 1989, many protocols have been designed. A protocol is usually described with a series of somewhat intuitive and verbal descriptions, such as "turn over this card," "shuffle these two cards," "apply a random cut to these five cards," and so on. On the other hand, a formal computational model of card-based protocols via abstract machine was constructed in 2014. By virtue of the formalization, card-based protocols can be treated more rigorously; for example, it enables one to discuss the lower bounds on the number of cards required for secure computations. In this paper, an overview of the computational model with its applications to designing protocols and a survey of the recent progress in card-based protocols are presented.

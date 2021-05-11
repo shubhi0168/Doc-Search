@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Deep learning is a thing of tomorrow which is causing a complete drift from shallow architecture to deep architecture and an estimate shows that by 2017 about 10 % of computers will be learning rather than processing. Deep learning has fast growing effects in the area of pattern recognition, computer vision, speech recognition, feature extraction, language processing, bioinformatics, and statistical classification. To make a system learn, deep learning makes use of a wide horizon of machine learning algorithms. Gene expression data is uncertain and imprecise. In this paper, we discuss supervised and unsupervised algorithms applied to gene expression dataset. There are intermediate algorithms classified as semi-supervised and self taught which also play an important role to improve the prediction accuracy in diagnosis of cancer. We discuss deep learning algorithms which provide better analysis of hidden patterns in the dataset, thus improving the prediction accuracy.

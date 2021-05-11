@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Currently, the use of large ontologies in various areas of knowledge is increasing. Since these ontologies can present overlapping of content, the identification of correspondences between entities becomes necessary for different tasks, for example, data integration and data linkage. Matching large ontologies is a challenge since it involves an excessive number of comparisons between entities which leads to high execution times and requires a considerable amount of computing resources. This work proposes a fine-grained load balancing technique which can be applied to Partition-Parallel-based Ontology Matching (PPOM) approaches. A PPOM approach partitions the input ontologies into sub-ontologies and executes the comparisons between entities in parallel (for instance, using MapReduce). In this sense, the fine-grained load balancing technique aims to guide the even distribution of comparisons among the nodes of a cluster infrastructure. Experimental results indicate that the proposed load balancing technique is able to reduce the overall execution time of PPOM approaches. (C) 2016 Elsevier B.V. All rights reserved.

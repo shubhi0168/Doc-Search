@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+As the conventional power systems turn towards smart grids (SGs) on a fast pace, this transition may create new and significant challenges to the existing electrical network security. Along with many important features of the SGs cyber security has emerged to be a critical issue due to the interconnection of several loads, generators, and renewable resources through the communication network. Cyber-physical attacks (CPAs) are classified as the major threatening of SGs security because it may lead to severe consequences such as large blackout and destruction of infrastructures. Cyber switching attacks (CSAs) (as a part CPAs) start to attract the attention due to its severity and speed in destabilizing the SGs, we present in this paper Thyristor-Controlled Braking Resistor (TCBR) as a solution to mitigate this type of attack. TCBR can enable us to stabilize the target generator in a relatively short time.

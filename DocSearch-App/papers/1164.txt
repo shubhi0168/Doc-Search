@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Crowdsourcing is a new emerging distributed computing and business model on the backdrop of Internet blossoming. With the development of crowdsourcing systems, the data size of crowdsourcers, contractors and tasks grows rapidly. The worker quality evaluation based on big data analysis technology has become a critical challenge. This paper first proposes a general worker quality evaluation algorithm that is applied to any critical tasks such as tagging, matching, filtering, categorization and many other emerging applications, without wasting resources. Second, we realize the evaluation algorithm in the Hadoop platform using the MapReduce parallel programming model. Finally, to effectively verify the accuracy and the effectiveness of the algorithm in a wide variety of big data scenarios, we conduct a series of experiments. The experimental results demonstrate that the proposed algorithm is accurate and effective. It has high computing performance and horizontal scalability. And it is suitable for large-scale worker quality evaluations in a big data environment.

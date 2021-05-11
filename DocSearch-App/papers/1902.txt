@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+IEEE 802.15.4 is a wireless standard that specifies physical layer and media access control while focusing on low-cost and low-power transmissions between devices, making it a framework of choice for upper layers developed to address the Internet of Things (IoT). However, this standard offers numerous possibilities regarding network topology, data transfer model and security suite. It has also rapidly evolved since its initial release in 2003. This combination of factors is creating room for security issues that are left in the hands of IoT architects, like unknown deviations from the standard as we highlight in this paper. Ensuring all aspect of security is essential to broad public and industrial acceptance and thus to the growth of IoT technologies. In this paper, we provide the necessary inputs to fully grasp the security issues behind this standard before examining all the elements that need to be investigated by auditors when assessing the level of security of a specific IEEE 802.15.4 infrastructure.

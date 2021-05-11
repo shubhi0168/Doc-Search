@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+External difference families (EDFs) are a type of combinatorial designs that originated from cryptography. Many combinatorial objects are closely related to EDFs, such as difference sets, difference families, almost difference sets, and difference systems of sets. Constructing EDFs is thus of significance in theory and practice. In this paper, earlier ideas of constructing EDFs proposed by Chang and Ding (2006), and Huang and Wu (2009), are further explored. Consequently, new infinite classes of EDFs are obtained and some previously known results are extended. (C) 2016 Wiley Periodicals, Inc.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Human identification at a distance has recently become a hot research topic in the fields of computer vision and pattern recognition. Since gait patterns can operate from a distance without subject cooperation, gait recognition has most widely been studied to address this problem. In this paper, a subspace ensemble learning using totally-corrective boosting (SEL_TCB) framework and its kernel extension are proposed for gait recognition. In this framework, multiple subspaces are iteratively learned with different weight distributions on the triplet set using totally-corrective technology, in order to preserve the proximity relationships among instance triplets. Further, we extend the SEL_TCB framework to the kernel SEL_TCB (KSEL_TCB) framework which can deal with the nonlinear manifold of data. We compare our method with the recently published gait recognition approaches on USF HumanID Database. Experimental results indicate that the proposed method achieves highly competitive performance against the state-of-the-art gait recognition approaches.

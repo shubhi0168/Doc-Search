@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+By using the Bell polynomials method and symbolic computation, we study the integrability of the KdV6 equation. We develop, in this work, new results regarding the integrability concept. We show that the newly developed bilinear representation and bilinear Backlund transformation are different from those reported in the literature. Moreover, we firstly present the infinite conservation laws, and the conserved densities and fluxes are given in explicit recursion formulas. Copyright (c) 2015 John Wiley & Sons, Ltd.

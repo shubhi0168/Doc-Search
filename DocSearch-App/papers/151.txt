@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+A positive credit history and rating help consumers with good payment history to get lower interest rates, greater flexibility for credit, as well as loans with longer payment terms. In order to establish credit profiles, there is a need to get information (e.g. spending patterns) from the consumers and from the companies that are selling related goods. The problem is how to share private information about customers and companies without compromising the secrecy and confidentiality of such information. In this work, we propose a cryptographic protocol to share sensitive information while preserving the privacy of the customer as well as the information of the commercial institution. Furthermore, we analyse the proposed protocol by using Petri nets to verify the absence of livelocks, deadlocks, and other anomalies in the protocol.

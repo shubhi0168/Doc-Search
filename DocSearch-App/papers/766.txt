@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Because there are many differences in the different operating systems of intelligent equipment, application software adaptation workload will be multiplied. Based on HTML5 cross platform development framework, such as PhoneGap, Sencha Touch, Titanium and AppCan and so on, can easily solve the cross platform problem, reduce software development cycle and the costs of software development and maintenance. This paper mainly introduced PhoneGap, Sencha Touch, Titanium and AppCan cross platform development framework, compared to their advantages and disadvantages, and analyzed the advantages and disadvantages of cross platform mobile hybrid mobile development mode based on HTML5. Finally, this paper looked forward to the development of HTML5 and development technology of cross platform hybrid mobile application based on HTML5.

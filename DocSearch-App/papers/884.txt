@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Class retrieval in gene expression microarray data analysis is highly challenging task. Because of high class imbalance, highly dimensional feature space and small number of samples most of the algorithms fail to capture real complex structures in data ('golden standard'). Therefore, one of the major problems in this area is selection of the best suited algorithm for data at hand. We address this problem by proposing an extended meta-learning framework for ranking and selection of algorithms for clustering gene expression microarray data. Proposed framework introduces several improvements compared to the original one: extended algorithm space, extended meta-feature space and introduction of cutting edge techniques for meta-feature selection and parameter optimisation of meta-algorithms. System was evaluated on large algorithm and problem space (504 algorithms and 30 datasets) and showed very promising results in prediction of algorithm performance for specific problems.

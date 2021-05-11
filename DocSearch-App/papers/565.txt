@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Automatic, fast and efficient estimation of some physical characteristics such as mass and volume in agricultural products, improves some postharvest processes such as sorting and storage. This document presents a computer vision system to automatically estimate these characteristics in passion fruit. The visible aspects in digital images: color, texture, size and shape are correlated with the actual measurement, defining a model for estimating mass and volume. PCA (Principal Component Analysis) and LDA (Linear Discriminant Analysis) are used like statistical data analysis and ANN (Artificial Neural Network) as estimation tool. The above methods are applied to a sample set consisting of 100 images of passion fruit, used 80 as training and 20 as validation. The results are greater than 80% in terms of the correlation coefficient (R), with a typical error of less than 20% compared to the sample standard deviation, in the two variables.

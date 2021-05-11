@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Helping college freshmen to learn basic computer programming is a longstanding research topic. Various environments, tools and languages have been developed to ease the initial steps of novice programmers. However, to be used to their full extent, such artifacts should be better combined with an appropriate learning approach. This work describes pre-term workshops offered to Computer Engineering undergraduate freshmen that combines the use of the Scratch learning environment with a learning approach based on peer support, game development and a strategy of challenge-response. Results are derived from quantitative data analysis: surveys and artifact analysis. Students evaluated the workshop well: they found it stimulant, lightweight, with good teaching, useful, well-organized, and conducive to learning. Results suggest the effectiveness of the approach to reduce initial difficulties for freshmen learning programming concepts.

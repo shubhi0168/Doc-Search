@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Digital content makes improvement in e-learning for transferring knowledge to learners. By e-learning that delivers digital contents, learners can learn anywhere and anytime and educators can deliver materials in an interactive way. Digital content becomes very important in improving self-learner understanding in computer programming. Experimental design method using control-group pretest-posttest is conducted to compare digital contents effectiveness of learning outcomes in computer programming field for self-learning students. The instrument used is a programming case, with factor and level to be tested is various digital content types, and desired response is learning outcomes increment. This study concludes that there is an average increment of learning outcomes by using various digital contents for self-learning, but still lower average increment compared with traditional classroom method. Results of this study can be a recommendation for educators and students in applying and determining the use of digital contents for their self-learning.

@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+In a node replication attack, an adversary creates replicas of captured sensor nodes in an attempt to control information that is reaching the base station or, more generally, compromise the functionality of the network. In this work, we develop fully distributed and completely decentralized schemes to detect and evict multiple imposters in mobile wireless sensor networks (MWSNs). The proposed schemes not only quarantines these malicious nodes but also withstand collusion against collaborating imposters trying to blacklist legitimate nodes of the network. Hence the completeness and soundness of the protocols is guaranteed. Our protocols are coupled with extensive mathematical and experimental results, proving the viability of our proposals, thus making them fit for realistic mobile sensor network deployments. (C) 2016 Elsevier B.V. All rights reserved.

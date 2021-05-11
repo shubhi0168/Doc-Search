@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Despite extensive research having been conducted on the subject, the problem of three-dimensional information systems for historical cities is actually still unresolved. In addition, commercially available software seems to be increasingly aiming at a quick development of unspecific urban settings, rather than at a metrically and perceptively faithful representation of reality. In this scenario, the SIUR 3D software (Sistema Informativo URbano tridimensionale) is based on a management structure that links an interactive, photorealistic and metrically reliable model of a city with a qualitative database of the historical, archaeological and material scope of an architectural part. Such application uses the Unity 3D game engine for geometrical models management and is equipped for online data sharing.

@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Aluminum/graphite (Al/Gr) composites have been used as self-lubricating materials due to the superior lubricating effect of graphite during sliding. This paper summarizes various tribological aspects of self-lubricating aluminum composites. The influence of various factors such as (a) material factors, graphite size and volume fraction, and (b) mechanical factors, applied load and sliding speed on the tribological properties of self-lubricating aluminum composites, is discussed. Furthermore, the tribological properties of self-lubricating composites as a function of these parameters and the active wear mechanism involved in various systems are discussed. Bringing self-lubricating composites into different operating systems is a solution to reduce the use of external toxic petroleum-based lubricants in sliding contacts in a way to help the environment and reduce energy dissipation in industrial components for strategies toward sustainability and energy efficiency.

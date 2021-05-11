@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Applied computer laboratory lessons could be unproductive because of many students in there. Correcting students' mistakes one by one is wasting lesson time. Especially for beginners, most of these mistakes caused by complex integrated development environments. In this study, we develop a client server application for computer laboratories. Developed application is able to compile programming language source code remotely. Thus, students don't need to make something out of the writing source code. Furthermore, instructors don't need to install compiler to the each computer in laboratory. For start lesson, it is enough that server has just been configured. (C) 2015 The Authors. Published by Elsevier Ltd.

@@ -1,0 +1,5 @@
+CS 
+
+ Software engineering  
+
+Global software development exposes projects to the challenges arising from geo-cultural spread of the team and delegation of project ownership. Therefore, risk management in global software development receives attention from many researchers today. The primary focus in this paper is an investigation of risks associated with the maintenance of information systems by teams distributed across geographical locations, cultures, and vendors. Here the authors present the case study of a large offshore outsourced program that maintained a portfolio of business applications for a fortune 500 US client. The program exhibited a wide variety of characteristics typical of maintenance projects. The study investigated the risks, risk resolution techniques, lessons learned and best practices adopted in the program, from a vendor perspective. The findings provide useful insights into understanding and responding to the challenges in initiating, transitioning and managing global software maintenance projects.

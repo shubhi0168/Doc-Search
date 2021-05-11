@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Embedded-class processors found in commodity palmtop computers continue to become increasingly capable. Moreover, wireless connectivity in these systems provides new opportunities in designing flexible and smarter wireless sensor networks (WSNs). In this paper, we present Lynx, a self-organizing wireless sensor network framework. Leveraging palmtop systems as sensor hubs, Lynx provides fundamental functionality to make a distributively managed, customizable WSN system. implementation. Second, we describe Ocelot, a mobile distributed grid-like computing engine for commodity palmtop platforms. The combination of Lynx and Ocelot provides sensor nodes that are capable of collecting, recording, processing, and communicating data without any central server support. Significant energy savings can be achieved. for light to medium weight tasks through the Lynx and Ocelot combined system compared to traditional server-class grid-solutions such as BOINC. We demonstrate Lynx and Ocelot in the context of life-cycle building energy usage. (C) 2016 Elsevier Ltd. All rights reserved.

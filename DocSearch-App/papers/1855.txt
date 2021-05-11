@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+How to provide cost effective, high performance image patch query and image patch analysis implementation is one important issue for internet image server design. In this paper, we present one novel approach to internet image server design and implementation. Like most modern internet image server implementation, this system stores pre-rendered image tiles for different scales on the web server, which are then laced together on the client browser. The key issues and solutions of image patch query, image patch predicate and image patch analysis are proposed and illustrated in this paper. Furthermore, the key details of the algorithm design are presented in this paper. The prototype adopting the above methods is presented and the related benchmark result details reveal the effectiveness and efficiency of the proposal.

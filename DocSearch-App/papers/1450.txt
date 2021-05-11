@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Dynamic modeling and simulation of the mooring system are the key technologies in anchor handling simulator (AHS). Built up the mooring line's dynamics model based on lumped-mass method (LMM), and fourth-order Runge-Kutta method was used to solve the model; because of the huge amounts of calculation in the model's solving, the very time-consuming process brings great impact on the real-time, fidelity and immersed feeling in the anchor handling scene simulation, seriously hindered its application in AHS. A novel parallel algorithm was proposed to speed-up the model's solving process by taking the advantages of graphic processing units (GPU's) massive parallel computing and float point computing capability. The model's solving process was implemented on vertex shader based on the transform feedback (TF) mechanism in modern GPU. Experimental results show that, the new algorithm reduced the calculating time largely without losing accuracy, and can finally realize the real-time solving and simulation.

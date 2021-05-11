@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+As the processing control and sensory evaluation of green tea are highly subjective and the tea industry is highly professionalized, it is desirable that to find a more objective way of evaluating the quality of tea is found. In this paper, two models were set up using the BP-MLP and RBF neural networks, a sensory quality prediction model, using eleven parameters measured during processing as variables, such as leaf temperature, moisture content, etc., and a sensory quality evaluation model using fourteen parameters related to green tea as variables, such as image information were set up. The overall results suggested that leaf temperature, moisture content measured during production could effectively predict the sensory quality of green tea, with parameters as image information of green tea able to effectively evaluate its sensory quality. Compared with the BP-MLP neural network, the RBF model displayed much greater accuracy as a prediction model, reducing the relative error from 0.204 to 0.006. (C) 2016 Institution of Chemical Engineers. Published by Elsevier B.V. All rights reserved.

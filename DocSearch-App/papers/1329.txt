@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Different types of serious games have been used in elucidating computer science areas such as computer games, mobile games, Lego-based games, virtual worlds and web-based games. Different evaluation techniques have been conducted like questionnaires, interviews, discussions and tests. Simulation have been widely used in computer science as a motivational and interactive learning tool. This paper aims to evaluate the possibility of successful implementation of simulation in computer programming modules. A framework is proposed to measure the impact of serious games on enhancing students understanding of key computer science concepts. Experiments will be held on the EEECS of Queen's University Belfast students to test the framework and attain results.

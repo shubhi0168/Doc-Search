@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Efficiently and effectively detecting shell-like structures of particular shapes is an important task in computer vision and image processing. This paper presents a generalized possibilistic c-means algorithm (PCM) for shell clustering based on the diversity index of degree-lambda proposed by Patil and Taillie [Diversity as a concept and its measurement. J Amer Statist Assoc. 1982;77:548-561]. Experiments on various data sets in Wang [Possibilistic shell clustering of template-based shapes. IEEE Trans Fuzzy Syst. 2009;17:777-793] show that the the proposed generalized PCM performs better than Wang's [Possibilistic shell clustering of template-based shapes. IEEE Trans Fuzzy Syst. 2009;17:777-793] possibilistic shell clustering method according two two criteria: (i) the 'grade of detection' g(d) for each target cluster; (ii) the amount of computation, denoted as k(c), required to attain a given g(d).

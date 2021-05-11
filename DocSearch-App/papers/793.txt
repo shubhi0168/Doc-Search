@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Bilingual education became popular in Chinese universities considered as an important aspect of connotative development. In this paper, we take computer programming as an example to analyze the relationship between bilingual teaching and English level of students. We use a real dataset including all the scores of course in two terms to compare the changes before and after the bilingual teaching to figure out the effects of these two aspects to each other.

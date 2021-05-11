@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+An enhanced version of a segmentation algorithm applied in X-ray images using a prior shape and a straightened boundary image (SBI) is proposed. In the SBI method, the boundary of the target object is extracted with a constant width along the prior shape and transformed to a rectangular image in which the edges are straightened. A new minimal path algorithm is proposed and applied to SBI minimising a cost function to select the best path corresponding to the edges of the target object. The cost function is calculated based on all possible paths from each pixel to the beginning of the image while lowering the computational complexity. Comparing with previous methods, the proposed method removes artefacts and provides clearer and smoother edges even when the prior shape is far from the target object. The method is also less sensitive to the initial positioning of the prior shape model.

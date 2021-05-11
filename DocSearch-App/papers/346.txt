@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Amid growing calls for greater collaboration between journalism and computer programming, this article examines a salient case study that reveals processes of communication, exchange, and work production at the intersection of these social and occupational worlds. We focus on a key stage of the Knight-Mozilla News Technology partnership - namely, an online 'Learning Lab' through which 60 individuals sought to coordinate around a shared interest in the innovation of journalism through open-source software. Drawing on the science and technology studies concepts of trading zones and boundary objects, we explore how distinct understandings about news and technology converged, diverged, and ultimately blended around three thematic ambitions: making news more process-oriented, participatory, and socially curated. This window onto boundary negotiations in journalism provides a glimpse into the future development of news and its norms and values, as programmers and their ethics assume a greater role in the journalistic field - in the very heart of some of its leading institutions.

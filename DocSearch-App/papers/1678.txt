@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+FPGA-based accelerators have recently evolved as strong competitors to the traditional GPU-based accelerators in modern high-performance computing systems. They offer both high computational capabilities and considerably lower energy consumption. High-level synthesis (HLS) can be used to overcome the main hurdle in the mainstream usage of the FPGA-based accelerators, i.e., the complexity of their design flow. HLS enables the designers to program an FPGA directly by using high-level languages, e.g., C, C++, SystemC, and OpenCL. This paper presents an HLS-based FPGA implementation of several algorithms from a variety of application domains. A performance comparison in terms of execution time, energy, and power consumption with some high-end GPUs is performed as well. The algorithms have been modeled in OpenCL for both GPU and FPGA implementation. We conclude that FPGAs are much more energy-efficient than GPUs in all the test cases that we considered. Moreover, FPGAs can sometimes be faster than GPUs by using an FPGA-specific OpenCL programming style and utilizing a variety of appropriate HLS directives.

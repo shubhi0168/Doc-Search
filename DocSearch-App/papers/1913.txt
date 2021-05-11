@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Image inpainting is a dynamic field with different image processing and computer graphics applications. Most of the existing image inpainting methods lead to significant results in different applications but fail in difficult situations with high local structural variations. In this paper, a structure-based image inpainting algorithm is proposed, where the image's structure layer is represented and analyzed using the structure tensor field. The structure layer of the image is first inpainted by adapting the Efros and Leung algorithm to the specificities of the structure tensor, then the obtained tensor field is used to help the image inpainting process. Results show that using the proposed method, relevant local information can be better inpainted comparing to the initial intensity-based approach that does not consider structural information during the inpainting process.

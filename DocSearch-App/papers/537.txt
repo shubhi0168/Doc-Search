@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Attacks in network have caused a variety of serious problems, but intrusion detection in network is still an immature technology. And it is very important for network security to timely detect anomalies and rapidly response. Many intrusion detection methods have been proposed from simple to sophisticated techniques in the literature. Among them, the Context-Based Intrusion Detection (CBID) algorithm is an excellent. However, the CBID method just relying on personal experience but not a clear way to determine the context window size. In this paper, we propose a novel scheme to solve this problem by using chaos theory to select the parameter of the intrusion detection algorithm. We evaluate our scheme using traffic traces from a real network, namely from "CAIDA DATASET". The experiment results show that our proposed method has a higher the true positive and a lower miss rate contrast to CBID.

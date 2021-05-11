@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+A smart grid is delay sensitive and requires the techniques that can identify and react on the abnormal changes (i.e., system fault, attacker, shortcut, etc.) in a timely manner. In this paper, we propose a real-time detection scheme against false data injection attack in smart grid networks. Unlike the classical detection test, the proposed algorithm is able to tackle the unknown parameters with low complexity and process multiple measurements at once, leading to a shorter decision time and a better detection accuracy. The objective is to detect the adversary as quickly as possible while satisfying certain detection error constraints. A Markov-chain-based analytical model is constructed to systematically analyze the proposed scheme. With the analytical model, we are able to configure the system parameters for guaranteed performance in terms of false alarm rate, average detection delay, and missed detection ratio under a detection delay constraint. The simulations are conducted with MATPOWER 4.0 package for different IEEE test systems.

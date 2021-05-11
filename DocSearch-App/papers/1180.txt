@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Current smart devices (phones, tablets, etc.) have integrated light sensors that are used to adjust the screen brightness automatically according with the ambient light variations. The light sensors have become more sensitive and are able to read even the RGB light components. This information however can be accessed without requesting the user special access rights for an application and is also available for the background running services as it can be used in fitness applications. An application can therefore exploit this lack of security and track the user environment luminance information, originating for example from a TV screen, without the user's knowledge. This paper investigates the process of obtaining the sensor data in multiple operating systems, the usability of this data related to the type of light sensor and distance to the light source and outlines a possible data flow for an remote processing application that gathers the information originating from a light sensor and uses it to detect if a reference video source is shown on the user's TV screen.

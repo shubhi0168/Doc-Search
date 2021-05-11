@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+An algorithm and code for spectrum calculation for periodic nanostructures in homogeneous magnetic field are developed. The approach is based on the zero-range potentials model. The mathematical background of the model is based on the theory of self-adjoint extensions of symmetric operators.

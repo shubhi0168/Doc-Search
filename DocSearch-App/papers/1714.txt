@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Gas-liquid mass transfer around Taylor bubbles moving in a meandering millimetric square channel was locally visualized and characterized in the present study. For that, the colorimetric technique proposed by Dietrich et al. (2013) was implemented. With this technique, the evolution of equivalent oxygen concentration fields in the liquid slugs passing through one and several bends was firstly described. In particular, it was observed how the flow structure (recirculation zones) inside the liquid slugs were twisted and split by the periodic bends (centrifugal effect), until reaching, after several bends, a uniform O-2 concentration inside the liquid slugs. The influence of the "turning point", joining two "straight" sections of meandering channel was also highlighted: a slowing down of the gas-liquid mass transfer was clearly shown. Volumetric mass transfer coefficients were determined at last by fitting the experimental axial profiles of averaged oxygen concentrations in the liquid slugs (before the turning point) with the ones predicted by a classical plug-flow model. (C) 2017 Elsevier Ltd. All rights reserved.

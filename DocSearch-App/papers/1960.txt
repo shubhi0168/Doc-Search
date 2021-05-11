@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+In architectural project review, the perception of the near surrounding ground is important for the evaluation of the virtual environment (VE). This near surrounding ground is missing when using wall screens. To address this problem we suggest increasing the Vertical Field of View (VFoV). One solution is the use of the rendering approach such as non-planar projection. However, simply increasing the FoV of the rendering leads to much distortion in the VE which is not suitable for architectural project review. We propose a new hybrid projection combining a perspective projection in the center of the screen and a cylindrical-like projection on the top and bottom boarders. By this, we increase VFoV without incurring large deformations to preserve the perception of distances and to allow seeing the surrounding ground. We also report the results of an experiment we conducted to evaluate distance perception with our projection.

@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+As a result of rapid advances in technology and computer programming, algorithms are increasingly able to generate expressive material. In light of these advances, it is inevitable that courts will be asked to determine whether this algorithmically generated content is protected expression under section 2(b) of the Canadian Charter of Rights and Freedoms. Although algorithmically generated content can serve many of the same constitutionally-protected purposes as human expression, this paper explains why the Supreme Court of Canada's current framework is inadequate for use in the context of algorithmically generated content. This paper offers a proactive and principled solution that is consistent with the fundamental principles of freedom of expression articulated by the Court in R v Keegstra. This solution allows content that upholds the Keegstra principles to be protected despite the fact that the algorithm's creator may not have contemplated the specific content.

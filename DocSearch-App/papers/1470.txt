@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Educational systems are incorporating in their official curricula new knowledge related to computational thinking Education authorities consider that there are economic, labor, educational, social and cultural arguments to introduce computer programming in the curriculum of compulsory education. This article describes and analyzes three curricular designs that include computational thinking On the one hand, two prescriptive curricula (UK and Autonomous Community of Madrid) organized around subjects, focusing on mandatory content and standardized assessment. Moreover, an innovative and globalized curriculum (Q2L) including computational thinking as a basic, transversal and contextual skill. Analysis of the designs can observe two different approaches to the introduction of programming in the classroom. It concludes with the need to base curriculum design in the accumulated experience in the educational use of computational thinking (Papert), the results of educational research and new learning ecologies.

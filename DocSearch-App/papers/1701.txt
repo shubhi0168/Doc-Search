@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Fuzzy similarity is a powerful concept. It has been shown that it can be applied in many areas. This paper shows another use of fuzzy similarity for the function computation model, based on computing inner products in parallel for numeric computation. We have briefly described that fuzzy similarity can also be used for symbolic computation.

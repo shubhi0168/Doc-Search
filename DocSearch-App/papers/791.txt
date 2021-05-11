@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Big data solution is an emerging trend in today's world as it provides the enterprises with certain advantages,however achieving it is not straightforward as there are certain challenges too due to the inherited complexity of big data. This paper aims to understand the benefits and potential challenges of big data through literature review. From the review results, the most common benefits of big data are competitive advantage,360 degree customer view,prediction power, cost effective solution to deal with colossal amount of data, customized services to customers, determining customer value, adopting suitable marketing campaign, and prospects to cross sell products and services. Similarly the most common challenges associated with it are lack of skills to analyze data and produce valuable insights, addressing the need for speed, privacy concerns, data cleansing, data integration, diversity and incompleteness. These findings are expected to aid researchers and practitioners to look at the advantages and challenges involved in big data before initiating the project

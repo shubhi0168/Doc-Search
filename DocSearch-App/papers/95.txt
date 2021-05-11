@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A modeling language for hybrid systems HydLa and its implementation HyLaGI are described. HydLa is a constraint-based language that can handle uncertainties of models smoothly. HyLaGI calculates trajectories by symbolic formula manipulation to exclude errors resulting from floating-point arithmetic. HyLaGI features a nondeterministic simulation algorithm so it can calculate all possible qualitative different trajectories of models with uncertainties.

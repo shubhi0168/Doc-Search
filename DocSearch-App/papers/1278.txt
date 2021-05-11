@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+Designated confirmer signature (DCS), introduced by Chaum at Eurocrypt 1994, can be used to control the public verifiability of a digital signature. It is a very useful tool in many applications which require a signature to remain anonymous and unverifiable until a certain time/condition is reached. In this paper, we propose a new generic construction of Anonymous Identity-Based DCS from Anonymous Identity-Based Signature. Interestingly, our construction also automatically implies an Anonymous Identity-Based Convertible Undeniable Signature scheme. We prove that the construction is secure for signer, verifier and confirmer in the standard model.

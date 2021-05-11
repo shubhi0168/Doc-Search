@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+BACKGROUND: Because the graphical presentation and analysis of motif distribution can provide insights for experimental hypothesis, PISMA aims at identifying motifs on DNA sequences, counting and showing them graphically. The motif length ranges from 2 to 10 bases, and the DNA sequences range up to 10 kb. The motif distribution is shown as a bar-code-like, as a gene-map-like, and as a transcript scheme. RESULTS: We obtained graphical schemes of the CpG site distribution from 91 human papillomavirus genomes. Also, we present 2 analyses: one of DNA motifs associated with either methylation-resistant or methylation-sensitive CpG islands and another analysis of motifs associated with exosome RNA secretion. AVAILABILITY AND IMPLEMENTATION: PISMA is developed in Java; it is executable in any type of hardware and in diverse operating systems. PISMA is freely available to noncommercial users. The English version and the User Manual are provided in Supplementary Files 1 and 2, and a Spanish version is available at www.biomedicas.unam.mx/wp-content/software/pisma.zip and www.biomedicas.unam.mx/wp-content/pdf/manual/pisma.pdf.

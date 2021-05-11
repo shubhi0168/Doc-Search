@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Advances in optical microscopy, biosensors and cell culturing technologies have transformed live cell imaging. Thanks to these advances live cell imaging plays an increasingly important role in basic biology research as well as at all stages of drug development. Image analysis methods are needed to extract quantitative information from these vast and complex data sets. The aim of this review is to provide an overview of available image analysis methods for live cell imaging, in particular required preprocessing image segmentation, cell tracking and data visualisation methods. The potential opportunities recent advances in machine learning, especially deep learning, and computer vision provide are being discussed. This review includes overview of the different available software packages and toolkits. (C) 2017 Published by Elsevier Inc.

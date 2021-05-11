@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+In Euclidean plane geometry, the evolute of both B-spline and NURBS curves are NURBS curves. Moreover, this evolute can be computed symbolically. This article extends those results to the equiaffine plane geometry. Analogously to Euclidean geometry, the equi-affine evolute of both B-spline and NURBS curves are NURBS curves and an algorithm for the symbolic computation is given for B-spline curves. This results in a new method to analyze the global affine differential properties of B-spline curves and assess B-spline curve quality in an affine invariant context.

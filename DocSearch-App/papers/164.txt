@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+A quantitative and qualitative increase in production has been obtained in most fields through the development of CPUs and real-time systems based on them. Such is the case in the industrial sector where the automation process relieved partly or wholly the human activities needed in the manufacturing process. This is mainly due to time sharing in embedded real-time systems and to pseudo-parallel execution of tasks in the implementation of a single central processing unit. The present article presents the validation of the nHSE (Hardware Scheduler Engine) scheduler implemented in hardware by using a FPGA Xilinx Virtex-7, Vivado development platform, and the Vivado Simulator. In this context, our main contribution relates to a custom interrupt management scheduling policy implemented in hardware at the nHSE level, in order to provide predictable execution for asynchronous interrupts. By reducing the jitter when handling with asynchronous interrupts and completely eliminating the uncertainties of the scheduling limit for the set of tasks, a significant improvement of the overall system's predictability has been obtained.

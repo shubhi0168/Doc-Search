@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Data Structure is an important and compulsory course in the computer science and engineering. The topics of the course require detailed view for various algorithms such as queues, stacks, sort, search, trees and graphs. Due to the complexity of teaching and understanding of this course, we are focusing in measuring the student performance and the course learning outcomes. This paper describes methodology for providing a quantitative measurement of data structure course. The methodology uses a combination of three approaches (average, threshold, and performance vector) to assess course learning outcomes. The method utilizes data obtained from students' marks in exams, tests, projects, and other formal assessments. A computerized system has been developed based on this method to expedite the analysis process.

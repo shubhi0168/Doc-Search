@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Color image segmentation is a crucial step in many computer vision and pattern recognition applications. This paper introduces an adaptive and unsupervised approach based on Vorondi regions to solve the color image segmentation problem. The proposed method uses a hybrid of spatial and feature space Dirichlet tessellation followed by inter-Vorondi region proximal cluster merging to automatically find the number of clusters and cluster centroids in an image. Since, the Voronoi regions are much smaller compared to the whole image, Vorondi region-wise clustering improves the efficiency and accuracy of the number of clusters and cluster centroid estimation process. The proposed method was compared with four other adaptive unsupervised cluster-based image segmentation algorithms on three image segmentation evaluation benchmarks. The experimental results reported in this paper confirm that the proposed method outperforms the existing algorithms in terms of the image segmentation quality and results in much lower average execution time per image.

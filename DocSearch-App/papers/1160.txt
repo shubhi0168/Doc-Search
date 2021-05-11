@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+Crop simulation models are valuable tools for quantifying crop yield response to water, and for devising strategies to improve agricultural water management. However, applicability of the majority of crop models is limited greatly by a failure to provide open-access to model source code. In this study, we present an open-source version of the FAO AquaCrop model, which simulates efficiently water-limited crop production across diverse environmental and agronomic conditions. Our model, called AquaCrop-OpenSource (AquaCrop-OS), can be run in multiple programming languages and operating systems. Support for parallel execution reduces significantly simulation times when applying the model in large geospatial frameworks, for long-run policy analysis, or for uncertainty assessment. Furthermore, AquaCrop-OS is compliant with the Open Modelling Interface standard facilitating linkage to other disciplinary models, for example to guide integrated water resources planning. (C) 2016 The Author(s). Published by Elsevier B.V.

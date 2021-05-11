@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Deep models have recently shown improved performance on numerous benchmark tasks in computer vision and machine learning. The availability of huge amount of digital data, possibility of massively parallel computations on graphics processing units and the development of advance optimisation techniques have pushed the limits of the deep learning framework by superseding the performance of state-of-the-art research, in specific the kernel methods. This research proposes a novel connection between the two paradigms of research and shows empirical evidence to emphasise that the knowledge learnt from one domain could be supplemented with the significant properties of the other domain to achieve the best of both the worlds. The proposed hybrid methodology illustrates the advantages of deep architectures for kernel methods by showing significant improvement in the classification performance on benchmark tasks with kernel methods. It is shown empirically that the results achieved are either better or competitive to the leading benchmarks from support vector machines and deep models.

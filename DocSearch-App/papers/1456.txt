@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Dynamic programming is an algorithm design technique that is very difficult to learn and apply. In this paper, we introduce two extensions of the recursion visualization system SRec, intended to support dynamic programming. Firstly, SRec supports the generation of recursion forests (i.e. structured collections of recursion trees) to enhance the understanding of complex, multiple recursive algorithms. Secondly, SRec supports some phases of the systematic development of dynamic programming algorithms: checking recursion redundancy, generation of the dependency graph associated to a recursion tree, and matching the graph to a table. These facilities require high degree of interactivity to be effective. The paper illustrates the new facilities with a dynamic programming algorithm for the sequence alignment problem. We successfully applied the new version of SRec to a number of algorithms, and we are currently using it in a course con advanced algorithms.

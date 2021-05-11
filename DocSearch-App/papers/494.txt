@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+As the detection methods of covert channels can provide a better way to detect the existence of advanced persistent threat, it has become a hot research topic in the field of network security. Although the existing methods can achieve feasible performance for detecting the JitterBug covert timing channel, they are ineffective when the covert timing channels are implemented with sparse embedding, especially for low embedding probability. In this paper, a new method to detect JitterBug covert timing channel with sparse embedding is proposed, in which the timing intervals are first modeled in histogram statistics, and then the Kolmogorov-Smirnov statistic is used for detection. In addition, the diversifications of the references and the model updating scheme in practical usage are analyzed. The experimental results show that the proposed method is effective when the embedding probability is 0.3, while the existing methods can effective only when the embedding probability is larger than 0.6. Copyright (c) 2016 John Wiley & Sons, Ltd.

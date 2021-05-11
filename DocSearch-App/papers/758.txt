@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Batch processes are of great importance in process industry. However, the control algorithm design is difficult for those with constraints. This is because stability and recursive feasibility along directions of time and batch should be guaranteed simultaneously. In this paper, a stable model predictive control strategy with zero terminal state constraints is proposed. Stability and recursive feasibility along two directions are guaranteed and proved. Simulation results are given to show the effectiveness of the algorithm. (C) 2015, IFAC (International Federation of Automatic Control) Hosting by Elsevier Ltd. All rights reserved.

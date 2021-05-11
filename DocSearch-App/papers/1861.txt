@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+HRDBMS is a novel distributed relational database that uses a hybrid model combining the best of traditional distributed relational databases and Big Data analytics platforms such as Hive. This allows HRDBMS to leverage years worth of research regarding query optimization, while also taking advantage of the scalability of Big Data platforms. The system uses an execution framework that is tailored for relational processing, thus addressing some of the performance challenges of running SQL on top of platforms such as MapReduce and Spark. These include excessive materialization of intermediate results, lack of a global cost based optimization, unnecessary sorting, lack of index support, no statistics, no support for DML and ACID, and excessive communication caused by the rigid communication patterns enforced by these platforms.

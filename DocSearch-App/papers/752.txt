@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Based on the in-depth analysis of the basic principle of non-stationary parallel hot wire method and existing measuring standards, with the foundation of heat transfer differential mathematical model of hot wire in cylindrical coordinates, research is made on the measurement method of solid materials' thermal conductivity and thermal diffusivity. The temperature measuring points, which are originally arranged in parallel with hot wire, are changed to specimen thickness direction. Combined with computer programming, Numerical algorithms are used to directly measure the materials' thermal conductivity and thermal diffusivity without looking up the table. It analyzes in detail the effect of heat penetration on measurement results, explores treatment measures, and then develops a device for thermo-physical properties measurement. Measuring experiments are conducted on thermo-physical properties of glass, asbestos, diatomite bricks and others, and the experimental results are in close compliance with individual thermo-physical properties tester and literature values, with less than 5% of relative error.

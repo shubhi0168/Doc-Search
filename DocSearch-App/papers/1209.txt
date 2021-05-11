@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Data has become more and more important to individuals, organizations, and companies, and therefore, safeguarding these sensitive data in relational databases has become a critical issue. However, despite traditional security mechanisms, attacks directed to databases still occur. Thus, an intrusion detection system (IDS) specifically for the database that can provide protection from all possible malicious users is necessary. In this paper, we present a random forests (RF) method with weighted voting for the task of anomaly detection. RF is a graph-based technique suitable for modeling SQL queries, and weighted voting enhances its capabilities by balancing the voting impact of each tree. Experiments show that RF with weighted voting exhibits a more superior performance consistency, as well as better error rates with increasing number of trees, compared to conventional RF. Moreover, it outperforms all other state-of-the-art data mining algorithms in terms of false positive rate (0.076) and false negative rate (0.0028).

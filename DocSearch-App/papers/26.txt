@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+A clause is not-all-equal satisfied if it has at least one literal assigned by T and one literal assigned by F. Max NAE-SAT is given by a set U of boolean variables and a set C of clauses, and asks to find an assignment of U, such that the not-all-equal satisfied clauses of C are maximized. Max NAE-SAT turns into Max NAE-k-SAT if each clause contains just k literals. Max NAE-k-SAT for k = 2, 3 and 4 can be approximated to 1.139 (1/0.878), 1.10047 (1/0.9087) and 8/7 respectively. When k >= 5, little has been done in terms of algorithm design to approximate Max NAE-k-SAT. In this paper, we propose a local search algorithm which can approximate Max NAE-k-SAT to 2(k-1)/2(k-1) - 1 for k >= 2. Then we show that Max NAE-k-SAT can not be approximated within 2(k-1)/2(k-1) - 1 in polynomial time, if P not equal NP. Moreover, we extend the algorithm for Max NAE-k-SAT to approximate Max NAE-SAT where each clause contains at least k literals.

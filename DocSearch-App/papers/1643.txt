@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+For cryptographic algorithms, secret keys should be generated randomly as the security of the system depends on the key and therefore generation of random sequences is vital. Randomness testing is done by means of statistical randomness tests. In this work, we show that the probabilities for the overlapping template matching test in the NIST test suite are only valid for a specific template and need to be recalculated for the other templates. We calculate the exact distribution for all 4-bit templates and propose new randomness tests, namely template matching tests. The new tests can be applied to any sequence of minimum length 5504 whereas the overlapping template matching test in the NIST test suite can only be applied to sequences of minimum length 10(6). Moreover, we apply the proposed tests to biased nonrandom data and observe that the new tests detect the nonrandom behavior of the generator even for a bias of 0.001, whereas the template matching tests in NIST cannot detect that bias.

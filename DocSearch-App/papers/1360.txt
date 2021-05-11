@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Distributed computing guarantees to on a very basic level change the way we utilize PCs and get to and store our own specific and business data. With these new registering and correspondences models develop new data security challenges. Existing information security structures, for instance, encryption have fizzled in imagining information theft strikes, particularly those executed by an insider to the cloud supplier. We propose a substitute methodology for securing information in the cloud utilizing adversarial mimic improvement. We screen data access in the cloud and perceive unpredictable data access outlines. Right when unapproved access is suspected and after that confirmed using test questions, we dispatch a disinformation strike by giving back a considerable measure of fake information to the attacker. This secures against the misuse of the customer's real data. Trials coordinated in a neighbor-hood archive setting give confirmation this technique may give unprecedented levels of customer data security in a Cloud space.

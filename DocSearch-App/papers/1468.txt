@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Edge-preserving weighted median filtering is a fundamental operator in a great variety of image processing and computer graphics applications. This paper presents a novel real-time weighted median filter which effectively smoothes out high-frequency details while preserving major edges. We propose an edge-aware data structure, the 4-dimensional bilateral grid, by extending the 3-dimensional bilateral grid with an additional range dimension. The edge-aware weights and the weighted median values are computed in the 4-dimensional space. The proposed algorithm is highly parallel, enabling a real-time GPU-based implementation. Experimental results show that our filter can be run in real-time on modern GPUs. A variety of edge-aware applications, including detail enhancement, inverse halftoning, JPEG artifact removal, image stylization, photographic look transfer and image colorization, are demonstrated to verify the feasibility of the proposed weighted median filter. (C) 2016 Elsevier Ltd. All rights reserved.

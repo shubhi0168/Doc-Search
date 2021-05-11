@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+although the tendency towards a Semantic Web is increasing, the current Web is keen on more semantic data. There are several web application domains which need to present their data in the form of graphs to get information and knowledge to allow semantic web searching to deal with them. These domains can be for example geographic data, data in the area of bioinformatics, social networks or even corporate search engines. Most of these domains already store their data in relational database management systems which are not capable of being queried directly by semantic web applications. In this paper we will propose a semi-automated method to map the data from relational databases to RDF structures. This is true for both a single source database as well as different source databases. The results show a complexity of order n(2) where n is the number of records processed, when it comes to the performance in creating the output from mapping the relational database to RDF files.

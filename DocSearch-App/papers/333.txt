@@ -1,0 +1,5 @@
+CS 
+
+ Computer vision  
+
+Although quite recent as a forensic research domain, computer vision analysis of scenes is likely to become more and more important in the near future, thanks to its robustness to image alterations at the signal level, such as image compression and filtering. However, the experimental assessment of vision-based forensic algorithms is a particularly critical task, since they cannot be tested on massive amounts of data, and their performance can heavily depend on user skill. In this paper we investigate on the accuracy and reliability of a vision-based, user-supervised method for the estimation of the camera principal point, to be used in cropping and splicing detection. Results of an extensive experimental evaluation show how the estimation accuracy depends on perspective conditions as well as on the selected image features. Such evidence led us to define a novel visual feature, referred to as Minimum Vanishing Angle, which can be used to assess the reliability of the method. (C) 2016 Elsevier Inc. All rights reserved.

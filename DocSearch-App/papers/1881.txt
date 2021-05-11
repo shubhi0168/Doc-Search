@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Hydrological Dispersion Module (HDM) of JRODOS includes the chain of the models describing the washing out of the accidental deposition from the watersheds to rivernet and radionuclide transport in rivers and reservoirs. This modelling chain of HDM was renewed by the integration of two models. One- dimensional model RIVTOX_SV provides possibilities for the computing radionuclide transport in the branched river networks. Two-dimensional model for shallow reservoirs and river floodplains COASTOX_UN used algorithms of the parallel computing on the unstructured mesh of the finite volume method. The renewed modelling chain was tested for the sub-watersheds of the Danube river and the Dnieper river.

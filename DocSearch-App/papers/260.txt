@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Address-resolution protocol (ARP) is an important protocol of data link layers that aims to obtain the corresponding relationship between Internet Protocol (IP) and Media Access Control (MAC) addresses. Traditional ARPs (address-resolution and neighbor-discovery protocols) do not consider the existence of malicious nodes, which reveals destination addresses in the resolution process. Thus, these traditional protocols allow malicious nodes to easily carry out attacks, such as man-in-the-middle attack and denial-of-service attack. To overcome these weaknesses, we propose an anonymous-address-resolution (AS-AR) protocol. AS-AR does not publicize the destination address in the address-resolution process and hides the IP and MAC addresses of the source node. The malicious node cannot obtain the addresses of the destination and the node which initiates the address resolution; thus, it cannot attack. Analyses and experiments show that AS-AR has a higher security level than existing security methods, such as secure-neighbor discovery.

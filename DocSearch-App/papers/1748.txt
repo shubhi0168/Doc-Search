@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Given an initial assignment of processes to machines, the machine reassignment problem is to find an assignment that improves the machine usage, subject to several resource and allocation constraints, and considering reassignment costs. We propose a heuristic based on simulated annealing for solving this problem. It uses two neighborhoods, one that moves a process from one machine to another, and a second one that swaps two processes on different machines. We present data structures that permit to validate and execute a move in time where is the number of resources and the number of dependencies of the service the process belongs to. The heuristic runs with two different sets of parameters in parallel until a convergence criterion is satisfied. The machine reassignment problem was subject of the ROADEF/EURO challenge in 2012, and the proposed algorithm ranked fourth in the final round of the senior category of the competition.

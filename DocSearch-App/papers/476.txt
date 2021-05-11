@@ -1,0 +1,5 @@
+CS 
+
+ Operating systems  
+
+As one of the most developed intelligent operating systems on mobile devices, Android has taken the most part of the cell phone market. A rapid increase in the number of mobile applications make them more and more relevant to people's daily lives than ever before. Due to Android's security mechanism and the validation lack of publishing Android apps, Android malware detection still remains to be a critical issue. To solve this problem, this paper found that the statistical information of Android components (mainly activity) from the Manifest file cannot be ignored, based on the traditional method of Android permission detection. In this paper, a new feature vector is extracted from the AndroidManifest file, which combines the permission information and the component information of the Android application. We combine the naive Bias classification algorithm, and propose a malicious application detection method based on AndroidManifest file information. The experimental results show that the new method performance better than that of the traditional permission detection.

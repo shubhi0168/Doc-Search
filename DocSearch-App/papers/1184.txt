@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Currently, educational games are being developed to teach children the basics of computer programming. Research and design of such games is usually based on general learning theories. Yet, computer programming poses specific types of difficulties to novice programmers. Taking into account these particular characteristics and problems of computer programming as a learning content in the design of programming games could allow for producing games that are more suitable to the needs of novice programmers. This paper first reports on a novice programmer problems analysis, to gain insight into learners' specific difficulties. Then, a review of existing programming games is presented to investigate how and to which extent these games deal with specific programming problems. The results of these studies aim to contribute to the requirements and ideation phases of a programming game design process, thereby informing a learning content-driven design perspective.

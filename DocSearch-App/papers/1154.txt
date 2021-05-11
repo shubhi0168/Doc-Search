@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Cracks are formed during the drying process of spaghetti production, which reduces its commercial value and quality; hence, it is very important to detect the cracks during the manufacturing process of dried spaghetti. However, the presence of mottles, originating from wheat bran, hinders automatic identification of cracks. In this study, we developed a simple method to detect the cracks induced in spaghetti using a digital camera. The cracks and mottles were distinguished by pixelating the transmission light image of the spaghetti and analyzing the image based on the geometric characteristics in the histogram consisting of all the pixels. The method was able to detect the cracks induced in the spaghetti with a rough surface, which was prepared via a bronze die using vacuum extrusion molding, as well as those induced in the spaghetti with a smooth surface, which was prepared using a Teflon die.

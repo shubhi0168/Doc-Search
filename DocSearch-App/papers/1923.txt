@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Immersive multi-user virtual environments give good support for closely-coupled collaboration between co-located users. More complex collaborative tasks may require individual user navigation to achieve loosely-coupled collaboration. We designed a navigation framework based on the human joystick metaphor with some alterations for cohabitation management. This model allows each user to navigate independently using a human joystick based control while avoiding physical obstacles and staying within the usable part of the system. We conducted a series of user studies to investigate the influence of each alteration by testing their combinations on various navigation tasks. The results show that modified transfer functions and adaptive neutral orientations improve users' cohabitation performance, while the impact of adaptive neutral positions need to be further studied.

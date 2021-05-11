@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+As a technique for image segmentation, thresholding has been successfully utilized in various image processing tasks. In this paper, a novel generalized entropy, that can handle the additive/nonextensive information exist in physical system by a tunable entropic parameter r, is introduced in image segmentation. A new criterion for thresholding and algorithm based on this entropy are described in detail. The performance of the presented method is compared with the classical entropy-based thresholding methods and some state-of-the-art methods. Experiments on nondestructive testing images, infrared images, and some other real images are conducted. The experimental results show the effectiveness of the proposed method.

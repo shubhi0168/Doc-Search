@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Bertossi et al. proposed a data-cleaning technique based on matching dependences and matching functions, which is, in practice, intractable for some cases during the application of matching dependences in random orders. Moreover, the result of the application of a single matching dependence on a dirty database instance is a set of clean instances depending on the number of dirty tuples, which results a high computational overhead as well as large space requirement. The aim of this paper is to propose an improvement of the Bertossi's approach based on the Abstract Interpretation framework. This yields a single clean abstract database instance which is a sound approximation of all possible concrete clean instances. The convergence of the cleaning process can also be guaranteed by using widening operators in the abstract domain. The proposal improves significantly the efficiency and performance of the query systems w.r.t. the Bertossi's one.

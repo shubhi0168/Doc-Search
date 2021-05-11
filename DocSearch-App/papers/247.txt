@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Acting as a focus of network security field, Intrusion Detection Technology (IDT) plays a very important role in different conditions. Feature selection methods for intrusion detection directly affect the efficiency of Intrusion Detect System. In this paper, feature selection algorithm based on Relief and Relief Sequential Backward Search (Relief-SBS) is proposed under considering statistical correlation of Relief and Relief-SBS. The improved algorithm eliminates a feature after each round of iteration, and adopts the result of Relief algorithm as the assessment criteria for feature. Simulation results show that the proposed feature selection algorithm improves the efficiency of intrusion detection; moreover, it provides correlation technique support for IDT.

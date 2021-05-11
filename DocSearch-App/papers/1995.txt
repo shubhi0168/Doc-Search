@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+In gesture recognition systems, segmenting gestures from complex background is the hardest and the most critical part. Gesture segmentation is the prerequisite of following image processing, and the result of segmentation has a direct influence on the result of gesture recognition. This paper proposed an algorithm of adaptive threshold gesture segmentation based on skin color. First of all, the image should be transformed from RGB color space to YCbCr color space. After eliminating luminance component Y, similarity graph of skin color will be obtained from the Gaussian model. Then Otsu adaptive threshold algorithm is used to carry out binary processing for the similarity graph of skin color. After the segmentation of skin color regions, the morphology method is used to process binary image for determining the location of hands. Experimental results show that the detailed segmentation of skin color using the dynamic-adaptive threshold can improve noise resistance and can produce better results.

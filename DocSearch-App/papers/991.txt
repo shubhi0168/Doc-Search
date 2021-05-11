@@ -1,0 +1,5 @@
+CS 
+
+ Computer graphics  
+
+Computer graphics and image processing technologies for editing photographs taken by a user, and for photographic entertainment, have increased in recent years. One of these techniques, non-photorealistic rendering (NPR), is the focus of this study. In this study, we propose a method for applying David Hockneys photographic collage filtering on mobile devices by using several well-known computer graphics and image processing techniques. This process involves taking a sequence of images and extracting feature points, and using these feature points to deform an image. Finally, we obtain a photographic collage using the David Hockney style by generating a patchwork.

@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+A complete 3D visualization method for virtual liver lesion model was proposed by taking patients' abdomen CT slices as data source. Firstly, Gradient Vector Flow-Snake algorithm that combines with region force was adopted to fast and accurately extract the contour points in patients' CT slices. Then 3D cloud data of these contour points was simplified uniformly, and a distance-field-based method of distribution field fitting for B-spline surface was presented to fast establish the lesion model roughly. Then, an interactive node fine tuning method Interactive Marching Nodes was proposed, so the model can be optimized according to requirements of users. Finally, realistic lesion model was generated through texture mapping. Experiments suggest that this approach is suitable for various kinds of lesions with the whole process taking only a few minutes, and the generated model has high precision, which is of some significance in the study of virtual surgeries.

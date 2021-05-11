@@ -1,0 +1,5 @@
+CS 
+
+ Parallel computing  
+
+Automating fabric defect detection has a significant role in fabric industries. However, the existing fabric defect detection algorithms lack the real-time performance that is required in real applications due to their high demanding computation. To ensure real time, high accuracy and reliable fabric defect detection this paper developed a fast and parallel normalized cross-correlation algorithm based on summed-area table technique called PFDD-SAT. To meet real-time requirements, extensive use of the NVIDIA CUDA framework for Graphical Processing Unit (GPU) computing is made. The detailed implementation steps of the PFDD-SAT are illustrated in this paper. Several experiments have been carried out to evaluate the detection time and accuracy and then the robustness to illumination and Gaussian noises. The results show that the PFDD-SAT has robustness to noise and speeds the defect detection process more than 200 times than normal required time and that greatly met the needs for real-time automatic fabric defect detection.

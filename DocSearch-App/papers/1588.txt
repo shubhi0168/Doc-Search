@@ -1,0 +1,5 @@
+CS 
+
+ Computer programming  
+
+Failure to understand evolutionary dynamics has been hypothesized as limiting our ability to control biological systems. An increasing awareness of similarities between macroscopic ecosystems and cellular tissues has inspired optimism that game theory will provide insights into the progression and control of cancer. To realize this potential, the ability to compare game theoretic models and experimental measurements of population dynamics should be broadly disseminated. In this tutorial, we present an analysis method that can be used to train parameters in game theoretic dynamics equations, used to validate the resulting equations, and used to make predictions to challenge these equations and to design treatment strategies. The data analysis techniques in this tutorial are adapted from the analysis of reaction kinetics using the method of initial rates taught in undergraduate general chemistry courses. Reliance on computer programming is avoided to encourage the adoption of these methods as routine bench activities.

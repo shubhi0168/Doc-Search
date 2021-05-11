@@ -1,0 +1,5 @@
+CS 
+
+ Distributed computing  
+
+Data aggregation is recognized as a key method for reducing the amount of network traffic and the energy consumption on wireless sensor network nodes. Mobile agent (MA) technology represents a distributed computing paradigm which has been proposed as a means for increasing the energy efficiency of data aggregation tasks and addressing the scalability problems of centralized methods. Nevertheless, the itineraries followed by travelling MAs largely determine the overall performance of the data aggregation applications. Along this line, this article introduces a novel algorithmic approach for energy-efficient itinerary planning of MAs engaged in data aggregation tasks. Our algorithm adopts an iterated local search approach in deriving the hop sequence of multiple travelling MAs over the deployed source nodes. Simulation results demonstrate the performance gain of our method against existing multiple MA itinerary planning methods.

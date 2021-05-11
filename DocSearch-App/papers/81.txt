@@ -1,0 +1,5 @@
+CS 
+
+ Cryptography  
+
+A majority of RFID authentication scenarios involve a single tag that is identified independent of other tags in the field of the reader. However, there are situations that necessitate simultaneous authentication of multiple tags as well as the verification of their simultaneous physical proximity to the reader. Duels (2004) introduced yoking proof for simultaneous authentication of multiple RFID tags. Several researchers have since then developed variants of yoking proof using both symmetric and asymmetric cryptography. Given that the ambient conditions are bound to be very similar for all objects that are in close physical proximity to one another, we critically evaluate the use of various relevant ambient conditions for this purpose. Based on our evaluation, we choose to use tag temperature and develop a variant of yoking proof protocol for simultaneous authentication of multiple tags.(C) 2017 Elsevier B.V. All rights reserved.

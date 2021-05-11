@@ -1,0 +1,5 @@
+CS 
+
+ Machine learning  
+
+Accurate service-life prediction of structures is vital for taking appropriate measures in a time-and cost-effective manner. However, the conventional prediction models rely on simplified assumptions, leading to inaccurate estimations. The paper reviews the capability of machine learning in addressing the limitations of classical prediction models. This is due to its ability to capture the complex physical and chemical process of the deterioration mechanism. The paper also presents previous researches that proposed the applicability of machine learning in assisting durability assessment of reinforced concrete structures. The advantages of employing machine learning for durability and service-life assessment of reinforced Concrete structures are also discussed in detail. The growing trend of collecting more and more in-service data using wireless sensors facilitates the use of machine learning for durability and service-life assessment. The paper concludes by recommending the future directions based on examination of recent advances and current practices in this specific area. (C) 2017 Elsevier B.V. All rights reserved.

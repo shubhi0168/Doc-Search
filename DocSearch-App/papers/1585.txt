@@ -1,0 +1,5 @@
+CS 
+
+ Image processing  
+
+Factor analysis and target transformation techniques were applied to the Compact Reconnaissance Imaging Spectrometer for Mars (CRISM) spectral dataset to identify spectral endmembers, reduce noise, and automate image analysis. These techniques allow for rapid processing of images and identification of weak spectral signals. We have applied the automated technique to over 3000 CRISM images and successfully identified endmembers including phyllosilicates (e.g., serpentine, nontronite, and illite), sulfates (e.g., gypsum), carbonates (e.g., magnesite) and hydrated silica. To test these techniques, factor analysis and target transformation were applied to all available full spectral resolution covering the Nili Fossae region from 1.7 to 2. 6 mu m data to identify the occurrence of Mg-carbonate in the region. We have also applied the factor analysis and target transformation as a noise reduction algorithm, which also allows for improved results from other common image analysis techniques, including spectral ratios and index maps. (C) 2017 Elsevier Inc. All rights reserved.

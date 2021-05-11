@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+A randomized on-line algorithm is given for competitiveness less than 1901 against the previously best known competitiveness of IN uses a new approach and defines a potential in the 2-server problem on the line, with oblivious adversary. This improves the 155/78 approximate to 1.987 for the problem. The algorithm terms of isolation indices from T-theory. (C) 2015 Elsevier B.V. All rights reserved.

@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Firstly, we are given the security problems faced by a detailed analysis of the cognitive radio networks, and introduces the related basic cognitive radio network problems. Then, based on the difference between the cognitive radio network and the existing wireless network, which analyzes security and artificial intelligence, dynamic spectrum access and discussion. It concluded for the safety of cross-layer design.

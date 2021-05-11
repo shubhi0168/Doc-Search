@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Aiming at efficiently aware the network security situation, we proposed a framework of Network Security Situation Awareness on the base of Cloud Model. With network security situation elements at the core, we modified the Cloud Model to a novel concept, situation cloud, which act as theoretical foundation in the transition between the qualitative and quantitative representation on situation elements. Finally, the experimental results showed that these two kind of representations can directly summarize the security condition of network as well as precisely recognize the changes of situation elements.

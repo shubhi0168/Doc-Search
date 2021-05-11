@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+A sparse wireless sensor network for forest fire detection is considered. It is assumed that two types of malicious nodes can exist in this network. The malicious behaviors are assumed to be concealed through some statistical behavior. A lightweight centralized trust-based model is proposed to detect malicious or misbehaving nodes. We assume that all nodes contribute to this process through the gathering of statistical data related to communication with their neighbors. These data are periodically sent to a base station, where all trust functions are executed. A simulation model is built to evaluate system performance, and the results show that the proposed model is efficient in detecting all types of considered malicious nodes.

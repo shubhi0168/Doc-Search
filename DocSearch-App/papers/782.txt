@@ -1,0 +1,5 @@
+CS 
+
+ Relational databases  
+
+Big Data has recently gained popularity and has strongly questioned relational databases as universal storage systems, especially in the presence of analytical workloads. As result, co-relational alternatives, commonly known as NOSQL (Not Only SQL) databases, are extensively used for Big Data. As the primary focus of NOSQL is on performance, NOSQL databases are directly designed at the physical level, and consequently the resulting schema is tailored to the dataset and access patterns of the problem in hand. However, we believe that NOSQL design can also benefit from traditional design approaches. In this paper we present a method to design databases for analytical workloads. Starting from the conceptual model and adopting the classical 3-phase design used for relational databases, we propose a novel design method considering the new features brought by NOSQL and encompassing relational and co-relational design altogether.

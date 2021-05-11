@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Covert channel in network protocols has been an area absorbing great interests for many years in secret transmission. Recently, covert channels based on packet length have become a new preference among researchers in this field because of their excellent performance in simulating statistical features of network packets in real world. However, few approaches which can embed secret information with great security ensured has been worked out by so far. Therefore, in this paper, we analyze the traffic stream of UDP packets and several storage features of data files and then propose a novel network steganography scheme based on IP address and UDP packet length in order to overcome the drawbacks of existing schemes. A comprehensive set of corresponding experiment results show that the proposed covert channel follows the normal traffic statistical features well and thus ensures more security than that of the existing algorithms.

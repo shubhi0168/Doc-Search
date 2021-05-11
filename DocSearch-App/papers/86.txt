@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+A method for the computation of inverses of a given matrix is derived, based on the full-rank decomposition of an appropriate matrix . As a corollary, a new method considering the advantages of full-rank decomposition is developed. It is then specialized to the set of polynomial matrices. Therefore, an algorithm for efficient symbolic computation of inverses of a polynomial matrix is proposed. An additional diagonal matrix yields to avoiding the computation of entries containing square roots of polynomials, therefore increasing the algorithm's performances. Some implementation details and comparative processing times to other similar methods are provided, illustrating the algorithm's efficiency.

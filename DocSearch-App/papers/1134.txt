@@ -1,0 +1,5 @@
+CS 
+
+ Data structures  
+
+Conventional multilevel modeling works well with purely hierarchical data; however, pure hierarchies rarely exist in real datasets. Applied researchers employ ad hoc procedures to create purely hierarchical data. For example, applied educational researchers either delete mobile participants' data from the analysis or identify the student only with the last school attended while including an explanatory variable indicating whether a student is mobile. This simulation study compared the parameter and standard error estimates of these two ad hoc procedures for handling and assessing the influence of mobility on outcomes with results based on use of the multiple membership random effects model. Substantial bias was found for some parameters when multiple membership data structures were ignored.

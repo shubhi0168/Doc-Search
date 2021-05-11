@@ -1,0 +1,5 @@
+CS 
+
+ Algorithm design  
+
+Generalized spatial modulation (GSM) is a spectral and energy efficient multiple-input-multiple-output transmission technique. The low-complexity detection algorithm design with near maximum likelihood (ML) performance at the receiver is very challenging, and is the focus of this letter. In specific, we exploit the fixed sparsity constraint in the transmitted GSM signals, and take advantage of Bayesian compressive sensing (BCS) in sparse signal recovery. A new detection algorithm, referred to as enhanced Bayesian compressive sensing (EBCS), is proposed. It features more than 75% complexity reduction at high signal-tonoise ratios compared with the ordered-blocked minimum-meansquared-error algorithm. Furthermore, it is shown by simulation that its error performance is comparable to the ML algorithm, and the performance gap is negligible in many cases.

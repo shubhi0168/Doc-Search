@@ -1,0 +1,5 @@
+CS 
+
+ network security  
+
+Against multipoint eavesdropping attack in Elastic Optical Networks, new objective criterion, security strategy and extended routing and spectrum allocation algorithm is proposed The simulation results shows that better security guarantee and resource utilization are provided.

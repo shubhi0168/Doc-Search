@@ -1,0 +1,5 @@
+CS 
+
+ Symbolic computation  
+
+Computing deterministic performance guarantees is a defining issue for systems with hard real-time constraints, like reactive embedded systems. In this paper, we use burst-rate constrained arrivals and rate-latency servers to deduce tight worst-case delay bounds in tandem networks under arbitrary multiplexing. We present a constructive method for computing the exact worst-case delay, which we prove to be a linear function of the burstiness and latencies; our bounds are hence symbolic in these parameters. Our algorithm runs in quadratic time in the number of servers. We also present an application of our algorithm to the case of stochastic arrivals and server capacities. For a generalization of the exponentially bounded burstiness (EBB) model, we deduce a polynomial-time algorithm for stochastic delay bounds that strictly improve the state-of-the-art separated flow analysis (SPA) type bounds. (C) 2015 Elsevier B.V. All rights reserved.
